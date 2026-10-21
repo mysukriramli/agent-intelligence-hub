@@ -1,26 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-21T16:23:15.332566+00:00",
+    "generated_at": "2026-10-21T21:05:01.050215+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "Elevated error rates for gpt-5.6-luna API requests",
-          "status": "monitoring",
-          "impact": "minor"
-        },
-        {
-          "name": "Elevated FedRAMP API error rates for Astra and Sol",
-          "status": "identified",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
@@ -29,14 +18,8 @@
     },
     {
       "provider": "GitHub",
-      "overall_status": "Partially Degraded Service",
-      "active_incidents": [
-        {
-          "name": "Delays for Pull Requests and Webhook deliveries",
-          "status": "investigating",
-          "impact": "critical"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Cloudflare",
