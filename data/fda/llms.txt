@@ -1,0 +1,23 @@
+# openFDA Drug Enforcement & Recall Wire
+## Recent Medical Recalls
+
+- **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility:   Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility:  Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
+- **[Class II] Cipla USA, Inc.**: Failed Impurities/Degradation Specifications (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] J&J INNOVATIVE MEDICINE**: Presence of particulate matter. (Reported: 20261014)
+- **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility:  Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] Apothecary Pharma LLC**: Lack of Assurance of Sterility (Reported: 20261014)
+- **[Class II] Preferred Pharmaceuticals, Inc.**: Failed Content Uniformity Specifications (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class III] SUN PHARMACEUTICAL INDUSTRIES INC**: Failed Impurities/Degradation Specifications (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
+- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
+- **[Class III] SUN PHARMACEUTICAL INDUSTRIES INC**: Failed Impurities/Degradation Specifications (Reported: 20261014)

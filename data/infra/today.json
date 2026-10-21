@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-10-21T07:01:23.517067+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": [
+        {
+          "name": "Incorrect geo location for some Cloudflare WARP users",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
