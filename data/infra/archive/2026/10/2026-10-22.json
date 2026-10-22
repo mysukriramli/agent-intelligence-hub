@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-22T10:56:04.382458+00:00",
+    "generated_at": "2026-10-22T16:23:41.521572+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -18,19 +18,19 @@
     },
     {
       "provider": "GitHub",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Errors loading Issues, Pull Requests, and search results",
+          "status": "investigating",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": [
-        {
-          "name": "Incorrect geo location for some Cloudflare WARP users",
-          "status": "identified",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     }
   ]
 }
