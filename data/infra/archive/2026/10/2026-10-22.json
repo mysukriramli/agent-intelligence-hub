@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-22T02:43:28.978592+00:00",
+    "generated_at": "2026-10-22T10:56:04.382458+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
