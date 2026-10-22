@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-10-22T02:43:29.521689+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "chengze79/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-22T02:43:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Hualin3/ate-reward-qwen3-8b-supervised-listwise-v4-20261022",
+      "last_modified": "2026-10-22T02:43:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "NJSANTOS0416/dcpt-checkpoints",
+      "last_modified": "2026-10-22T02:43:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-dflash",
+      "last_modified": "2026-10-22T02:43:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "leary-poken/n-total",
+      "last_modified": "2026-10-22T02:43:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jgchaparro/Llama-Leonida-v2-GGUF",
+      "last_modified": "2026-10-22T02:43:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "jgchaparro/Llama-Leonida-v2",
+      "last_modified": "2026-10-22T02:43:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "jgchaparro/Llama-Leonida-v2-lora",
+      "last_modified": "2026-10-22T02:43:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "ijinyu1113/ft_mr8_410m_seed58_l3e-5w0.05_c6000s_nims50000_perm2_e25_initp2m3pre2k",
+      "last_modified": "2026-10-22T02:43:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mazesmazes/tiny-audio-granite-qwen-500",
+      "last_modified": "2026-10-22T02:42:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "codingsoftmx/test-ocr-public",
+      "last_modified": "2026-10-22T02:42:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hawalurahman/indobert-base-uncased-difficulty-q",
+      "last_modified": "2026-10-22T02:42:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "akhmedsakip/wstore-12",
+      "last_modified": "2026-10-22T02:42:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yang31210999/opd-lab-b300-pub",
+      "last_modified": "2026-10-22T02:42:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "gm700/gubupub",
+      "last_modified": "2026-10-22T02:42:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jordine/rlport-hkl_jordnm_s5_20261022_022022",
+      "last_modified": "2026-10-22T02:42:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "exiawsh/depth_completion",
+      "last_modified": "2026-10-22T02:42:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sahilSpit/checkpoints",
+      "last_modified": "2026-10-22T02:42:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-22T02:42:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jordine/rlport-hkl_jord9v_glr3e5_s4_20261022_021042",
+      "last_modified": "2026-10-22T02:42:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "darshil16/stock-models",
+      "last_modified": "2026-10-22T02:42:29.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eexian/gemma4-31b-w4-weighted-reasoning-lora",
+      "last_modified": "2026-10-22T02:42:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "loolooch/ch",
+      "last_modified": "2026-10-22T02:42:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "RL-Forgetting-Experiments-3/filtered-sft-20261019-qwen3b-math-replay-hard",
+      "last_modified": "2026-10-22T02:42:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "qweqwqw113/GS-qwen3.8-27B-V2-tulu-commitpackft-compelete",
+      "last_modified": "2026-10-22T02:42:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

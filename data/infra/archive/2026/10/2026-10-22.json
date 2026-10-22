@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-10-22T02:43:28.978592+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "Partial System Degradation",
+      "active_incidents": [
+        {
+          "name": "ChatGPT conversion failures in India, Japan and Korea. And Response API errors",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": [
+        {
+          "name": "Incorrect geo location for some Cloudflare WARP users",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
