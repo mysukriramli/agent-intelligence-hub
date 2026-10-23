@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-23T10:48:02.317153+00:00",
+    "generated_at": "2026-10-23T16:12:36.765588+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -19,12 +19,29 @@
     {
       "provider": "GitHub",
       "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "active_incidents": [
+        {
+          "name": "Disruption with Dependabot Alerts",
+          "status": "investigating",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": []
+      "active_incidents": [
+        {
+          "name": "Network connectivity issues affecting services in North America",
+          "status": "identified",
+          "impact": "major"
+        },
+        {
+          "name": "Delayed, missed, and duplicated Workers Cron Triggers",
+          "status": "investigating",
+          "impact": "critical"
+        }
+      ]
     }
   ]
 }
