@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-23T16:12:37.386469+00:00",
+    "generated_at": "2026-10-23T20:50:42.340709+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "abdukuzi45/qwen3.5-4b-amharic-final-trained-v5-checkpoints",
-      "last_modified": "2026-10-23T16:12:36.000Z",
+      "model_id": "CyanMonkey/TestSubject-1S",
+      "last_modified": "2026-10-23T20:50:32.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "the-big-juice/val_krea_2_questionable",
-      "last_modified": "2026-10-23T16:12:35.000Z",
+      "model_id": "jpatel24/Lora1",
+      "last_modified": "2026-10-23T20:50:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AMD-PAVS-AI/deeplabv3",
-      "last_modified": "2026-10-23T16:12:32.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "image-segmentation"
-    },
-    {
-      "model_id": "Buattensorart2/ostris_fibo_loras_nami",
-      "last_modified": "2026-10-23T16:12:31.000Z",
+      "model_id": "iRx/Swift-Bonsai-2-27B-PQ2-MTP-DFlash2-NInfer-v3",
+      "last_modified": "2026-10-23T20:50:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "iRx/Swift-Bonsai-2-27B-PQ2-MTP-NInfer-v3",
+      "last_modified": "2026-10-23T20:50:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "akhmedsakip/wstore-20",
+      "last_modified": "2026-10-23T20:50:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "bluevoid-pl/Muse-Glimmer-30B-pruned-V2-en-pl-GGUF",
+      "last_modified": "2026-10-23T20:50:22.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mikekeror/qwen2.5-7b-advocate-sft-lora-ep1",
+      "last_modified": "2026-10-23T20:50:17.000Z",
+      "likes": 0,
+      "downloads": 13,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "LiquidAI/LFM2.5-2.6B",
+      "last_modified": "2026-10-23T20:50:16.000Z",
+      "likes": 849,
+      "downloads": 96613,
+      "pipeline_tag": "text-generation"
     },
     {
       "model_id": "eltag-labs/nova-gpt-50m",
-      "last_modified": "2026-10-23T16:12:30.000Z",
+      "last_modified": "2026-10-23T20:50:15.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Niehen6174/Hy-Nomas-overlay",
-      "last_modified": "2026-10-23T16:12:27.000Z",
+      "model_id": "khazic/veladraft-qwen36-400k-dflash",
+      "last_modified": "2026-10-23T20:50:15.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "zelk12/BenchPack_for_BenchLocal",
-      "last_modified": "2026-10-23T16:12:25.000Z",
+      "model_id": "mphd1/pythia-1.4b_dollygeneral_student",
+      "last_modified": "2026-10-23T20:50:15.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DreamBlooms/JAD-S1-7B-A1B-v0.1",
-      "last_modified": "2026-10-23T16:12:19.000Z",
-      "likes": 0,
-      "downloads": 95,
-      "pipeline_tag": "multiple-choice"
+      "model_id": "k2-fsa/sherpa-onnx-zipformer-gigaspeech-2023-12-12",
+      "last_modified": "2026-10-23T20:50:12.000Z",
+      "likes": 4,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Asilarkness/grow3d-runs",
-      "last_modified": "2026-10-23T16:12:19.000Z",
+      "model_id": "Vidclip/Shahajjo",
+      "last_modified": "2026-10-23T20:50:11.000Z",
+      "likes": 0,
+      "downloads": 321,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yamalies/MIX03-01-teutonic-II-110B-A7B-plum",
+      "last_modified": "2026-10-23T20:50:11.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Juansubas/tass-xlm-roberta-large",
-      "last_modified": "2026-10-23T16:12:16.000Z",
+      "model_id": "omaedn/relaion-coyo-100m-text-to-image-v3",
+      "last_modified": "2026-10-23T20:50:02.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "15B30/CkEGQRSsAvLDly3m",
+      "last_modified": "2026-10-23T20:49:58.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ReadyArt/Wicked-Stuff-26B-A4B-v2.0-Final-LORA",
-      "last_modified": "2026-10-23T16:12:12.000Z",
+      "model_id": "Jongbin-kr/exaone-luna-medium-fullft-sft-r20-e15-lr5e-6-seed42-20261021",
+      "last_modified": "2026-10-23T20:49:48.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "aklein4/oloop-instruct_forte-square",
-      "last_modified": "2026-10-23T16:12:09.000Z",
+      "model_id": "ctxnn1/loss-lab-ce-brier",
+      "last_modified": "2026-10-23T20:49:43.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "akhmedsakip/wstore-18",
-      "last_modified": "2026-10-23T16:12:04.000Z",
+      "model_id": "attacker8324/tn2",
+      "last_modified": "2026-10-23T20:49:34.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "quandao10/looptrans-looped_5x4_infiloop",
-      "last_modified": "2026-10-23T16:12:03.000Z",
+      "model_id": "KairSun/kairsun-270m",
+      "last_modified": "2026-10-23T20:49:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mradermacher/SpaceQA-gpt-oss-20b-i1-GGUF",
-      "last_modified": "2026-10-23T16:12:03.000Z",
-      "likes": 0,
+      "model_id": "4tyzap/FluxUltimateBimbo",
+      "last_modified": "2026-10-23T20:49:26.000Z",
+      "likes": 3,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ctcheung/microduck-roller-sprint-2m-run-1023-0356",
-      "last_modified": "2026-10-23T16:11:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "robotics"
-    },
-    {
-      "model_id": "electroglyph/LFM2.5-24B-A2B-uncensored3",
-      "last_modified": "2026-10-23T16:11:43.000Z",
+      "model_id": "Davidwang215/DFlow",
+      "last_modified": "2026-10-23T20:49:26.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "leary-poken/q-total",
-      "last_modified": "2026-10-23T16:11:32.000Z",
-      "likes": 0,
+      "model_id": "samy232381s/simsoum-250m",
+      "last_modified": "2026-10-23T20:49:25.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "juergengunz/fluxer",
-      "last_modified": "2026-10-23T16:11:28.000Z",
-      "likes": 13,
-      "downloads": 0,
+      "model_id": "L-Alchemyst/Step-5-Preview-GGUF",
+      "last_modified": "2026-10-23T20:49:21.000Z",
+      "likes": 6,
+      "downloads": 2744,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Jamie-76/Kon",
-      "last_modified": "2026-10-23T16:11:23.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "safaf45252/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-10-23T16:11:22.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SlayerLab/Slayer1B-1.00-checkpoints",
-      "last_modified": "2026-10-23T16:11:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "projectcog/forest-well-3d",
-      "last_modified": "2026-10-23T16:11:14.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mhseo2/opd_mmopd4b_ot3_2ep_qwen3_32b_ot3math_k1500-step30",
-      "last_modified": "2026-10-23T16:11:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "khtsly/g",
-      "last_modified": "2026-10-23T16:10:53.000Z",
+      "model_id": "gassser/ago-gpt-oss-20b-stem",
+      "last_modified": "2026-10-23T20:49:20.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
