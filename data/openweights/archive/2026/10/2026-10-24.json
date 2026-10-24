@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-10-24T02:44:41.261801+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "nurida-senior/my-comfyui-models",
+      "last_modified": "2026-10-24T02:44:35.000Z",
+      "likes": 0,
+      "downloads": 21,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-24T02:44:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "serzhserg98/ct2-mt-q4",
+      "last_modified": "2026-10-24T02:44:23.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "Supernova11c/Supernova-NepaliFast-V5",
+      "last_modified": "2026-10-24T02:44:12.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "quandao10/looptrans-looped_5x4_infiloop",
+      "last_modified": "2026-10-24T02:44:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "frankmorales2020/nemotron-3.5-bolt-e4b-topo-governed-fineweb",
+      "last_modified": "2026-10-24T02:43:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Trank123/Sound50K",
+      "last_modified": "2026-10-24T02:43:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yuruny/asyncrl-async_s5_mb8_grpg_shift0p02_truncneg1_b0-gs40",
+      "last_modified": "2026-10-24T02:43:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuan244/asyncrl-tir_nt16k_kimi_q17b_polaris_d16_t1-gs100",
+      "last_modified": "2026-10-24T02:43:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "RyanYr/asyncrl-async_s5_mb8_grpg_shift0p02_truncneg1_b0-gs20",
+      "last_modified": "2026-10-24T02:43:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "burner22/numbat",
+      "last_modified": "2026-10-24T02:43:42.000Z",
+      "likes": 1,
+      "downloads": 3966,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "gavinbrow/granite-4.2-8b-msvc2008-decomp-lora",
+      "last_modified": "2026-10-24T02:43:35.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "attacker8324/mrev",
+      "last_modified": "2026-10-24T02:43:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Nonene/sdxl_models",
+      "last_modified": "2026-10-24T02:43:27.000Z",
+      "likes": 17,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "samy232381s/simsoum-250m",
+      "last_modified": "2026-10-24T02:43:08.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Ro551/opus-mt-es-en-GEC-spanish-cowsl2h-exp",
+      "last_modified": "2026-10-24T02:43:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen3vl8b-200k-dfly",
+      "last_modified": "2026-10-24T02:42:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sulabhkatiyar/indic-tts-mini-train",
+      "last_modified": "2026-10-24T02:42:51.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-jetspec",
+      "last_modified": "2026-10-24T02:42:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ApocalypseParty/G4-31B-Style-r1-DPO-c30-gguf",
+      "last_modified": "2026-10-24T02:42:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-domino",
+      "last_modified": "2026-10-24T02:42:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-dflare",
+      "last_modified": "2026-10-24T02:42:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-dspark",
+      "last_modified": "2026-10-24T02:42:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-dflash2",
+      "last_modified": "2026-10-24T02:42:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/veladraft-qwen36-400k-dfly",
+      "last_modified": "2026-10-24T02:42:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

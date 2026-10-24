@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-10-24T02:44:40.782571+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": [
+        {
+          "name": "Network Performance Issues in Ashburn",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
