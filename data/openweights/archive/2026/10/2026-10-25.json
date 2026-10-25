@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-25T02:34:43.036911+00:00",
+    "generated_at": "2026-10-25T10:28:54.957154+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "QWER123951/Qwen3.8-Flash-Next-abliterated-GSQ-RCO-Strata-GGUF",
-      "last_modified": "2026-10-25T02:34:41.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "0145821A/5024614",
-      "last_modified": "2026-10-25T02:34:39.000Z",
+      "model_id": "Masnuy/itr-zi-u2-1019-88e91b4b-ship",
+      "last_modified": "2026-10-25T10:28:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Linslab/ManiLadder_PI05_Models",
-      "last_modified": "2026-10-25T02:34:36.000Z",
+      "model_id": "lillyai1987/backup",
+      "last_modified": "2026-10-25T10:28:51.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MayorChris/xlnet-large-cased-batch32-tass-finetuned-2026",
-      "last_modified": "2026-10-25T02:34:32.000Z",
+      "model_id": "mradermacher/Qwen3.5-9B-CuteHuman-GGUF",
+      "last_modified": "2026-10-25T10:28:51.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "pentacoxian-dev/DeepSeek-V4.1-1017-Ablitrated-Efficient",
-      "last_modified": "2026-10-25T02:34:26.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "Joseph1234222/humanizer",
-      "last_modified": "2026-10-25T02:34:19.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "ZariahKace/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-10-25T02:34:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "feature-extraction"
-    },
-    {
-      "model_id": "weathon/anti-design-grpo-runs",
-      "last_modified": "2026-10-25T02:34:17.000Z",
+      "model_id": "daruokta/bifocalgemma-v2-e4b-it",
+      "last_modified": "2026-10-25T10:28:47.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DavidAU/Qwen3.8-31B-Looping-Transformer-Ablit-Heretic-ARA-Uncensored",
-      "last_modified": "2026-10-25T02:34:13.000Z",
-      "likes": 17,
-      "downloads": 2,
-      "pipeline_tag": "image-text-to-text"
+      "model_id": "mradermacher/Qwen3.6-35B-A3B-Aether-GGUF",
+      "last_modified": "2026-10-25T10:28:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Ashmeet21/gurbani-kirtan-model",
-      "last_modified": "2026-10-25T02:34:07.000Z",
+      "model_id": "mradermacher/Qwen3.5-4B-Anon-Reasoning-v2-GGUF",
+      "last_modified": "2026-10-25T10:28:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "g-connito/co-archive",
+      "last_modified": "2026-10-25T10:28:42.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AnhVietnam/Adobe",
+      "last_modified": "2026-10-25T10:28:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rizzo2/cyc",
+      "last_modified": "2026-10-25T10:28:41.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "waihongteh/m-0039",
+      "last_modified": "2026-10-25T10:28:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "g-connito/co",
+      "last_modified": "2026-10-25T10:28:36.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hamlab-princeton/wikispeedia-checkpoints-2026-10",
+      "last_modified": "2026-10-25T10:28:34.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "mahwizzzz/Urdu-Streaming-Zipformer-20M",
+      "last_modified": "2026-10-25T10:28:33.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "automatic-speech-recognition"
     },
     {
-      "model_id": "Jordansky/j257374cfd257",
-      "last_modified": "2026-10-25T02:33:59.000Z",
+      "model_id": "misapapa71/model-arisa-krea2",
+      "last_modified": "2026-10-25T10:28:33.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "15A7/5W3DmO6IbV4zdRdf",
-      "last_modified": "2026-10-25T02:33:58.000Z",
+      "model_id": "kprzyb/PolDense-1B-GGUF",
+      "last_modified": "2026-10-25T10:28:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AI999X/geospatial-analytics-ai999x",
-      "last_modified": "2026-10-25T02:33:52.000Z",
+      "model_id": "kprzyb/PolDense-400M-GGUF",
+      "last_modified": "2026-10-25T10:28:25.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "sentence-similarity"
     },
     {
-      "model_id": "AI999X/economics-finance-ai999x",
-      "last_modified": "2026-10-25T02:33:51.000Z",
-      "likes": 0,
+      "model_id": "lamsheeper-data-attribution/mt5-small-ftrace-retrain",
+      "last_modified": "2026-10-25T10:28:20.000Z",
+      "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AI999X/nuclear-engineering-ai999x",
-      "last_modified": "2026-10-25T02:33:50.000Z",
+      "model_id": "daominhwysi/sealior-modernbert-vi-exam-seq-labeling",
+      "last_modified": "2026-10-25T10:28:16.000Z",
       "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "downloads": 4,
+      "pipeline_tag": "token-classification"
     },
     {
-      "model_id": "AI999X/computational-biology-ai999x",
-      "last_modified": "2026-10-25T02:33:50.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "question-answering"
-    },
-    {
-      "model_id": "AI999X/chemical-engineering-ai999x",
-      "last_modified": "2026-10-25T02:33:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "question-answering"
-    },
-    {
-      "model_id": "AI999X/energy-systems-ai999x",
-      "last_modified": "2026-10-25T02:33:48.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "question-answering"
-    },
-    {
-      "model_id": "AI999X/signal-processing-ai999x",
-      "last_modified": "2026-10-25T02:33:47.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "question-answering"
-    },
-    {
-      "model_id": "Asilarkness/grow3d-runs",
-      "last_modified": "2026-10-25T02:33:46.000Z",
+      "model_id": "jurindeepdb/crime_prediction",
+      "last_modified": "2026-10-25T10:28:14.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AI999X/electrical-engineering-ai999x",
-      "last_modified": "2026-10-25T02:33:46.000Z",
+      "model_id": "OliviaRossi/Qwen35-35B-A3B-Triad-SCKT",
+      "last_modified": "2026-10-25T10:28:11.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "AI999X/thermofluids-ai999x",
-      "last_modified": "2026-10-25T02:33:45.000Z",
+      "model_id": "ngqtrung/Qwen3.5-9B-MOPD-SFT-imgp",
+      "last_modified": "2026-10-25T10:28:03.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "AI999X/aerospace-engineering-ai999x",
-      "last_modified": "2026-10-25T02:33:45.000Z",
-      "likes": 0,
+      "model_id": "omaedn/relaion-coyo-100m-text-to-image-v3",
+      "last_modified": "2026-10-25T10:28:01.000Z",
+      "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "eltag-labs/nova-gpt-50m",
-      "last_modified": "2026-10-25T02:33:44.000Z",
+      "model_id": "t8star/Hi3d-Comfy",
+      "last_modified": "2026-10-25T10:28:00.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "image-to-3d"
+    },
+    {
+      "model_id": "armaghanmaganmoemeni/d57bf8",
+      "last_modified": "2026-10-25T10:27:58.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AI999X/civil-engineering-ai999x",
-      "last_modified": "2026-10-25T02:33:44.000Z",
+      "model_id": "ngqtrung/Qwen3.5-9B-MOPD-SFT-imgr",
+      "last_modified": "2026-10-25T10:27:58.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "question-answering"
+      "pipeline_tag": "image-text-to-text"
     }
   ]
 }
