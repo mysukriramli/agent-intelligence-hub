@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "domain": "security",
+    "generated_at": "2026-10-25T02:34:41.877474+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "vulnerabilities": [
+    {
+      "cve_id": "CVE-2020-29583",
+      "vendor": "Zyxel",
+      "product": "Multiple Products",
+      "vulnerability_name": "Zyxel Multiple Products Use of Hard-Coded Credentials Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2019-8394",
+      "vendor": "Zoho",
+      "product": "ManageEngine",
+      "vulnerability_name": "Zoho ManageEngine ServiceDesk Plus (SDP) File Upload Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-10189",
+      "vendor": "Zoho",
+      "product": "ManageEngine",
+      "vulnerability_name": "Zoho ManageEngine Desktop Central File Upload Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2021-40539",
+      "vendor": "Zoho",
+      "product": "ManageEngine",
+      "vulnerability_name": "Zoho ManageEngine ADSelfService Plus Authentication Bypass Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2021-27561",
+      "vendor": "Yealink",
+      "product": "Device Management",
+      "vulnerability_name": "Yealink Device Management Server-Side Request Forgery (SSRF) Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2019-9978",
+      "vendor": "WordPress",
+      "product": "Social Warfare Plugin",
+      "vulnerability_name": "WordPress Social Warfare Plugin Cross-Site Scripting (XSS) Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-11738",
+      "vendor": "WordPress",
+      "product": "Snap Creek Duplicator Plugin",
+      "vulnerability_name": "WordPress Snap Creek Duplicator Plugin File Download Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-25213",
+      "vendor": "WordPress",
+      "product": "File Manager Plugin",
+      "vulnerability_name": "WordPress File Manager Plugin Remote Code Execution Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-4006",
+      "vendor": "VMware",
+      "product": "Multiple Products",
+      "vulnerability_name": "Multiple VMware Products Command Injection Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2021-21985",
+      "vendor": "VMware",
+      "product": "vCenter Server",
+      "vulnerability_name": "VMware vCenter Server Improper Input Validation Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2021-21972",
+      "vendor": "VMware",
+      "product": "vCenter Server",
+      "vulnerability_name": "VMware vCenter Server Remote Code Execution Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2020-3952",
+      "vendor": "VMware",
+      "product": "vCenter Server",
+      "vulnerability_name": "VMware vCenter Server Information Disclosure Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2021-22005",
+      "vendor": "VMware",
+      "product": "vCenter Server",
+      "vulnerability_name": "VMware vCenter Server File Upload Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2020-3950",
+      "vendor": "VMware",
+      "product": "Multiple Products",
+      "vulnerability_name": "VMware Multiple Products Privilege Escalation Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-3992",
+      "vendor": "VMware",
+      "product": "ESXi",
+      "vulnerability_name": "VMware ESXi OpenSLP Use-After-Free Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2019-5544",
+      "vendor": "VMware",
+      "product": "VMware ESXi and Horizon DaaS",
+      "vulnerability_name": "VMware ESXi and Horizon DaaS OpenSLP Heap-Based Buffer Overflow Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Known"
+    },
+    {
+      "cve_id": "CVE-2020-17496",
+      "vendor": "vBulletin",
+      "product": "vBulletin",
+      "vulnerability_name": "vBulletin PHP Module Remote Code Execution Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2019-16759",
+      "vendor": "vBulletin",
+      "product": "vBulletin",
+      "vulnerability_name": "vBulletin PHP Module Remote Code Execution Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-5847",
+      "vendor": "Unraid",
+      "product": "Unraid",
+      "vulnerability_name": "Unraid Remote Code Execution Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-5849",
+      "vendor": "Unraid",
+      "product": "Unraid",
+      "vulnerability_name": "Unraid Authentication Bypass Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2019-20085",
+      "vendor": "TVT",
+      "product": "NVMS-1000",
+      "vulnerability_name": "TVT NVMS-1000 Directory Traversal Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2021-36741",
+      "vendor": "Trend Micro",
+      "product": "Apex One, Apex One as a Service, and Worry-Free Business Security",
+      "vulnerability_name": "Trend Micro Multiple Products Improper Input Validation Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2021-36742",
+      "vendor": "Trend Micro",
+      "product": "Apex One, Apex One as a Service, and Worry-Free Business Security",
+      "vulnerability_name": "Trend Micro Multiple Products Improper Input Validation Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-8599",
+      "vendor": "Trend Micro",
+      "product": "Apex One and OfficeScan",
+      "vulnerability_name": "Trend Micro Apex One and OfficeScan Authentication Bypass Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    },
+    {
+      "cve_id": "CVE-2020-24557",
+      "vendor": "Trend Micro",
+      "product": "Apex One, OfficeScan, and Worry-Free Business Security",
+      "vulnerability_name": "Trend Micro Multiple Products Improper Access Control Vulnerability",
+      "date_added": "2021-11-03",
+      "action": "Apply updates per vendor instructions.",
+      "ransomware": "Unknown"
+    }
+  ]
+}
