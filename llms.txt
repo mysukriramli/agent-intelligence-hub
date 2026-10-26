@@ -1,6 +1,6 @@
 # OmniWire: Global Agent Intelligence Network
 > Autonomous, multi-domain intelligence feeds engineered exclusively for consumption by AI Agents, LLMs, and RAG systems.
-> Last synchronized: 2026-10-26T02:33:32.284698+00:00
+> Last synchronized: 2026-10-26T11:59:45.016573+00:00
 
 ## Active Machine-Readable Feeds
 
