@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-10-26T02:33:32.282962+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "yuuu94/GraphVLA-V7-31527",
+      "last_modified": "2026-10-26T02:33:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuanuw/asyncrl-tir_nt32k_nokl_q17b_polaris_d16_t1-gs20",
+      "last_modified": "2026-10-26T02:33:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/MedLLaMA-13B-CPT-GGUF",
+      "last_modified": "2026-10-26T02:33:25.000Z",
+      "likes": 0,
+      "downloads": 318,
+      "pipeline_tag": "question-answering"
+    },
+    {
+      "model_id": "kdumicro/micro-agent-qwen2.5-1.5b-mercury",
+      "last_modified": "2026-10-26T02:33:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "umiyosh/modernbert-ja-130m-homophone-scorer",
+      "last_modified": "2026-10-26T02:33:11.000Z",
+      "likes": 0,
+      "downloads": 22,
+      "pipeline_tag": "fill-mask"
+    },
+    {
+      "model_id": "TUaxhuiax/auroralm-release-huggingface-upload-33-k7m2q9",
+      "last_modified": "2026-10-26T02:33:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "amalia-llm/saudade-9b-sft",
+      "last_modified": "2026-10-26T02:33:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "mradermacher/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+      "last_modified": "2026-10-26T02:32:54.000Z",
+      "likes": 33,
+      "downloads": 2870,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "BeaverAI/Castor-E4B-v1b-GGUF",
+      "last_modified": "2026-10-26T02:32:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Luni/Nanbeige-4.3-33B-Heretic-GGUF",
+      "last_modified": "2026-10-26T02:32:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Teddooo/MinMxhairy",
+      "last_modified": "2026-10-26T02:32:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nm-testing/w8a8_static_asym-e2e",
+      "last_modified": "2026-10-26T02:32:33.000Z",
+      "likes": 0,
+      "downloads": 281,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "KhangTruong/diffusion-diff-minimized-512-fpn",
+      "last_modified": "2026-10-26T02:32:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/XORTRON.CriminalComputing.Qwen3.5-27B-Claude-Opus-4.6-Distill-darkc0de-heretic-GGUF",
+      "last_modified": "2026-10-26T02:32:32.000Z",
+      "likes": 0,
+      "downloads": 80,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "netbiolab/MetacellFormer-SC",
+      "last_modified": "2026-10-26T02:32:25.000Z",
+      "likes": 0,
+      "downloads": 9,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Deimos-A4-4B-GGUF",
+      "last_modified": "2026-10-26T02:32:23.000Z",
+      "likes": 1,
+      "downloads": 156,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "netbiolab/MetacellFormer",
+      "last_modified": "2026-10-26T02:32:23.000Z",
+      "likes": 0,
+      "downloads": 12,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "cyttic/exp39-ctc-human10bi-hhdgeom-llmgen-10k",
+      "last_modified": "2026-10-26T02:32:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/LanteRn-3B-SFT-GGUF",
+      "last_modified": "2026-10-26T02:32:19.000Z",
+      "likes": 1,
+      "downloads": 126,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/HEQ4-2.5.5-GGUF",
+      "last_modified": "2026-10-26T02:32:11.000Z",
+      "likes": 0,
+      "downloads": 45,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Omega-Arsenal-31B-Final-i1-GGUF",
+      "last_modified": "2026-10-26T02:32:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Fundus-R1-7B-GGUF",
+      "last_modified": "2026-10-26T02:32:06.000Z",
+      "likes": 0,
+      "downloads": 483,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuanuw/asyncrl-tir_nt32k_nokl_q17b_polaris_d16_t1-gs40",
+      "last_modified": "2026-10-26T02:32:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/AdaFact-3B-GGUF",
+      "last_modified": "2026-10-26T02:32:01.000Z",
+      "likes": 1,
+      "downloads": 59,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Qwen3.5-4B-MicroCoder-GGUF",
+      "last_modified": "2026-10-26T02:31:56.000Z",
+      "likes": 0,
+      "downloads": 294,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
