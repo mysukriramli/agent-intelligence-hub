@@ -1,6 +1,11 @@
 # openFDA Drug Enforcement & Recall Wire
 ## Recent Medical Recalls
 
+- **[Class II] Houston Rx LLC**: Lack of process control (Reported: 20261021)
+- **[Class II] Teva Pharmaceuticals USA, Inc**: Presence of Foreign Tablets/Capsules (Reported: 20261021)
+- **[Class II] American Health Packaging**: Presence of Foreign Tablets/Capsules (Reported: 20261021)
+- **[Class II] Zydus Pharmaceuticals (USA) Inc**: Failed Impurities/Degradation Specifications. (Reported: 20261021)
+- **[Class II] Houston Rx LLC**: Lack of assurance of sterility. (Reported: 20261021)
 - **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
 - **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility:   Related to processing equipment used in compounded product. (Reported: 20261014)
 - **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
@@ -16,8 +21,3 @@
 - **[Class II] Apothecary Pharma LLC**: Lack of Assurance of Sterility (Reported: 20261014)
 - **[Class II] Preferred Pharmaceuticals, Inc.**: Failed Content Uniformity Specifications (Reported: 20261014)
 - **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
-- **[Class III] SUN PHARMACEUTICAL INDUSTRIES INC**: Failed Impurities/Degradation Specifications (Reported: 20261014)
-- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
-- **[Class II] K.C. Pharmaceuticals, Inc.**: Lack of Assurance of Sterility (Reported: 20261014)
-- **[Class II] Carolina Infusion, LLC**: Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product. (Reported: 20261014)
-- **[Class III] SUN PHARMACEUTICAL INDUSTRIES INC**: Failed Impurities/Degradation Specifications (Reported: 20261014)

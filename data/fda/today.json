@@ -1,11 +1,51 @@
 {
   "metadata": {
     "domain": "fda",
-    "generated_at": "2026-10-26T18:32:27.579398+00:00",
+    "generated_at": "2026-10-27T03:08:23.905614+00:00",
     "total_items": 20,
     "schema_version": "1.0.0"
   },
   "recalls": [
+    {
+      "recall_number": "D-0041-2027",
+      "recalling_firm": "Houston Rx LLC",
+      "product_description": "Sermorelin, 1 mg/mL, 10 ml vial, Sterile injectable solution, RX Only, Houston RX LLC, 15430 Vantage Parkway E STE 220, Houston, TX 77032.",
+      "reason_for_recall": "Lack of process control",
+      "classification": "Class II",
+      "report_date": "20261021"
+    },
+    {
+      "recall_number": "D-0038-2027",
+      "recalling_firm": "Teva Pharmaceuticals USA, Inc",
+      "product_description": "Metoclopramide Tablets, USP, 5 mg, [100 or 500] Tablets per bottle, Rx Only, Manufactured for: Teva Pharmaceuticals, Parsippany, NJ 07054.  NDC 100 Tablets: 0093-2204-01; NDC 500 Tablets: 0093-2204-05",
+      "reason_for_recall": "Presence of Foreign Tablets/Capsules",
+      "classification": "Class II",
+      "report_date": "20261021"
+    },
+    {
+      "recall_number": "D-0042-2027",
+      "recalling_firm": "American Health Packaging",
+      "product_description": "Metoclopramide Tablets, USP, 5 mg, 100 Tablets (10 x 10), Rx Only, Distributed by: American Health Packaging, Columbus, Ohio 43217.  NDC Carton: 60687-620-01; NDC Unit Dose: 60687-620-11",
+      "reason_for_recall": "Presence of Foreign Tablets/Capsules",
+      "classification": "Class II",
+      "report_date": "20261021"
+    },
+    {
+      "recall_number": "D-0039-2027",
+      "recalling_firm": "Zydus Pharmaceuticals (USA) Inc",
+      "product_description": "Hydrocortisone Sodium Succinate for Injection, USP 100 mg/vial, 1 Vial, Rx Only, Manufactured by: Zydus Lifesciences Ltd., Vadodara - 391510 India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534, NDC 70710-1907-1.",
+      "reason_for_recall": "Failed Impurities/Degradation Specifications.",
+      "classification": "Class II",
+      "report_date": "20261021"
+    },
+    {
+      "recall_number": "D-0040-2027",
+      "recalling_firm": "Houston Rx LLC",
+      "product_description": "Tirzepatide/Niacinamide 2mL vial (40 MG per Vial) Inj 20mg/2mg/mL, RX Only, Houston RX LLC, 15430 Vantage Parkway E STE 220, Houston, TX 77032.",
+      "reason_for_recall": "Lack of assurance of sterility.",
+      "classification": "Class II",
+      "report_date": "20261021"
+    },
     {
       "recall_number": "D-0006-2027",
       "recalling_firm": "K.C. Pharmaceuticals, Inc.",
@@ -124,46 +164,6 @@
       "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/2/20, injectable, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
       "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
       "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0034-2027",
-      "recalling_firm": "SUN PHARMACEUTICAL INDUSTRIES INC",
-      "product_description": "Tretinoin Cream USP, 0.05%, 45 g tube, Manufactured for: Northstar Rx LLC, Memphis, TN 38141, Manufactured by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Product of Canada, NDC 16714-249-02.",
-      "reason_for_recall": "Failed Impurities/Degradation Specifications",
-      "classification": "Class III",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0030-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "TIRZEPATIDE/CYANOCOBALAMIN 85/2 MG/ML INJECTABLE, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936;",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0009-2027",
-      "recalling_firm": "K.C. Pharmaceuticals, Inc.",
-      "product_description": "Sterile High Performance Ultra Lubricating Eye Drops (Polyethylene Glycol 400, 0.4%   Relieves Dry and Irritated Eyes) Product size: 0.5 fl oz (15 mL); a) LEADER, DISTRIBUTED BY CARDINAL HEALTH, DUBLIN, OHIO 43017, www.myleader.com, NDC 70000-0457-1; b) exchange select, Manufactured for your Military Exchange By: K.C Pharmaceuticals, Inc., Pomona, CA 9176, UPC: 6 1429905619 0; c) Good Sense, Distributed By: Perrigo Direct Inc., Peachtree City, GA 30269, NDC 50804-160-01; d) Walgreens, DISTRIBUTED BY: WALGREEN CO., 200 WILMOT RD, DEERFIELD, IL 60015, UPC 3 11917 20167 2.",
-      "reason_for_recall": "Lack of Assurance of Sterility",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0028-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "TIRZEPATIDE/CYANOCOBALAMIN 64/2 MG/ML INJECTABLE, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0035-2027",
-      "recalling_firm": "SUN PHARMACEUTICAL INDUSTRIES INC",
-      "product_description": "Tretinoin Cream UPS, 0.05%, 20g, Rx only, Mfd. by: Taro Pharmaceuticals Inc., Brampton, Ontario, Canada L6T 1C1, Dist. by: Taro Pharmaceuticals USA Inc., Hawthorne, NY 10532, NDC 51672-1394-0.",
-      "reason_for_recall": "Failed Impurities/Degradation Specifications",
-      "classification": "Class III",
       "report_date": "20261014"
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-10-27T03:08:23.641461+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": []
+    }
+  ]
+}

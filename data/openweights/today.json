@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-26T18:32:27.788993+00:00",
+    "generated_at": "2026-10-27T03:08:24.174935+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "lillyai1987/backup",
-      "last_modified": "2026-10-26T18:32:26.000Z",
+      "model_id": "Aftian2429/g56lab-1019-t1026-flux-s0",
+      "last_modified": "2026-10-27T03:08:22.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Vxtzq/Crowd-v1",
-      "last_modified": "2026-10-26T18:32:21.000Z",
-      "likes": 21,
-      "downloads": 85788,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "khazic/gemma4-e2b-mala8langs-abl-control",
-      "last_modified": "2026-10-26T18:32:14.000Z",
+      "model_id": "shimokawatoko/parc-ckpts",
+      "last_modified": "2026-10-27T03:08:19.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "drbikabeyYT/TarkanAI-150m",
-      "last_modified": "2026-10-26T18:32:11.000Z",
+      "model_id": "wangzyuan/SafeRLHFV-Llava15-7B-RM-1024-LoRA-R8-Research",
+      "last_modified": "2026-10-27T03:08:10.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "15B30/LzdOhkA2RM4fsJlw",
-      "last_modified": "2026-10-26T18:32:06.000Z",
+      "model_id": "BashCache/temp-dream-base-semi-4of10-snr-weighted-adapters",
+      "last_modified": "2026-10-27T03:08:09.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "khazic/gemma4-e2b-ngram1b-mala8langs",
-      "last_modified": "2026-10-26T18:32:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Winder1/us-property-valugrid",
-      "last_modified": "2026-10-26T18:31:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "franckdsf/sellestia",
-      "last_modified": "2026-10-26T18:31:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "bhadresh-savani/roberta-base-emotion",
-      "last_modified": "2026-10-26T18:31:57.000Z",
-      "likes": 7,
-      "downloads": 23545,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "15B30/iFr0LnwAA949SyFX",
-      "last_modified": "2026-10-26T18:31:55.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "gguf-org/flux3-image-klein-gguf",
-      "last_modified": "2026-10-26T18:31:39.000Z",
+      "model_id": "HelloSun/openPangu-VL-7B-Q4KM-gguf",
+      "last_modified": "2026-10-27T03:07:58.000Z",
       "likes": 2,
-      "downloads": 313,
+      "downloads": 317,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "endomorphosis/world_law_pipeline",
+      "last_modified": "2026-10-27T03:07:52.000Z",
+      "likes": 2,
+      "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ViuAI/ViuAI-500M",
-      "last_modified": "2026-10-26T18:31:32.000Z",
-      "likes": 3,
-      "downloads": 2979,
-      "pipeline_tag": "text-generation"
+      "model_id": "weathon/anti-design-grpo-runs",
+      "last_modified": "2026-10-27T03:07:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "FangZhang5959/Melody1437-27B-NVFP4-MTP-text-only",
-      "last_modified": "2026-10-26T18:31:30.000Z",
+      "model_id": "sbr-taro/0629-go2",
+      "last_modified": "2026-10-27T03:07:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "shirakanba/model2",
+      "last_modified": "2026-10-27T03:07:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DeepNarra/Paham-Experimental",
+      "last_modified": "2026-10-27T03:07:42.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "sHEL1562/shelling",
-      "last_modified": "2026-10-26T18:31:27.000Z",
+      "model_id": "yyuanuw/hop2-tb-replay3-trsns2vlx-tok-gs140",
+      "last_modified": "2026-10-27T03:07:42.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Aiken1016/MT5_Second_model",
-      "last_modified": "2026-10-26T18:31:25.000Z",
+      "model_id": "jssaluja/zipformer-large-sggs-ncer-train-143411-epochs-90-test-1569",
+      "last_modified": "2026-10-27T03:07:38.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "SargeDev/Solar-Decision-JEV-27B-V2-NVFP4-FP8",
-      "last_modified": "2026-10-26T18:31:23.000Z",
+      "model_id": "FRD-23/ViCoffee_Checkpoint",
+      "last_modified": "2026-10-27T03:07:37.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "SargeDev/Solar-Decision-JEV-27B-V2-GGUF",
-      "last_modified": "2026-10-26T18:31:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ykeee/anycam-wan22-5b-hconcat-bs32-10k-20261008",
-      "last_modified": "2026-10-26T18:31:03.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "taylorseries/pathpal-planner-grpo",
-      "last_modified": "2026-10-26T18:31:03.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Franklalalala/tmp-16d6d9ee1331b5edff",
-      "last_modified": "2026-10-26T18:31:03.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Jomanne3/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-10-26T18:30:58.000Z",
+      "model_id": "TB22427/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-27T03:07:32.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "feature-extraction"
     },
     {
-      "model_id": "ghreddy/EADF-Net-LoveDA-CHAMPION",
-      "last_modified": "2026-10-26T18:30:45.000Z",
+      "model_id": "quandao10/looptrans-looped_5x4_infiloop_mix",
+      "last_modified": "2026-10-27T03:07:29.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "bofenghuang/docto-decision-gemma-4-e4b-fr-v0.1",
-      "last_modified": "2026-10-26T18:30:40.000Z",
+      "model_id": "wckwan/Alfworld-Olmo3-7B-DAPO",
+      "last_modified": "2026-10-27T03:07:21.000Z",
       "likes": 0,
-      "downloads": 281,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "general-forecast/compiled",
+      "last_modified": "2026-10-27T03:07:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "kmpartner/modi-test2",
+      "last_modified": "2026-10-27T03:07:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hggforget/pi05-pku-franka-collect-objects",
+      "last_modified": "2026-10-27T03:07:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "torchcast-ai/torchcast-decision-4b",
+      "last_modified": "2026-10-27T03:06:59.000Z",
+      "likes": 1,
+      "downloads": 274,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "Octavian123/civit",
-      "last_modified": "2026-10-26T18:30:39.000Z",
-      "likes": 2,
+      "model_id": "Nonene/sdxl_models",
+      "last_modified": "2026-10-27T03:06:56.000Z",
+      "likes": 17,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "bofenghuang/docto-decision-modernbert-fr-base-v0.1",
-      "last_modified": "2026-10-26T18:30:38.000Z",
+      "model_id": "ugaoo/oak-heath-52",
+      "last_modified": "2026-10-27T03:06:28.000Z",
       "likes": 0,
-      "downloads": 219,
-      "pipeline_tag": "fill-mask"
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hamlab-princeton/wikispeedia-checkpoints-2026-10",
+      "last_modified": "2026-10-27T03:06:12.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "tarogo2taro/fasd",
+      "last_modified": "2026-10-27T03:06:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-27T03:06:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     }
   ]
 }

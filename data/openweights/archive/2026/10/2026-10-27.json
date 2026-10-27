@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-10-27T03:08:24.174935+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "Aftian2429/g56lab-1019-t1026-flux-s0",
+      "last_modified": "2026-10-27T03:08:22.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "shimokawatoko/parc-ckpts",
+      "last_modified": "2026-10-27T03:08:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "wangzyuan/SafeRLHFV-Llava15-7B-RM-1024-LoRA-R8-Research",
+      "last_modified": "2026-10-27T03:08:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "BashCache/temp-dream-base-semi-4of10-snr-weighted-adapters",
+      "last_modified": "2026-10-27T03:08:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "HelloSun/openPangu-VL-7B-Q4KM-gguf",
+      "last_modified": "2026-10-27T03:07:58.000Z",
+      "likes": 2,
+      "downloads": 317,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "endomorphosis/world_law_pipeline",
+      "last_modified": "2026-10-27T03:07:52.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "weathon/anti-design-grpo-runs",
+      "last_modified": "2026-10-27T03:07:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sbr-taro/0629-go2",
+      "last_modified": "2026-10-27T03:07:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "shirakanba/model2",
+      "last_modified": "2026-10-27T03:07:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DeepNarra/Paham-Experimental",
+      "last_modified": "2026-10-27T03:07:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "yyuanuw/hop2-tb-replay3-trsns2vlx-tok-gs140",
+      "last_modified": "2026-10-27T03:07:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jssaluja/zipformer-large-sggs-ncer-train-143411-epochs-90-test-1569",
+      "last_modified": "2026-10-27T03:07:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "FRD-23/ViCoffee_Checkpoint",
+      "last_modified": "2026-10-27T03:07:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "TB22427/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-27T03:07:32.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "quandao10/looptrans-looped_5x4_infiloop_mix",
+      "last_modified": "2026-10-27T03:07:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "wckwan/Alfworld-Olmo3-7B-DAPO",
+      "last_modified": "2026-10-27T03:07:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "general-forecast/compiled",
+      "last_modified": "2026-10-27T03:07:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "kmpartner/modi-test2",
+      "last_modified": "2026-10-27T03:07:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hggforget/pi05-pku-franka-collect-objects",
+      "last_modified": "2026-10-27T03:07:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "torchcast-ai/torchcast-decision-4b",
+      "last_modified": "2026-10-27T03:06:59.000Z",
+      "likes": 1,
+      "downloads": 274,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Nonene/sdxl_models",
+      "last_modified": "2026-10-27T03:06:56.000Z",
+      "likes": 17,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ugaoo/oak-heath-52",
+      "last_modified": "2026-10-27T03:06:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hamlab-princeton/wikispeedia-checkpoints-2026-10",
+      "last_modified": "2026-10-27T03:06:12.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "tarogo2taro/fasd",
+      "last_modified": "2026-10-27T03:06:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-27T03:06:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
