@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-28T03:21:42.624877+00:00",
+    "generated_at": "2026-10-28T11:54:24.256518+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -26,7 +26,7 @@
       "overall_status": "Partial System Outage",
       "active_incidents": [
         {
-          "name": "Increased Errors for Durable Objects in the Eastern North America region",
+          "name": "Network Performance Issues in Ashburn, IAD",
           "status": "monitoring",
           "impact": "minor"
         }
