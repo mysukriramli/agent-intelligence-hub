@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-28T17:44:32.064389+00:00",
+    "generated_at": "2026-10-28T22:03:39.914193+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -13,14 +13,8 @@
     },
     {
       "provider": "Anthropic",
-      "overall_status": "Partially Degraded Service",
-      "active_incidents": [
-        {
-          "name": "Elevated errors affecting the Google Calendar connector",
-          "status": "investigating",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "GitHub",

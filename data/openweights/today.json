@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-28T17:44:32.618184+00:00",
+    "generated_at": "2026-10-28T22:03:40.455831+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "15A9/dsfwzPjv6LTgVbco",
-      "last_modified": "2026-10-28T17:44:31.000Z",
+      "model_id": "MirandaAbhilash/circuitformer-circuitvqa",
+      "last_modified": "2026-10-28T22:03:37.000Z",
+      "likes": 0,
+      "downloads": 79,
+      "pipeline_tag": "visual-question-answering"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-10-28T22:03:36.000Z",
+      "likes": 24,
+      "downloads": 90458,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Franklalalala/tmp-ro26-s1-xcresp-20261029-7d68a3",
+      "last_modified": "2026-10-28T22:03:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "15A9/wDxpsbKdWOalfns5",
-      "last_modified": "2026-10-28T17:44:28.000Z",
+      "model_id": "Aftian2429/g56lab-1019-p1q-da13-s1",
+      "last_modified": "2026-10-28T22:03:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "FourthArcheteer/base_korea_2609",
-      "last_modified": "2026-10-28T17:44:25.000Z",
+      "model_id": "diarizeapp/wespeaker-voxceleb-resnet34",
+      "last_modified": "2026-10-28T22:03:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "audio-to-audio"
+    },
+    {
+      "model_id": "MedMLX/flexible-unet-effnetb2-mlx",
+      "last_modified": "2026-10-28T22:03:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/retinanet-lung-nodule-mlx",
+      "last_modified": "2026-10-28T22:03:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "object-detection"
+    },
+    {
+      "model_id": "MedMLX/nnunet-liver-mlx",
+      "last_modified": "2026-10-28T22:03:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/nnunet-brats-mlx",
+      "last_modified": "2026-10-28T22:03:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/segresnet-renal-cect-mlx",
+      "last_modified": "2026-10-28T22:03:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/segresnet-brats-mlx",
+      "last_modified": "2026-10-28T22:03:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/swin-unetr-mlx",
+      "last_modified": "2026-10-28T22:03:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "loco-ai/Jeffery",
+      "last_modified": "2026-10-28T22:03:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "zero-shot-classification"
+    },
+    {
+      "model_id": "MedMLX/unest-renal-ct-mlx",
+      "last_modified": "2026-10-28T22:03:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "rodinaahmed30/qwen1.5b-masri-2ways",
+      "last_modified": "2026-10-28T22:03:07.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "khazic/gemma4-e2b-mala8langs-abl-control",
-      "last_modified": "2026-10-28T17:44:19.000Z",
+      "model_id": "MedMLX/nnunet-autopet-mlx",
+      "last_modified": "2026-10-28T22:03:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "MedMLX/flexray-mlx",
+      "last_modified": "2026-10-28T22:03:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "error404dev/void-zero",
+      "last_modified": "2026-10-28T22:03:05.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "26B-Suite/Gemory-26B-A4B-SOMPOA",
+      "last_modified": "2026-10-28T22:03:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "MedMLX/vista3d-ct-mlx",
+      "last_modified": "2026-10-28T22:03:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-segmentation"
+    },
+    {
+      "model_id": "duggle1993/Qwen2.5-Coder-32B-Instruct-abliterated",
+      "last_modified": "2026-10-28T22:03:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "oxyllina/Nikto_kon",
+      "last_modified": "2026-10-28T22:02:57.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "SinhalaMMLU-SharedTask/team-ape-llama",
-      "last_modified": "2026-10-28T17:44:19.000Z",
+      "model_id": "MedMLX/MLX-Reason-CT",
+      "last_modified": "2026-10-28T22:02:55.000Z",
       "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mmknnk/star-checkpoints",
-      "last_modified": "2026-10-28T17:44:18.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "diablomike20/ChatGPT-Astra-6",
-      "last_modified": "2026-10-28T17:44:16.000Z",
-      "likes": 0,
-      "downloads": 0,
+      "downloads": 32,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "rajat-vajpayee/pi05-g1-dex3-dino-expert",
-      "last_modified": "2026-10-28T17:44:11.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Ryanham1lton/Mienfoo",
-      "last_modified": "2026-10-28T17:44:11.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zouaynib/Beam-1.0-501B-A23B-MXFP4",
-      "last_modified": "2026-10-28T17:44:10.000Z",
+      "model_id": "sulabhkatiyar/indic-tts-mini-train",
+      "last_modified": "2026-10-28T22:02:53.000Z",
       "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "PeacefulData/streaming-test",
-      "last_modified": "2026-10-28T17:44:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "audio-classification"
-    },
-    {
-      "model_id": "shashwatmudgal/Indra-v2-4B",
-      "last_modified": "2026-10-28T17:44:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "FRD-23/ViCoffee_Checkpoint",
-      "last_modified": "2026-10-28T17:43:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-      "last_modified": "2026-10-28T17:43:44.000Z",
-      "likes": 83,
-      "downloads": 338,
-      "pipeline_tag": "automatic-speech-recognition"
-    },
-    {
-      "model_id": "Queimo/rem3di-cosmo10-combisolv-multitask",
-      "last_modified": "2026-10-28T17:43:44.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Geukrak/GPT_zundamon",
-      "last_modified": "2026-10-28T17:43:30.000Z",
-      "likes": 1,
-      "downloads": 15,
       "pipeline_tag": "text-to-speech"
     },
     {
-      "model_id": "duy95/uav-search-checkpoints",
-      "last_modified": "2026-10-28T17:43:27.000Z",
+      "model_id": "oxyllina/Dioxide",
+      "last_modified": "2026-10-28T22:02:51.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SinhalaMMLU-SharedTask/team-nexus",
-      "last_modified": "2026-10-28T17:43:22.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Cisco1963/llmplasticity-en_never_8-d0.5-c0.999-r0.8-s42",
-      "last_modified": "2026-10-28T17:43:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "taylorseries/pathpal-planner-grpo",
-      "last_modified": "2026-10-28T17:43:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ASD3122R2432/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-10-28T17:43:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "athenista/slm-tavenel-25m-hplt-10pct",
-      "last_modified": "2026-10-28T17:43:04.000Z",
-      "likes": 0,
-      "downloads": 300,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-2048-44-v2",
-      "last_modified": "2026-10-28T17:43:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ducthang1703/crpd-qwen3-1p7b-to-0p6b-smoke-crpd-main",
-      "last_modified": "2026-10-28T17:43:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "convexray/alignment-module-cross-encoder-base",
-      "last_modified": "2026-10-28T17:43:00.000Z",
-      "likes": 0,
-      "downloads": 21,
-      "pipeline_tag": "text-classification"
     }
   ]
 }
