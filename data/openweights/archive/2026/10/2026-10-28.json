@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-10-28T03:21:43.192618+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "hcs-tho/r-6620ecd0cee0fe61e6962fe4",
+      "last_modified": "2026-10-28T03:21:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "franto0408/kreaultimo-vicky",
+      "last_modified": "2026-10-28T03:21:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jaevzbl/a2osoul",
+      "last_modified": "2026-10-28T03:21:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alea-institute/alea-r4-3B-A0.7B-Base-ckpts",
+      "last_modified": "2026-10-28T03:21:35.000Z",
+      "likes": 1,
+      "downloads": 61,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-28T03:21:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "keylazy/Qwen2.5-Omni-3B-bab-sent1asr-nat-radar-dpo-all-ipo",
+      "last_modified": "2026-10-28T03:21:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Sido/ImageEdit-MOSS-DMD16-WebGPU",
+      "last_modified": "2026-10-28T03:21:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "samy232381s/simsoum-250m",
+      "last_modified": "2026-10-28T03:21:03.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dkdontmiss/kiki",
+      "last_modified": "2026-10-28T03:21:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "cwaud/tournament-exp-s1-597dc05e-2593-4056-bcbd-16839cca5af1-5Exp4eb6d1f90477a658",
+      "last_modified": "2026-10-28T03:20:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DevQuasar/Nanbeige.Nanbeige4.3-33B-GGUF",
+      "last_modified": "2026-10-28T03:20:17.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "NorviTech/armiger",
+      "last_modified": "2026-10-28T03:20:16.000Z",
+      "likes": 1,
+      "downloads": 180,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "sokrypton/localfold",
+      "last_modified": "2026-10-28T03:20:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "NorviTech/armiger-ultra",
+      "last_modified": "2026-10-28T03:20:12.000Z",
+      "likes": 10,
+      "downloads": 443,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "khtsly/g",
+      "last_modified": "2026-10-28T03:19:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/gemma4_31b_mergedmala8_seaweak_2ep_sft",
+      "last_modified": "2026-10-28T03:19:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "klpeng/uce-gemma-80k",
+      "last_modified": "2026-10-28T03:19:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "klein-ml/Klein-TTS-X1.5-Tiny-Checkpoints",
+      "last_modified": "2026-10-28T03:19:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zzzzzzzzzzhao/teacher",
+      "last_modified": "2026-10-28T03:19:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jules1998/swin_poc_1",
+      "last_modified": "2026-10-28T03:19:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "u84u/Yotsuba-Q4_K_M-GGUF",
+      "last_modified": "2026-10-28T03:19:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "MirandaAbhilash/circuitformer-circuitvqa",
+      "last_modified": "2026-10-28T03:19:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "visual-question-answering"
+    },
+    {
+      "model_id": "LINUAN/pi0_pick_and_place",
+      "last_modified": "2026-10-28T03:19:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "TheWarrior01/synas-1-checkpoints",
+      "last_modified": "2026-10-28T03:18:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JJKK1212/3d-syntree-checkpoints",
+      "last_modified": "2026-10-28T03:18:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
