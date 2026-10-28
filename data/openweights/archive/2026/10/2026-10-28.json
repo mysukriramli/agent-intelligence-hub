@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-28T11:54:24.929935+00:00",
+    "generated_at": "2026-10-28T17:44:32.618184+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "kylinfires/worldgen-vulkan",
-      "last_modified": "2026-10-28T11:54:23.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "waveshaker/character_loras",
-      "last_modified": "2026-10-28T11:54:21.000Z",
-      "likes": 0,
-      "downloads": 82,
-      "pipeline_tag": "text-to-image"
-    },
-    {
-      "model_id": "mradermacher/gemmaExtract-GGUF",
-      "last_modified": "2026-10-28T11:54:18.000Z",
+      "model_id": "15A9/dsfwzPjv6LTgVbco",
+      "last_modified": "2026-10-28T17:44:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "khtsly/g",
-      "last_modified": "2026-10-28T11:54:15.000Z",
+      "model_id": "15A9/wDxpsbKdWOalfns5",
+      "last_modified": "2026-10-28T17:44:28.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "cbmusetti/reward-model-english_and_spanish_without_ties",
-      "last_modified": "2026-10-28T11:54:15.000Z",
+      "model_id": "FourthArcheteer/base_korea_2609",
+      "last_modified": "2026-10-28T17:44:25.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ldmberman/pse-tae-experiments",
-      "last_modified": "2026-10-28T11:54:13.000Z",
+      "model_id": "khazic/gemma4-e2b-mala8langs-abl-control",
+      "last_modified": "2026-10-28T17:44:19.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "RunningHubAI/rh-krea2-turbo-fp8-unet-2073329129717583874",
-      "last_modified": "2026-10-28T11:54:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-image"
-    },
-    {
-      "model_id": "agentscope-ai/Blink-9B",
-      "last_modified": "2026-10-28T11:54:05.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "General1201/mydatasets",
-      "last_modified": "2026-10-28T11:54:02.000Z",
+      "model_id": "SinhalaMMLU-SharedTask/team-ape-llama",
+      "last_modified": "2026-10-28T17:44:19.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "attacker8324/cache3219",
-      "last_modified": "2026-10-28T11:54:00.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Danikm/MiniMax-M3.1-Flash-GPTQ-routed-experts-bf4",
-      "last_modified": "2026-10-28T11:53:59.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SAIFIINDUSTRIES/star_2.5_X_r128_checkpoints",
-      "last_modified": "2026-10-28T11:53:57.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "DistributedAI/102-v4",
-      "last_modified": "2026-10-28T11:53:53.000Z",
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-10-28T17:44:18.000Z",
       "likes": 2,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DistributedAI/102-v15",
-      "last_modified": "2026-10-28T11:53:53.000Z",
-      "likes": 1,
+      "model_id": "diablomike20/ChatGPT-Astra-6",
+      "last_modified": "2026-10-28T17:44:16.000Z",
+      "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "DistributedAI/102-v5",
-      "last_modified": "2026-10-28T11:53:52.000Z",
-      "likes": 3,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "DistributedAI/102-v14",
-      "last_modified": "2026-10-28T11:53:52.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "DistributedAI/102-v2",
-      "last_modified": "2026-10-28T11:53:52.000Z",
+      "model_id": "rajat-vajpayee/pi05-g1-dex3-dino-expert",
+      "last_modified": "2026-10-28T17:44:11.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "aliatamiiii/Hospital_Assistant",
-      "last_modified": "2026-10-28T11:53:52.000Z",
+      "model_id": "Ryanham1lton/Mienfoo",
+      "last_modified": "2026-10-28T17:44:11.000Z",
       "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zouaynib/Beam-1.0-501B-A23B-MXFP4",
+      "last_modified": "2026-10-28T17:44:10.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "DistributedAI/102-v8",
-      "last_modified": "2026-10-28T11:53:51.000Z",
+      "model_id": "PeacefulData/streaming-test",
+      "last_modified": "2026-10-28T17:44:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "audio-classification"
+    },
+    {
+      "model_id": "shashwatmudgal/Indra-v2-4B",
+      "last_modified": "2026-10-28T17:44:04.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
       "model_id": "FRD-23/ViCoffee_Checkpoint",
-      "last_modified": "2026-10-28T11:53:51.000Z",
+      "last_modified": "2026-10-28T17:43:46.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DistributedAI/102-v3",
-      "last_modified": "2026-10-28T11:53:50.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
+      "model_id": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+      "last_modified": "2026-10-28T17:43:44.000Z",
+      "likes": 83,
+      "downloads": 338,
+      "pipeline_tag": "automatic-speech-recognition"
     },
     {
-      "model_id": "DistributedAI/102-v6",
-      "last_modified": "2026-10-28T11:53:50.000Z",
+      "model_id": "Queimo/rem3di-cosmo10-combisolv-multitask",
+      "last_modified": "2026-10-28T17:43:44.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DistributedAI/102-v7",
-      "last_modified": "2026-10-28T11:53:50.000Z",
+      "model_id": "Geukrak/GPT_zundamon",
+      "last_modified": "2026-10-28T17:43:30.000Z",
       "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
+      "downloads": 15,
+      "pipeline_tag": "text-to-speech"
     },
     {
-      "model_id": "DistributedAI/102-v13",
-      "last_modified": "2026-10-28T11:53:50.000Z",
+      "model_id": "duy95/uav-search-checkpoints",
+      "last_modified": "2026-10-28T17:43:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "DistributedAI/102-v1",
-      "last_modified": "2026-10-28T11:53:50.000Z",
+      "model_id": "SinhalaMMLU-SharedTask/team-nexus",
+      "last_modified": "2026-10-28T17:43:22.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Cisco1963/llmplasticity-en_never_8-d0.5-c0.999-r0.8-s42",
+      "last_modified": "2026-10-28T17:43:17.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "taylorseries/pathpal-planner-grpo",
+      "last_modified": "2026-10-28T17:43:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ASD3122R2432/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-28T17:43:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "athenista/slm-tavenel-25m-hplt-10pct",
+      "last_modified": "2026-10-28T17:43:04.000Z",
+      "likes": 0,
+      "downloads": 300,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Ali-Mhrez/Qwen3-4B-Instruct-2507-SD-UnifiedFC-2048-44-v2",
+      "last_modified": "2026-10-28T17:43:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ducthang1703/crpd-qwen3-1p7b-to-0p6b-smoke-crpd-main",
+      "last_modified": "2026-10-28T17:43:01.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "convexray/alignment-module-cross-encoder-base",
+      "last_modified": "2026-10-28T17:43:00.000Z",
+      "likes": 0,
+      "downloads": 21,
+      "pipeline_tag": "text-classification"
     }
   ]
 }
