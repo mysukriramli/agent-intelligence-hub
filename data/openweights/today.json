@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-29T03:45:10.035320+00:00",
+    "generated_at": "2026-10-29T12:02:25.253370+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "yzzpz/Charged-checkpoints",
-      "last_modified": "2026-10-29T03:45:07.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "duy95/uav-search-checkpoints",
-      "last_modified": "2026-10-29T03:45:06.000Z",
+      "model_id": "geocketa/anomim",
+      "last_modified": "2026-10-29T12:02:21.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "k2-fsa/sherpa-onnx-zipformer-gigaspeech-2023-12-12",
-      "last_modified": "2026-10-29T03:45:05.000Z",
+      "model_id": "lillyai1987/backup",
+      "last_modified": "2026-10-29T12:02:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sarweshbarnwal/CS781-Legal-Models",
+      "last_modified": "2026-10-29T12:02:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "geocketa/meilvxj1275",
+      "last_modified": "2026-10-29T12:02:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "MohamedAhmedAE/llava-medical-8B-clip-vit-stage2",
+      "last_modified": "2026-10-29T12:02:07.000Z",
+      "likes": 4,
+      "downloads": 2482,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Stardust-LLM/Stardust-Flash-01",
+      "last_modified": "2026-10-29T12:02:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ryaluous/henxpoi521",
+      "last_modified": "2026-10-29T12:02:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Syed110-3/karachi-aqi-predictor",
+      "last_modified": "2026-10-29T12:01:58.000Z",
       "likes": 4,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "markkeung/distilhubert-finetuned-gtzan",
-      "last_modified": "2026-10-29T03:45:03.000Z",
+      "model_id": "jainbharat/molmoact2_7k_70ep_2026-10-29",
+      "last_modified": "2026-10-29T12:01:57.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "whereismyusername/qwen3-vl-embedding-loss-ablations",
-      "last_modified": "2026-10-29T03:44:50.000Z",
+      "model_id": "SAIFIINDUSTRIES/star_2.5_X_r128_checkpoints",
+      "last_modified": "2026-10-29T12:01:56.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ElectronGirl/anima-ref-adapter",
-      "last_modified": "2026-10-29T03:44:40.000Z",
-      "likes": 21,
+      "model_id": "abdullahjamil42/QnAce-Voice-Model",
+      "last_modified": "2026-10-29T12:01:55.000Z",
+      "likes": 1,
+      "downloads": 10,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "BohaoWu/Ukiyoe_MNERG",
+      "last_modified": "2026-10-29T12:01:53.000Z",
+      "likes": 2,
       "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "oxyllina/HitaHita",
+      "last_modified": "2026-10-29T12:01:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/Dahua_Ezreal",
+      "last_modified": "2026-10-29T12:01:50.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/flint-roleplay-antislop-heretic-i1-GGUF",
+      "last_modified": "2026-10-29T12:01:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "tinyopsec/Qwen3-4B-Instruct-2507-abliterated-GGUF",
+      "last_modified": "2026-10-29T12:01:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "mulemp/yeejoo",
+      "last_modified": "2026-10-29T12:01:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "eltag-labs/nova-gpt-50m",
+      "last_modified": "2026-10-29T12:01:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "loolooch/ch",
+      "last_modified": "2026-10-29T12:01:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AiArtLab/mossling",
+      "last_modified": "2026-10-29T12:01:38.000Z",
+      "likes": 0,
+      "downloads": 15,
       "pipeline_tag": "text-to-image"
     },
     {
-      "model_id": "defnoteatin/PseudoBrain-Nex-35B-A3B-NVFP4",
-      "last_modified": "2026-10-29T03:44:37.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "defnoteatin/PseudoBrain-27B-NVFP4",
-      "last_modified": "2026-10-29T03:44:34.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "omaedn/relaion-coyo-100m-checkpoints-v3",
-      "last_modified": "2026-10-29T03:44:32.000Z",
+      "model_id": "mulemp/lotrab921",
+      "last_modified": "2026-10-29T12:01:37.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "khazic/veladraft-qwen3vl8b-200k-dspark",
-      "last_modified": "2026-10-29T03:44:31.000Z",
+      "model_id": "geocketa/tiandong",
+      "last_modified": "2026-10-29T12:01:37.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mim-chess-vlas/train_800_sparse__mask__overlay_a75__sim__all_cameras__static__groot__seed_0",
-      "last_modified": "2026-10-29T03:44:26.000Z",
+      "model_id": "oxyllina/Malebolgia",
+      "last_modified": "2026-10-29T12:01:35.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "JTT1995/HMPenisMiniMax",
-      "last_modified": "2026-10-29T03:44:23.000Z",
-      "likes": 1,
+      "model_id": "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
+      "last_modified": "2026-10-29T12:01:32.000Z",
+      "likes": 0,
       "downloads": 0,
+      "pipeline_tag": "text-to-video"
+    },
+    {
+      "model_id": "SargeDev/Solar-Decision-JEV-27B-V3",
+      "last_modified": "2026-10-29T12:01:29.000Z",
+      "likes": 0,
+      "downloads": 9,
       "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "xiangantao/structwam",
-      "last_modified": "2026-10-29T03:44:21.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "iiidevv/nebula-vd2-python-1b-20261026",
-      "last_modified": "2026-10-29T03:44:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "resiondy/moe-1.4b-v2-state",
-      "last_modified": "2026-10-29T03:43:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "inferencerlabs/DeepSeek-V4.1-Flash-1017-MLXse",
-      "last_modified": "2026-10-29T03:43:49.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "Octavian123/civit",
-      "last_modified": "2026-10-29T03:43:36.000Z",
-      "likes": 3,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "IsValorum/llama.cpp-clover-moe",
-      "last_modified": "2026-10-29T03:43:36.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "trantam31/smollm2-360m-e3-lora-r64-s0",
-      "last_modified": "2026-10-29T03:43:33.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "IsValorum/Clover-35B-A3B-Preview-APEX-I-MiniPlus-V2.1-GGUF",
-      "last_modified": "2026-10-29T03:43:32.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "IsValorum/Clover-35B-A3B-Preview-APEX-I-NanoPlus-V2.1-GGUF",
-      "last_modified": "2026-10-29T03:43:28.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "IsValorum/Clover-35B-A3B-Preview-VAL-1.25M-I-Matrix-GGUF",
-      "last_modified": "2026-10-29T03:43:26.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "owensong/Inflect-Atom-v3-Preview",
-      "last_modified": "2026-10-29T03:43:15.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
-      "model_id": "owensong/Inflect-Nano-v3-Preview",
-      "last_modified": "2026-10-29T03:43:13.000Z",
-      "likes": 1,
-      "downloads": 53,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
-      "model_id": "owensong/Inflect-Micro-v3-Preview",
-      "last_modified": "2026-10-29T03:43:11.000Z",
-      "likes": 2,
-      "downloads": 55,
-      "pipeline_tag": "text-to-speech"
     }
   ]
 }
