@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-28T22:03:39.914193+00:00",
+    "generated_at": "2026-10-29T03:45:09.253141+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -24,13 +24,7 @@
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": [
-        {
-          "name": "Network Performance Issues in Ashburn, IAD",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     }
   ]
 }
