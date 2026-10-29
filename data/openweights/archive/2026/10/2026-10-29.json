@@ -1,184 +1,184 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-29T12:02:25.253370+00:00",
+    "generated_at": "2026-10-29T22:15:02.521252+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "geocketa/anomim",
-      "last_modified": "2026-10-29T12:02:21.000Z",
+      "model_id": "ProjectSpaice/pumpfun-sniper-model",
+      "last_modified": "2026-10-29T22:15:00.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "lillyai1987/backup",
-      "last_modified": "2026-10-29T12:02:20.000Z",
+      "model_id": "zycalice/Qwen2.5-32B-Instruct_finance_all_resp_5e-06_ep3",
+      "last_modified": "2026-10-29T22:14:57.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "sarweshbarnwal/CS781-Legal-Models",
-      "last_modified": "2026-10-29T12:02:14.000Z",
+      "model_id": "sanabada/data266-team26-p2-naruto-run1-lora-r16",
+      "last_modified": "2026-10-29T22:14:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "geocketa/meilvxj1275",
-      "last_modified": "2026-10-29T12:02:08.000Z",
+      "model_id": "sanabada/data266-team26-p2-naruto-run2-dora-r16",
+      "last_modified": "2026-10-29T22:14:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MohamedAhmedAE/llava-medical-8B-clip-vit-stage2",
-      "last_modified": "2026-10-29T12:02:07.000Z",
+      "model_id": "Jomanne3/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-29T22:14:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "hosam010023/Arabic_article_classifier",
+      "last_modified": "2026-10-29T22:14:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "qing-yao/ppt-pythia-160m-nope-baseline-warmup2000-seed324-stage2",
+      "last_modified": "2026-10-29T22:14:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "fumetodev/fumetotranslate-manga-ja-translator",
+      "last_modified": "2026-10-29T22:14:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "Octavian123/civit",
+      "last_modified": "2026-10-29T22:14:31.000Z",
+      "likes": 3,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/ovb-i88_t0_full_replay10_20261029_2202",
+      "last_modified": "2026-10-29T22:14:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khazic/ovb-i88_t2_depth_replay_20261030_0106",
+      "last_modified": "2026-10-29T22:14:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "baya1116/hypernet-sp-distill",
+      "last_modified": "2026-10-29T22:14:23.000Z",
       "likes": 4,
-      "downloads": 2482,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Stardust-LLM/Stardust-Flash-01",
-      "last_modified": "2026-10-29T12:02:05.000Z",
-      "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ryaluous/henxpoi521",
-      "last_modified": "2026-10-29T12:02:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Syed110-3/karachi-aqi-predictor",
-      "last_modified": "2026-10-29T12:01:58.000Z",
-      "likes": 4,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jainbharat/molmoact2_7k_70ep_2026-10-29",
-      "last_modified": "2026-10-29T12:01:57.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SAIFIINDUSTRIES/star_2.5_X_r128_checkpoints",
-      "last_modified": "2026-10-29T12:01:56.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "abdullahjamil42/QnAce-Voice-Model",
-      "last_modified": "2026-10-29T12:01:55.000Z",
+      "model_id": "hyunlp-evateam3/20261026_healthbench_static_qwen3-4b_impl-ruscarl_s1_whole_rubric",
+      "last_modified": "2026-10-29T22:14:16.000Z",
       "likes": 1,
-      "downloads": 10,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "BohaoWu/Ukiyoe_MNERG",
-      "last_modified": "2026-10-29T12:01:53.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "oxyllina/HitaHita",
-      "last_modified": "2026-10-29T12:01:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zoarag/Dahua_Ezreal",
-      "last_modified": "2026-10-29T12:01:50.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mradermacher/flint-roleplay-antislop-heretic-i1-GGUF",
-      "last_modified": "2026-10-29T12:01:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "tinyopsec/Qwen3-4B-Instruct-2507-abliterated-GGUF",
-      "last_modified": "2026-10-29T12:01:49.000Z",
-      "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "mulemp/yeejoo",
-      "last_modified": "2026-10-29T12:01:48.000Z",
+      "model_id": "thalyareboucas/AP_COMERCIAL_BIM",
+      "last_modified": "2026-10-29T22:14:15.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "eltag-labs/nova-gpt-50m",
-      "last_modified": "2026-10-29T12:01:43.000Z",
+      "model_id": "rajat-vajpayee/pi05-g1-dex3-dino-expert",
+      "last_modified": "2026-10-29T22:14:13.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "loolooch/ch",
-      "last_modified": "2026-10-29T12:01:38.000Z",
+      "model_id": "jrubiosainz/microduck-game-hillclimber-remix10",
+      "last_modified": "2026-10-29T22:14:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "qrvmil/pi0-d0-d1-three-adaptations-visual-alignment-20261029",
+      "last_modified": "2026-10-29T22:14:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "aman4014/whisper-twophase-multitask-80K-10WER-ct2",
+      "last_modified": "2026-10-29T22:14:04.000Z",
+      "likes": 0,
+      "downloads": 6,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "khtsly/g",
+      "last_modified": "2026-10-29T22:14:02.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AiArtLab/mossling",
-      "last_modified": "2026-10-29T12:01:38.000Z",
-      "likes": 0,
-      "downloads": 15,
-      "pipeline_tag": "text-to-image"
-    },
-    {
-      "model_id": "mulemp/lotrab921",
-      "last_modified": "2026-10-29T12:01:37.000Z",
+      "model_id": "hsiaosuan/babylm-mdlm-cb-syntaxflip-s1",
+      "last_modified": "2026-10-29T22:14:01.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "geocketa/tiandong",
-      "last_modified": "2026-10-29T12:01:37.000Z",
+      "model_id": "kawshikbuet17/bangla-heteronym-mt5-small",
+      "last_modified": "2026-10-29T22:14:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
+      "model_id": "arbonquants/Inkling",
+      "last_modified": "2026-10-29T22:13:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "rmaapk/upass-tm",
+      "last_modified": "2026-10-29T22:13:43.000Z",
+      "likes": 0,
+      "downloads": 7,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "BurnyCoder/eureka-digits-sol-models",
+      "last_modified": "2026-10-29T22:13:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "oxyllina/Malebolgia",
-      "last_modified": "2026-10-29T12:01:35.000Z",
+      "model_id": "MarxistLeninist/AGILLM-256B-native-step4842",
+      "last_modified": "2026-10-29T22:13:24.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "AbrahamPJ/fasth3-dense-v1-q4_0-gguf",
-      "last_modified": "2026-10-29T12:01:32.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-to-video"
-    },
-    {
-      "model_id": "SargeDev/Solar-Decision-JEV-27B-V3",
-      "last_modified": "2026-10-29T12:01:29.000Z",
-      "likes": 0,
-      "downloads": 9,
       "pipeline_tag": "unknown"
     }
   ]

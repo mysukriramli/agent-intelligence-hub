@@ -3,5 +3,5 @@
 
 - **OpenAI**: All Systems Operational (Operational)
 - **Anthropic**: All Systems Operational (Operational)
-- **GitHub**: All Systems Operational (1 ongoing incident(s))
-- **Cloudflare**: Partial System Outage (1 ongoing incident(s))
+- **GitHub**: All Systems Operational (Operational)
+- **Cloudflare**: Partial System Outage (Operational)
