@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-30T03:48:15.279011+00:00",
+    "generated_at": "2026-10-30T11:55:54.795864+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -24,13 +24,7 @@
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": [
-        {
-          "name": "Increased Errors for Browser Run",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     }
   ]
 }
