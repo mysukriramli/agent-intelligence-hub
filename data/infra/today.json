@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-30T17:37:18.915899+00:00",
+    "generated_at": "2026-10-30T21:50:52.229814+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "Elevated errors for GPT Image 2 API image edits",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
@@ -25,7 +19,13 @@
     {
       "provider": "GitHub",
       "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "active_incidents": [
+        {
+          "name": "Incident with Dependabot",
+          "status": "investigating",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Cloudflare",
