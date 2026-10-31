@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-10-31T11:29:23.472386+00:00",
+    "generated_at": "2026-10-31T16:37:18.280629+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "klein-ml/Klein-TTS-X1.5-Medium-Checkpoints",
-      "last_modified": "2026-10-31T11:29:22.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co2",
-      "last_modified": "2026-10-31T11:29:15.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ViuAI/ViuAI-500M",
-      "last_modified": "2026-10-31T11:29:10.000Z",
-      "likes": 3,
-      "downloads": 7758,
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-10-31T16:37:16.000Z",
+      "likes": 25,
+      "downloads": 96807,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "Cisco1963/llmplasticity-nl_zh_linear_8-d0.006-c0.999-r0.8-s42",
-      "last_modified": "2026-10-31T11:29:02.000Z",
+      "model_id": "daruokta/bifocalgemma-v2-2base-2it",
+      "last_modified": "2026-10-31T16:37:16.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "jjaroztegi/jina-v2-code-query-4l",
-      "last_modified": "2026-10-31T11:29:01.000Z",
-      "likes": 1,
+      "model_id": "mradermacher/Kimi-Linear-48B-A3B-Instruct-abliterated-bf16-i1-GGUF",
+      "last_modified": "2026-10-31T16:37:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "arlenecc/bge-reranker-base-mlx-int8",
+      "last_modified": "2026-10-31T16:37:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "Poyu123/makemake-components",
+      "last_modified": "2026-10-31T16:37:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Lucet-Coder-4B-Omega-GGUF",
+      "last_modified": "2026-10-31T16:37:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Plaguekind/Muse-Glimmer-30B-Parasyte-GGUF",
+      "last_modified": "2026-10-31T16:37:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Rabt-1.0-2B-GGUF",
+      "last_modified": "2026-10-31T16:37:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Capek0.5-35B-A3B-i1-GGUF",
+      "last_modified": "2026-10-31T16:36:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "mradermacher/Qwen3.5-0.8B-zh-en-novel-GGUF",
+      "last_modified": "2026-10-31T16:36:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "mradermacher/tmax-9b-v1.1-GGUF",
+      "last_modified": "2026-10-31T16:36:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "cyg07/party_time_v2.1_flux3",
+      "last_modified": "2026-10-31T16:36:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-10-31T16:36:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "recyclebin12331/whisper-base-ClearSpeak",
+      "last_modified": "2026-10-31T16:36:35.000Z",
+      "likes": 0,
+      "downloads": 7,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "liudev/novel-embedding-gpl-base-v2",
+      "last_modified": "2026-10-31T16:36:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "sentence-similarity"
+    },
+    {
+      "model_id": "PeachesAvicii/Sexy-Massage-v3",
+      "last_modified": "2026-10-31T16:36:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "khtsly/h",
+      "last_modified": "2026-10-31T16:36:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AOSSIE/OpenVerifiableLLM-23M",
+      "last_modified": "2026-10-31T16:35:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "daruokta/bifocalgemma-v2-2it-2it",
+      "last_modified": "2026-10-31T16:35:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "baya1116/hypernet-sp-distill",
+      "last_modified": "2026-10-31T16:35:53.000Z",
+      "likes": 4,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rajat-vajpayee/pi05-g1-dex3-dino-expert-open",
+      "last_modified": "2026-10-31T16:35:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "MckenzieAslan/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-31T16:35:48.000Z",
+      "likes": 0,
       "downloads": 0,
       "pipeline_tag": "feature-extraction"
     },
     {
-      "model_id": "jake414/co5",
-      "last_modified": "2026-10-31T11:28:59.000Z",
+      "model_id": "FrancisAbba/my-en-de-translator",
+      "last_modified": "2026-10-31T16:35:42.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "jake414/co30",
-      "last_modified": "2026-10-31T11:28:59.000Z",
+      "model_id": "chaofen-delicious/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-10-31T16:35:41.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "jake414/co29",
-      "last_modified": "2026-10-31T11:28:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co6",
-      "last_modified": "2026-10-31T11:28:57.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co18",
-      "last_modified": "2026-10-31T11:28:57.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co25",
-      "last_modified": "2026-10-31T11:28:57.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co20",
-      "last_modified": "2026-10-31T11:28:56.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co31",
-      "last_modified": "2026-10-31T11:28:56.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co3",
-      "last_modified": "2026-10-31T11:28:53.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ailexleon/G4-LuneLight-31B-mlx-4Bit",
-      "last_modified": "2026-10-31T11:28:53.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "jake414/co4",
-      "last_modified": "2026-10-31T11:28:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "DeepNarra/Paham-Experimental",
-      "last_modified": "2026-10-31T11:28:51.000Z",
-      "likes": 0,
-      "downloads": 5744,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "jake414/co19",
-      "last_modified": "2026-10-31T11:28:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co24",
-      "last_modified": "2026-10-31T11:28:48.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co27",
-      "last_modified": "2026-10-31T11:28:48.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "bambocher/Ling-3.0-tiny-oQ3e",
-      "last_modified": "2026-10-31T11:28:47.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co12",
-      "last_modified": "2026-10-31T11:28:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co28",
-      "last_modified": "2026-10-31T11:28:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co26",
-      "last_modified": "2026-10-31T11:28:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jake414/co14",
-      "last_modified": "2026-10-31T11:28:45.000Z",
+      "model_id": "MLGOATKOJI/Refresh-TinyStories",
+      "last_modified": "2026-10-31T16:35:35.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
