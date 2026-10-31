@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-10-30T21:50:52.229814+00:00",
+    "generated_at": "2026-10-31T03:31:38.154384+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -19,13 +19,7 @@
     {
       "provider": "GitHub",
       "overall_status": "All Systems Operational",
-      "active_incidents": [
-        {
-          "name": "Incident with Dependabot",
-          "status": "investigating",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     },
     {
       "provider": "Cloudflare",
