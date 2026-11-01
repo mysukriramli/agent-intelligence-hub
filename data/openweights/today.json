@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-01T12:26:55.690829+00:00",
+    "generated_at": "2026-11-01T21:32:57.915332+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "unsup-opsd2/ckpts",
-      "last_modified": "2026-11-01T12:26:52.000Z",
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-01T21:32:52.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-01T21:32:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "tennr1/Qwopus3.8-27B-Coder-Flash-oQ6e-mtp",
+      "last_modified": "2026-11-01T21:32:49.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "unsup-opsd/ckpts",
-      "last_modified": "2026-11-01T12:26:50.000Z",
+      "model_id": "rghosh8/SFT_baseline_deepseek-llm-7b-chat_gsm8k_3407",
+      "last_modified": "2026-11-01T21:32:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Cisco1963/llmplasticity-nl_zh_linear_8-d0.1-c0.99-r0.5-s42",
+      "last_modified": "2026-11-01T21:32:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Rel0aded/Turkish-1B",
+      "last_modified": "2026-11-01T21:32:47.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "ExtraX1/TinyCyclic-0.4B-Base",
+      "last_modified": "2026-11-01T21:32:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "ayeeyokoris/test",
+      "last_modified": "2026-11-01T21:32:34.000Z",
+      "likes": 0,
+      "downloads": 1214,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "rmaapk/upass-tm",
+      "last_modified": "2026-11-01T21:32:33.000Z",
+      "likes": 0,
+      "downloads": 1607,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Dekonstruktio/24",
+      "last_modified": "2026-11-01T21:32:26.000Z",
+      "likes": 0,
+      "downloads": 21,
+      "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "johngreendr2/84b38f93e7786fa5",
+      "last_modified": "2026-11-01T21:32:17.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sHEL1562/shelling",
+      "last_modified": "2026-11-01T21:32:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Peacockery/tajik-parakeet-tdt-110m",
+      "last_modified": "2026-11-01T21:32:05.000Z",
+      "likes": 0,
+      "downloads": 22,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "Jinofy-corp-interne/joraMindAF-1.0-1B-A0.25B",
+      "last_modified": "2026-11-01T21:32:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Cisco1963/llmplasticity-nl_en_instant_8-d0.006-c0.99-r0.5-s42",
+      "last_modified": "2026-11-01T21:32:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pretrain-model-storage-nobody/Ling-3.0-tiny-CSA-Engram-1M-CPT",
+      "last_modified": "2026-11-01T21:31:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ysdede/moonshine-tiny-onnx",
+      "last_modified": "2026-11-01T21:31:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "Peacockery/parakeet-tdt-110m-tajik",
+      "last_modified": "2026-11-01T21:31:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "khazic/ovb-ft_mf_lr2e-5_t1_cube_20261102_0138",
+      "last_modified": "2026-11-01T21:31:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "resiondy/moe-1.4b-v2-state",
+      "last_modified": "2026-11-01T21:31:46.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "LibreYOLO/LibreRFDETRl-pose",
-      "last_modified": "2026-11-01T12:26:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "keypoint-detection"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRm-pose",
-      "last_modified": "2026-11-01T12:26:48.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "keypoint-detection"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRs-pose",
-      "last_modified": "2026-11-01T12:26:47.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "keypoint-detection"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRn-pose",
-      "last_modified": "2026-11-01T12:26:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "keypoint-detection"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRn-imagenette-cls",
-      "last_modified": "2026-11-01T12:26:45.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "khazic/veladraft-qwen3vl8b-200k-cont-jetspec",
-      "last_modified": "2026-11-01T12:26:45.000Z",
+      "model_id": "davidafrica/mr-runs-lc-hard-base-s2",
+      "last_modified": "2026-11-01T21:31:35.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "LibreYOLO/LibreRFDETRl-cls",
-      "last_modified": "2026-11-01T12:26:44.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "MIHMahmudEli/davidnet-experiments",
-      "last_modified": "2026-11-01T12:26:44.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "video-classification"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRm-cls",
-      "last_modified": "2026-11-01T12:26:43.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRs-cls",
-      "last_modified": "2026-11-01T12:26:42.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "LibreYOLO/LibreRFDETRn-cls",
-      "last_modified": "2026-11-01T12:26:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "LibreYOLO/LibreYOLO9s-pose",
-      "last_modified": "2026-11-01T12:26:39.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "object-detection"
-    },
-    {
-      "model_id": "LibreYOLO/LibreYOLO9t-imagenette-cls",
-      "last_modified": "2026-11-01T12:26:38.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "khazic/veladraft-qwen3vl8b-200k-cont-domino",
-      "last_modified": "2026-11-01T12:26:38.000Z",
+      "model_id": "defnoteatin/PseudoBrain-DeepSeek-V4.1-Flash-1017-Chronos-v7.5-Abliterated",
+      "last_modified": "2026-11-01T21:31:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "LibreYOLO/LibreYOLO9c-cls",
-      "last_modified": "2026-11-01T12:26:37.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "themohal/saraiki-libero-smolvla-bilingual",
-      "last_modified": "2026-11-01T12:26:35.000Z",
-      "likes": 0,
-      "downloads": 298,
-      "pipeline_tag": "robotics"
-    },
-    {
-      "model_id": "jssaluja/zipformer-large-sggs-ncer-train-182766-epochs-100-test-2200",
-      "last_modified": "2026-11-01T12:26:32.000Z",
+      "model_id": "MarxistLeninist/AGILLM-512B-native-step5024",
+      "last_modified": "2026-11-01T21:31:22.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "whereismyusername/qwen3-vl-embedding-loss-ablations",
-      "last_modified": "2026-11-01T12:26:31.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "LibreYOLO/LibreYOLO9m-cls",
-      "last_modified": "2026-11-01T12:26:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-classification"
-    },
-    {
-      "model_id": "sahilchat/d4rt-checkpoints",
-      "last_modified": "2026-11-01T12:26:18.000Z",
+      "model_id": "abhay2812/qwen-3.5-4B-decision-model",
+      "last_modified": "2026-11-01T21:30:56.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "15A9/Qzux8kLDY12dWCz3",
-      "last_modified": "2026-11-01T12:26:18.000Z",
+      "model_id": "lunarly0/k6-ft-v5b-gguf",
+      "last_modified": "2026-11-01T21:30:50.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "daruokta/bifocalgemma-v2-2it-2it",
-      "last_modified": "2026-11-01T12:26:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "georgeliu59/retrieval_qwen35_9b_trainset_100_101426",
-      "last_modified": "2026-11-01T12:26:12.000Z",
-      "likes": 0,
-      "downloads": 66,
-      "pipeline_tag": "image-text-to-text"
     }
   ]
 }
