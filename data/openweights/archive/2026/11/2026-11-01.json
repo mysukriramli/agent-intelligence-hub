@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-01T03:37:53.832304+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "OfflineBase/Glimmer-30B-2026-Knowledge",
+      "last_modified": "2026-11-01T03:37:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "khtsly/g",
+      "last_modified": "2026-11-01T03:37:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "engmauriciodias33/aura-fleet-gguf-part1",
+      "last_modified": "2026-11-01T03:37:30.000Z",
+      "likes": 0,
+      "downloads": 29875,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "gurujustin/sn56-text-calib-1026",
+      "last_modified": "2026-11-01T03:37:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/tmax-9b-v1.1-i1-GGUF",
+      "last_modified": "2026-11-01T03:37:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "Cisco1963/llmplasticity-zh_en_linear_8-d0.006-c0.9-r0.2-s42",
+      "last_modified": "2026-11-01T03:37:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lakelee/2026e-anticipation-v5-2b-pool",
+      "last_modified": "2026-11-01T03:37:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "FinweeBR/controle-popular",
+      "last_modified": "2026-11-01T03:37:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SpeechAntiSpoofingBenchmarks/Fake-Mamba",
+      "last_modified": "2026-11-01T03:37:05.000Z",
+      "likes": 0,
+      "downloads": 98,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AbstractPhil/qwen-symbolic-thinking-image-training",
+      "last_modified": "2026-11-01T03:36:59.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SpeechAntiSpoofingBenchmarks/DPDA-GA-AASIST",
+      "last_modified": "2026-11-01T03:36:58.000Z",
+      "likes": 0,
+      "downloads": 110,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zyxtai/act-green-block-merged-50k",
+      "last_modified": "2026-11-01T03:36:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "cemong/l",
+      "last_modified": "2026-11-01T03:36:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thanhdath/05b-ori-2rew-fullrew-20261101",
+      "last_modified": "2026-11-01T03:36:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JIRU-W/upcycle_dense15000_e32top8_noaux_rewarm200",
+      "last_modified": "2026-11-01T03:36:46.000Z",
+      "likes": 1,
+      "downloads": 5080,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "LGG100/g1-8tasks-pi",
+      "last_modified": "2026-11-01T03:36:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Lucien-shark/Linny-TokenBased-Gen2.2-Repair",
+      "last_modified": "2026-11-01T03:36:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "OfflineBase/Glimmer-30B-2026-Knowledge-unsloth-bnb-4bit",
+      "last_modified": "2026-11-01T03:36:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "xiaonengmiao/LoopUnifiedTransformer",
+      "last_modified": "2026-11-01T03:36:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "misapapa71/model-yuka-krea2",
+      "last_modified": "2026-11-01T03:36:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hjhfgfxj/bot-models",
+      "last_modified": "2026-11-01T03:36:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "cunba-ai/istation",
+      "last_modified": "2026-11-01T03:36:11.000Z",
+      "likes": 1,
+      "downloads": 16642,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yang31210999/opd-lab-b300-pub",
+      "last_modified": "2026-11-01T03:35:54.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JunuChoi/astra-ablation-checkpoints",
+      "last_modified": "2026-11-01T03:35:50.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AyaHassan/fastmri-brain-r1-baselines",
+      "last_modified": "2026-11-01T03:35:35.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
