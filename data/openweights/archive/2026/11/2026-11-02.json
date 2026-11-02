@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-02T03:43:17.274052+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "kmpartner/modi-test2",
+      "last_modified": "2026-11-02T03:43:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "asd12ad123123/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-02T03:43:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "Saltmandamsun/playgroundpublicgated",
+      "last_modified": "2026-11-02T03:43:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JaeWooShin/grpo-group-size",
+      "last_modified": "2026-11-02T03:42:59.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "hiepnd11/abc",
+      "last_modified": "2026-11-02T03:42:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuanuw/hop2-off_sci_r2v_geoanc_mbis-full",
+      "last_modified": "2026-11-02T03:42:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuanuw/hop2-off_sci_r2v_geoanc_mbis-gs240-model",
+      "last_modified": "2026-11-02T03:42:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yyuanuw/hop2-off_sci_r2v_tokanc_mbis-gs240-model",
+      "last_modified": "2026-11-02T03:42:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "PollardWeights/Ming-3.0-tts-0.5B-Pollard",
+      "last_modified": "2026-11-02T03:42:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
+      "model_id": "yaoyaosa/GR00T-N1.7-3B",
+      "last_modified": "2026-11-02T03:42:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "lakelee/2026e-anticipation-v5-t3-a-s0",
+      "last_modified": "2026-11-02T03:42:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jeong-zju/moli-pi05-go2-push",
+      "last_modified": "2026-11-02T03:42:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Beh1222/Sana_600M_1024px_diffusers",
+      "last_modified": "2026-11-02T03:42:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "klein-ml/asr-training-models",
+      "last_modified": "2026-11-02T03:42:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidafrica/mr-runs-lc-hard-sft-pro-s2",
+      "last_modified": "2026-11-02T03:42:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rmaapk/upass-tm",
+      "last_modified": "2026-11-02T03:42:14.000Z",
+      "likes": 0,
+      "downloads": 1607,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Lockey815/LeukNet-ResNet50",
+      "last_modified": "2026-11-02T03:42:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidafrica/mr-runs-lc-hard-sft-pro-s1",
+      "last_modified": "2026-11-02T03:42:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-02T03:42:12.000Z",
+      "likes": 30,
+      "downloads": 99560,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "SakikoTogawa/pi05_aloha_real_agilex_nesting_doll-full",
+      "last_modified": "2026-11-02T03:42:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidafrica/mr-runs-lc-hard-sft-anti-s2",
+      "last_modified": "2026-11-02T03:42:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thapate/H3",
+      "last_modified": "2026-11-02T03:42:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "IndrasMirror/LFM3-Omni-2B-XQ-Uncensored",
+      "last_modified": "2026-11-02T03:42:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "any-to-any"
+    },
+    {
+      "model_id": "davidafrica/mr-runs-lc-hard-sft-anti-s1",
+      "last_modified": "2026-11-02T03:42:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidafrica/mr-runs-lc-hard-opd-pro-s2",
+      "last_modified": "2026-11-02T03:42:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
