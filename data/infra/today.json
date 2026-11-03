@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-03T00:15:06.722635+00:00",
+    "generated_at": "2026-11-03T13:23:07.010519+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -24,13 +24,7 @@
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": [
-        {
-          "name": " Cloudflare Gateway DNS-over-TLS Connectivity Issues over IPv4",
-          "status": "investigating",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     }
   ]
 }
