@@ -1,170 +1,170 @@
 {
   "metadata": {
     "domain": "fda",
-    "generated_at": "2026-11-02T14:23:27.816291+00:00",
+    "generated_at": "2026-11-03T00:15:07.134664+00:00",
     "total_items": 20,
     "schema_version": "1.0.0"
   },
   "recalls": [
     {
-      "recall_number": "D-0041-2027",
-      "recalling_firm": "Houston Rx LLC",
-      "product_description": "Sermorelin, 1 mg/mL, 10 ml vial, Sterile injectable solution, RX Only, Houston RX LLC, 15430 Vantage Parkway E STE 220, Houston, TX 77032.",
-      "reason_for_recall": "Lack of process control",
+      "recall_number": "D-0062-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, Mint Chocolate Chip Ice Cream Flavored Toothpaste, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-520-35, Item # 88520, UPC 8 10147 88520 6",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261021"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0038-2027",
-      "recalling_firm": "Teva Pharmaceuticals USA, Inc",
-      "product_description": "Metoclopramide Tablets, USP, 5 mg, [100 or 500] Tablets per bottle, Rx Only, Manufactured for: Teva Pharmaceuticals, Parsippany, NJ 07054.  NDC 100 Tablets: 0093-2204-01; NDC 500 Tablets: 0093-2204-05",
-      "reason_for_recall": "Presence of Foreign Tablets/Capsules",
-      "classification": "Class II",
-      "report_date": "20261021"
+      "recall_number": "D-0082-2027",
+      "recalling_firm": "Par Health USA, LLC",
+      "product_description": "Argatroban Injection, USP, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Manufactured for: Endo USA, Malvern,PA 19355/Argatroban Injection, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only,  Distributed by: Par Pharmaceutical, Chestnut Ridge, NY 10977, NDC 42023-182-01.",
+      "reason_for_recall": "Particulate matter: particulate matter identified as cellulose, polystyrene, polyethylene teraphalate, stainless steel, or stopper material in the product solution.",
+      "classification": "Class I",
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0042-2027",
-      "recalling_firm": "American Health Packaging",
-      "product_description": "Metoclopramide Tablets, USP, 5 mg, 100 Tablets (10 x 10), Rx Only, Distributed by: American Health Packaging, Columbus, Ohio 43217.  NDC Carton: 60687-620-01; NDC Unit Dose: 60687-620-11",
-      "reason_for_recall": "Presence of Foreign Tablets/Capsules",
+      "recall_number": "D-0060-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "evo, Sensitive, Anticavity Fluoride Toothpaste, (potassium nitrate 5%, sodium fluoride 0.24%) Sweet Mint, Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-620-35, Item # 88620 UPC8 10147 88620 3",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261021"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0039-2027",
-      "recalling_firm": "Zydus Pharmaceuticals (USA) Inc",
-      "product_description": "Hydrocortisone Sodium Succinate for Injection, USP 100 mg/vial, 1 Vial, Rx Only, Manufactured by: Zydus Lifesciences Ltd., Vadodara - 391510 India, Distributed by: Zydus Pharmaceuticals (USA) Inc., Pennington, NJ 08534, NDC 70710-1907-1.",
-      "reason_for_recall": "Failed Impurities/Degradation Specifications.",
+      "recall_number": "D-0056-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, Crayola, Silly Scents, Anticavity Fluoride Toothpaste, (sodium fluoride0.243%) Watermelon Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-004-40, Item # Product code: 32730, UPC 8 50048 32730 6.",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261021"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0040-2027",
-      "recalling_firm": "Houston Rx LLC",
-      "product_description": "Tirzepatide/Niacinamide 2mL vial (40 MG per Vial) Inj 20mg/2mg/mL, RX Only, Houston RX LLC, 15430 Vantage Parkway E STE 220, Houston, TX 77032.",
-      "reason_for_recall": "Lack of assurance of sterility.",
+      "recall_number": "D-0067-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "BB (Brush Buddies) Advanced Whitening, Anti-Cavity Fluoride Toothpaste, (sodium fluoride 0,24%) Peppermint, Net Wt 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-885-42, Item # 88542, UPC 8 10147 88542 8",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261021"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0006-2027",
-      "recalling_firm": "K.C. Pharmaceuticals, Inc.",
-      "product_description": "Sterile Lubricant Dry Eye Relief Eye Drops, 0.5 FL OZ (15 mL); a) LEADER, DISTRIBUTED BY CARDINAL HEALTH, DUBLIN, OHIO 43017, www.myleader.com, NDC 70000-0502-1; b) Crocodile Tears, Distributed by: Crocodile Tears, Palm Beach Gardens, FL 33410, UPC: 8 67166 00000 4; c) Discount drug mart, Discount Drug Mart Food Fair, Medina, OH 44256, UPC: 0 93351 01156 6; d) exchange select, Manufactured for your Military Exchange By: K.C Pharmaceuticals, Inc., Pomona, CA 9176, UPC: 6 14299 05620 6; e) GERI CARE, Distributed by: Gericare Pharmaceuticals Corp., 1295 Towbin Ave., Lakewood, NJ 08701, NDC 57896-181-05; f) H.E.B Dry Eye,  Eye Drops, MADE WITH PRIDE & CARE FOR H-E-B, SAN ANTONIO, TX 78204, UPC 0 41220 43741 2; g) Harris Teeter, PROUDLY DISTRIBUTED BY: HARRIS TEETER, LLC, MATTHEWS, NC 28105, UPC: 0 72036 71303 2; h) Foster & Thrive, Distributed by: McKesson Corp. Via Strategic Sourcing Servies LLC., Memphis, TN 38141, NDC 70677-1157-1; I) TopCare health, DISTRIBUTED BY TOPCO ASSOCIATES LLC, ELKGROVE VILLAGE, IL 60007, UPC 0 36800 36100 3.",
+      "recall_number": "D-0058-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, My Little Pony Scents Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Bubble Gum Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-008-40, Item# 88270, UPC 8 10147 88270 0.",
+      "reason_for_recall": "CGMP Deviations.",
+      "classification": "Class II",
+      "report_date": "20261028"
+    },
+    {
+      "recall_number": "D-0066-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "BB (Brush Buddies) Cavity Protection, Anti-Cavity Fluoride Toothpaste, (sodium monofluorophosphate 0.76%) Cool Mint, 2 Value Pack, Two 3.5 oz (99g) tubes, Total Net Wt 7 oz (198g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-035-10, Item # 88543, UPC 8 10147 88543 5",
+      "reason_for_recall": "CGMP Deviations.",
+      "classification": "Class II",
+      "report_date": "20261028"
+    },
+    {
+      "recall_number": "D-0079-2027",
+      "recalling_firm": "STRIDES PHARMA INC",
+      "product_description": "Cinacalcet Tablets, 30 mg, 30-count bottle, Rx only, Manufactured by: Strides Pharma Science Ltd. Puducherry, 605 014, India; Distributed by: Strides Pharma Inc. Bridgewater, NJ 08807, NDC 64380-883-04",
+      "reason_for_recall": "Failed dissolution specifications",
+      "classification": "Class II",
+      "report_date": "20261028"
+    },
+    {
+      "recall_number": "D-0054-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, Hot Wheels, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Strawberry Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-002-40, Item # 88047, UPC 8 10147 88047 8",
+      "reason_for_recall": "CGMP Deviations.",
+      "classification": "Class II",
+      "report_date": "20261028"
+    },
+    {
+      "recall_number": "D-0076-2027",
+      "recalling_firm": "Hikma Pharmaceuticals USA INC.",
+      "product_description": "Abirtega (abiraterone acetate) USP, 250 mg, 120-count bottles, Rx only, Rx only, Mfd for: Hikma Pharmaceuticals USA Inc., Berkley Heights, NJ 07922 USA by: Arab Pharmaceuticals Manufacturing PSC PO Box 41, Sahab-Jordon, NDC 82249-011-12.",
+      "reason_for_recall": "Failed Tablet/Capsule Specifications: Failed tablet specifications for weight uniformity.",
+      "classification": "Class II",
+      "report_date": "20261028"
+    },
+    {
+      "recall_number": "D-0050-2027",
+      "recalling_firm": "Shenzhen Techdow Pharmaceutical Co., Ltd.",
+      "product_description": "Heparin Sodium Injection, USP, 5,000 USP Units/mL, 1mL Multi dose vial x 25 vials per carton, Distributed by: Hepalink USA Inc., Langhome, PA 19047-1885.  Carton NDC: NDC 81952-111-06, Vial NDC: 81942-111-01",
       "reason_for_recall": "Lack of Assurance of Sterility",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0021-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "QUAD-MIX( PAPAV/PHENTO/ALPROS/TROP) INJECTABLE, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility:   Related to processing equipment used in compounded product.",
+      "recall_number": "D-0057-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, Crayola Silly Scents, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Strawberry Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-005-40, Item # 32732, UPC 8 50048 32732 0",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0027-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "TIRZEPATIDE/CYANOCOBALAMIN 26/2 MG/ML INJECTABLE, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
+      "recall_number": "D-0068-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "ARU, Toothpaste, Gum Health, 9 Ingredients, Soothing Mint, (stannous fluoride 0.45%) Net Wt 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-786-35, Item # 88786 UPC 8 10147 88786 6",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0022-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/1/20, injectable,  Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936,",
-      "reason_for_recall": "Lack of Assurance of Sterility:  Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
+      "recall_number": "D-0049-2027",
+      "recalling_firm": "Viatris, Inc.",
+      "product_description": "Telmisartan and Amlodipine, Tablets, USP, 40mg/5 mg, 30-count Bottle, Rx only, Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 USA, Made in India, NDC 0378-1075-93.",
+      "reason_for_recall": "Superpotent Drug: potential for the Telmisartan content in these lots to exceed specifications",
+      "classification": "Class III",
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0023-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/1/10, injectable,  Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936,",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
+      "recall_number": "D-0084-2027",
+      "recalling_firm": "Greenwich Rx",
+      "product_description": "Glutathione Injection (Glutathione-L, Ascorbic Acid, Sodium Hydroxide, Bacteriostatic Water), 200 mg/mL, 10 mL multi-dose vial, Rx only, Subcutaneous Only, Greenwich Rx.",
+      "reason_for_recall": "Microbial Contamination of Sterile Products",
+      "classification": "Class I",
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0025-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/1/60, injectable, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to processing equipment used in compounded product.",
+      "recall_number": "",
+      "recalling_firm": "AvKARE",
+      "product_description": "Amitriptyline Hydrochloride, Tablets, USP, 10 mg, 5 x 10 Unit dose cards in paper cartons,  Rx only, Manufactured for AvKARE, Pulaski, TN 38478, NDC 50268-037-15.",
+      "reason_for_recall": "Failed dissolution specifications.",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0004-2027",
-      "recalling_firm": "K.C. Pharmaceuticals, Inc.",
-      "product_description": "Sterile EYE DROPS Advanced Relief, (dextran 70, 0.1%, polyethylene glycol 400 1% and tetrahydrozoline HCl 0.05%), 0.5 FL OZ (15 mL) bottles, Sterile; a) LEADER, DISTRIBUTED BY CARDINAL HEALTH, DUBLIN, OHIO 43017, www.myleader.com, NDC 70000-0456-1; b) Equaline, DISTRIBUTED BY: UNFI, PROVIDENCE, RI 02908 UPC 0 41163 25392 6; c) GoodSense, Distributed By: Geiss, Destin& Dunn, Inc., A Perrigo Company, Peachtree City, GA 30269, www.PerrigoDirect.com, NDC 50804-130-01; d) H.E.B A.C. Eye Drops, MADE WITH PRIDE & CARE FOR H-E-B, SAN ANTONIO, TX 78204, UPC 0 41220 43745 0; e) Medic'c Choice, Manufactured by KC Pharmaceuticals, Inc., Pomona, CA 91768, NDC 55651-025-01; f) Foster & Thrive, Distributed by: McKesson Corp., via Strategic Sourcing Services LLC, Memphis, TN 38141, NDC 70677-1158-1; g) Colirio Manzanill A+, Distributed by: PRO-MEX, P.O Box 63-0716, Miami , FL 33163, UPC: 1 84125 00018 0; h) P, DISTRIBUTED BY PUBLIX SUPER MARKETS, INC, 3300 PUBLIX CORPORATE PARKWAY, LAKELAND, FL 33811, UPC 0 41415 06776 9; I) QC-Quality Choice, Distributed by: CDMA, Inc., Novi, MI 48375, NDC 83324-191-14; J) TopCare health, DISTRIBUTED BY TOPCO ASSOCIATES LLC, ELKGROVE VILLAGE, IL 60007, UPC 0 36800 03641 3.",
-      "reason_for_recall": "Lack of Assurance of Sterility",
-      "classification": "Class II",
-      "report_date": "20261014"
+      "recall_number": "D-0083-2027",
+      "recalling_firm": "Par Health USA, LLC",
+      "product_description": "Argatroban Injection, USP, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Manufactured for: Endo USA, Malvern,PA 19355/ Argatroban Injection, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Distributed by: Par Pharmaceutical, Cranbury, NJ 08512, NDC 42023-182-89.",
+      "reason_for_recall": "Particulate matter: particulate matter identified as cellulose, polystyrene, polyethylene teraphalate, stainless steel, or stopper material in the product solution.",
+      "classification": "Class I",
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0014-2027",
-      "recalling_firm": "Cipla USA, Inc.",
-      "product_description": "Fosfomycin Tromethamine Granules for Oral Solution, (Equivalent to 3 Grams of Fosfomycin), 1 Single-Dose Sachet, Rx only, Manufactured by: Cipla Ltd., Kurkumbh-413802, Maharashtra, India, Manufactured for: Cipla USA, Inc., 10 Independence Boulevard, Suite 300, Warren, NJ 07059, NDC 69097-579-67.",
-      "reason_for_recall": "Failed Impurities/Degradation Specifications",
+      "recall_number": "D-0064-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "Brush Buddies, Chocolate Ice Cream Flavored Toothpaste, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-518-35, Item # 88518, UPC 8 10147 88518 3",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0032-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/2/40, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
+      "recall_number": "D-0052-2027",
+      "recalling_firm": "Pfizer",
+      "product_description": "Levoxyl (levothyroxine sodium tablets, USP), tablets, 175 mcg, 100 tablet bottle, Rx only, Distributed by Pfizer Inc., New York, NY 10017, Made in Austria.  NDC 60793-859-01.",
+      "reason_for_recall": "Subpotent Drug: confirmed out-of-specification (OOS) assay during stability testing.",
       "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     },
     {
-      "recall_number": "D-0016-2027",
-      "recalling_firm": "J&J INNOVATIVE MEDICINE",
-      "product_description": "IMAAVY (nipocalimab-aahu) Injection, 300 mg /1.62 mL (185 mg/mL) per single-dose vial, For Intravenous Infusion After Dilution, Rx only, Manufactured by: Janssen Biotech, Inc., Horsham, PA 19044.  NDC: 57894-800-01",
-      "reason_for_recall": "Presence of particulate matter.",
+      "recall_number": "D-0059-2027",
+      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
+      "product_description": "evo, Advanced Whitening, Anticavity Fluoride Toothpaste, (sodium fluoride 0.24%) Peppermint, Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-886-19, Item# 88619, UPC 8 10147 88619 7",
+      "reason_for_recall": "CGMP Deviations.",
       "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0007-2027",
-      "recalling_firm": "K.C. Pharmaceuticals, Inc.",
-      "product_description": "Sterile Eye Drops, ORIGINAL, Tetrahydrozoline HCl 0.05%   Redness Reliever \u00bf Fast Acting Formula) Product size: 0.5 fl oz (15 mL); a) Best Choice, PROUDLY DISTRIBUTED BY: VALU MERCHANDISERS, CO., 5000 KANSAS CITY, KS 66106, UPC 0 70038 47011 3; b) Discount drug mart, Discount Drug Mart Food Fair, Medina, OH 44256, UPC: 0 93351 01157 3; c) Good Sense Sterile Eye Drops, Distributed By: Geiss, Destin & Dunn, Inc., A Perrigo Company, Peachtree City, GA 30269, NDC 50804-141-01; d) H.E.B Dry Eye,  Eye Drops, MADE WITH PRIDE & CARE FOR H-E-B, SAN ANTONIO, TX 78204, UPC 0 41220 43747 4; e) Harris Teeter, PROUDLY DISTRIBUTED BY: HARRIS TEETER, LLC, MATTHEWS, NC 28105, UPC: 0 72036 71302 5; f) Circle K, Product manufactured for: Lil' Drug Store Products, Inc., Cedar Rapids, IA 52404, Proudly distributed: by Circle K Stores Inc., UPC: 1 94283 65135 8; g) Lil' DrugStore, Product manufactured for: Lil' Drug Store Products, Inc., 9300 Earhart Lane SW, Cedar Rapids, IA 52404, UPC: 3 66715 68324 3; h) QC, Quality Choice, Distributed by CDMA Inc, Novi, MI NDC 83324-340-15; i) TopCare health, DISTRIBUTED BY TOPCO ASSOCIATES LLC, ELKGROVE VILLAGE, IL 60007, UPC 0 36800 03639 0; j) Equate\", DISTRIBUTED BY WALMART INC., Bentonville, AR 72716, NDC 79903-158-05; k) Walgreens, DISTRIBUTED BY: WALGREEN CO., 200 WILMOT RD, DEERFIELD, IL 60015, UPC 3 11917 20073 6; l) Kroger, DISTRIBUTED BY THE KROGER CO., CINCINNATI, OHIO 45202, UPC 0 11110 38597 0.",
-      "reason_for_recall": "Lack of Assurance of Sterility",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0024-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS), 30/1/40, injectable, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility:  Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0036-2027",
-      "recalling_firm": "Apothecary Pharma LLC",
-      "product_description": "Tirzepatide Injection, 18mg/mL, 4 mL Sterile Multi-Dose Vial, Rx only, Apothecary Pharma, LLC, 1913 Evans Road, Cary, NC 27513, NDC 85091-001-18.",
-      "reason_for_recall": "Lack of Assurance of Sterility",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0013-2027",
-      "recalling_firm": "Preferred Pharmaceuticals, Inc.",
-      "product_description": "Lidocaine Ointment USP, 5% (Generic for Xylocaine), packaged in a 50 g jar, Rx only, Mfg: Taro Pharmaceuticals U.S.A., Inc., Prod# (NDC): 68788-7865-05",
-      "reason_for_recall": "Failed Content Uniformity Specifications",
-      "classification": "Class II",
-      "report_date": "20261014"
-    },
-    {
-      "recall_number": "D-0031-2027",
-      "recalling_firm": "Carolina Infusion, LLC",
-      "product_description": "Tri-MIX (PAPAV/PHENTO/ALPROS),30/2/20, injectable, Packaged in single-use dosage syringes, total mL dispensed based on dosage per specific patient prescription, Carolina Infusion LLC, 95 Bees Creek Road, Ridgeland, SC 29936",
-      "reason_for_recall": "Lack of Assurance of Sterility: Related to formulation using bacteriostic water; Related to processing equipment used in compounded product.",
-      "classification": "Class II",
-      "report_date": "20261014"
+      "report_date": "20261028"
     }
   ]
 }
