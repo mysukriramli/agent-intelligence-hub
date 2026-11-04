@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-04T13:34:12.322103+00:00",
+    "generated_at": "2026-11-04T23:02:19.792662+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "DimaTivator/effpretrain_ckpts",
-      "last_modified": "2026-11-04T13:34:10.000Z",
+      "model_id": "geocketa/Graceus777",
+      "last_modified": "2026-11-04T23:02:16.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mohitkrconnect/heed-simnotes-e2-qwen3.5-0.8b",
-      "last_modified": "2026-11-04T13:33:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-tasks-only-long-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:50.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-full-output-json-4ep-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:48.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mradermacher/AmhariXLM-0.5B-GGUF",
-      "last_modified": "2026-11-04T13:33:47.000Z",
+      "model_id": "zed122/merged2",
+      "last_modified": "2026-11-04T23:02:12.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mohitkrconnect/heed-full-output-lines-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:45.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-full-output-json-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:43.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "unl-reset/tofu-llama2-7b-forget01-ihl_reset_both-epoch08",
-      "last_modified": "2026-11-04T13:33:43.000Z",
+      "model_id": "zoarag/TanukiEnjoyer",
+      "last_modified": "2026-11-04T23:02:10.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "294-288-pretrain-interaction/160M-exp",
-      "last_modified": "2026-11-04T13:33:42.000Z",
-      "likes": 2,
-      "downloads": 6757,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-tasks-only-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "aarush22/cvpr-aarush",
-      "last_modified": "2026-11-04T13:33:38.000Z",
+      "model_id": "geocketa/MisterMR",
+      "last_modified": "2026-11-04T23:02:09.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mohitkrconnect/heed-tasks-only-qwen3.5-0.8b",
-      "last_modified": "2026-11-04T13:33:38.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "claudemama/s2s-timing16-fresh-hf3-001",
-      "last_modified": "2026-11-04T13:33:37.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Vxtzq/Crowd-v1",
-      "last_modified": "2026-11-04T13:33:36.000Z",
-      "likes": 32,
-      "downloads": 72686,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-tasks-qwen3-0.6b-exp054",
-      "last_modified": "2026-11-04T13:33:36.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-tasks-qwen3-0.6b-seed0",
-      "last_modified": "2026-11-04T13:33:34.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "mohitkrconnect/heed-tasks-qwen3-0.6b",
-      "last_modified": "2026-11-04T13:33:32.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "r9485/repvale-coach",
-      "last_modified": "2026-11-04T13:33:29.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "yuruny/asyncrl-async_s5_mb8_sc_klold_rtggm_b0p05_truncneg1_ev128-gs340",
-      "last_modified": "2026-11-04T13:33:27.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mradermacher/Qwen3.5-2B-cultural-heritage-eng-GGUF",
-      "last_modified": "2026-11-04T13:33:24.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "YiZhaoJasper/hdmi-16831-d2",
-      "last_modified": "2026-11-04T13:33:22.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "AyaHassan/fastmri-ckpts",
-      "last_modified": "2026-11-04T13:33:14.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mradermacher/Mero-Artemis-31B-v1-heretic-2-GGUF",
-      "last_modified": "2026-11-04T13:33:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "uiq/test",
-      "last_modified": "2026-11-04T13:33:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ACCC1380/realstyle2_anima",
-      "last_modified": "2026-11-04T13:33:03.000Z",
+      "model_id": "Indras123/Test",
+      "last_modified": "2026-11-04T23:02:08.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "geocketa/TheGuyWhoLovesAI",
+      "last_modified": "2026-11-04T23:02:04.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "annaoliynyk/mixer-retrieval",
+      "last_modified": "2026-11-04T23:02:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ChuyaoFu/Token-World",
+      "last_modified": "2026-11-04T23:02:01.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Syed110-3/karachi-aqi-predictor",
+      "last_modified": "2026-11-04T23:01:56.000Z",
+      "likes": 4,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "LooNuH/loom-wav2vec2-ru-onnx",
+      "last_modified": "2026-11-04T23:01:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ryaluous/GuidedArrow",
+      "last_modified": "2026-11-04T23:01:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "aarush22/cvpr-aarush",
+      "last_modified": "2026-11-04T23:01:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "joey00072/ohara-d28-a1b-stage1-state",
+      "last_modified": "2026-11-04T23:01:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "webAI-Official/Air-26B-A4B-gguf",
+      "last_modified": "2026-11-04T23:01:50.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "arvinesmaeilydev/xvla_PickUpTheCube_Dual_50_Focus_T2",
+      "last_modified": "2026-11-04T23:01:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "KuanKuanKuan/openlatent-fields",
+      "last_modified": "2026-11-04T23:01:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mhseo2/opd_sftm4ot3lr1e5m05_s1500_qwen3moe30b_ot3math-step40",
+      "last_modified": "2026-11-04T23:01:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "geocketa/King_Dong",
+      "last_modified": "2026-11-04T23:01:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "geocketa/Ringakiseki",
+      "last_modified": "2026-11-04T23:01:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "oxyllina/Melsbacksfriend",
+      "last_modified": "2026-11-04T23:01:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "oxyllina/majesticmadman841",
+      "last_modified": "2026-11-04T23:01:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "geocketa/NekoArc17",
+      "last_modified": "2026-11-04T23:01:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/DarkfireAI",
+      "last_modified": "2026-11-04T23:01:07.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/larryhparker1948",
+      "last_modified": "2026-11-04T23:01:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-04T23:01:04.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     }
   ]
 }
