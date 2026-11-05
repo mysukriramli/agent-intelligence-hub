@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-05T04:30:54.587797+00:00",
+    "generated_at": "2026-11-05T13:48:15.076873+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -24,7 +24,13 @@
     {
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
-      "active_incidents": []
+      "active_incidents": [
+        {
+          "name": "Increased Errors for Durable Objects in Western Europe",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
     }
   ]
 }
