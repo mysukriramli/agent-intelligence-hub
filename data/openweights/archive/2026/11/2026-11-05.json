@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-05T13:48:15.566664+00:00",
+    "generated_at": "2026-11-05T23:06:24.949640+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "meihant/AnonymousModel-mht",
-      "last_modified": "2026-11-05T13:48:14.000Z",
+      "model_id": "halilgokdal/GPEN-BFR-512-CoreML",
+      "last_modified": "2026-11-05T23:06:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "choppedgarlic/CYBER-FROST-Qwen3.8-Flash-Next-TensorFold-MLX-8bit",
+      "last_modified": "2026-11-05T23:06:08.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "anyantudre/mos-w2v-bert-2.0-bench",
-      "last_modified": "2026-11-05T13:48:10.000Z",
+      "model_id": "DAGroup-PKU/HumanWAM-Vanilla-Exploration",
+      "last_modified": "2026-11-05T23:06:05.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "daruokta/bifocalgemma-2026-11-02",
+      "last_modified": "2026-11-05T23:06:02.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "automatic-speech-recognition"
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "wckwan/WebShop-Olmo3-7B-DAPO-nostd-s1000",
+      "last_modified": "2026-11-05T23:06:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "tbd-lab/continual-learning-checkpoints",
+      "last_modified": "2026-11-05T23:05:46.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Osktakahashi/class-data-efficient-learning",
+      "last_modified": "2026-11-05T23:05:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JackHsieh/8B-base.8B-gpnp-kv-tags-thought-thoughts.iid-40M-sans-256.stride-1.suffix-conditional",
+      "last_modified": "2026-11-05T23:05:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "latentMO/cotcontrol-gptoss120b-flamingo1",
+      "last_modified": "2026-11-05T23:05:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "KuanKuanKuan/openlatent-fields",
+      "last_modified": "2026-11-05T23:04:54.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-05T23:04:51.000Z",
+      "likes": 33,
+      "downloads": 72807,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "jaharoni/open-source-bounties",
+      "last_modified": "2026-11-05T23:04:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "wckwan/WebShop-Qwen3-8B-NGU-nostd-s1000",
+      "last_modified": "2026-11-05T23:04:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sfoley3/streaming-wav2vt-onnx",
+      "last_modified": "2026-11-05T23:04:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Gemma-4-26B-A4B-Arabic-It-i1-GGUF",
+      "last_modified": "2026-11-05T23:04:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/Tetete80099",
+      "last_modified": "2026-11-05T23:04:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thurstonpowers/citation-extractor-fast",
+      "last_modified": "2026-11-05T23:04:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "arabago96/asm2-model",
+      "last_modified": "2026-11-05T23:04:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/Nation7",
+      "last_modified": "2026-11-05T23:04:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "7h3cyb3rm0nk/fine_tuned_detr_rcd",
+      "last_modified": "2026-11-05T23:04:08.000Z",
+      "likes": 0,
+      "downloads": 932,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "arabago96/spatial-cutout",
+      "last_modified": "2026-11-05T23:04:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Holo4-27B-MTP-Repacked-GGUF",
+      "last_modified": "2026-11-05T23:04:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Cisco1963/llmplasticity-nl_en_linear_8-rand-d0.006-c0.99-r0.5-s42",
+      "last_modified": "2026-11-05T23:04:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     },
     {
       "model_id": "realnewbiexvwu/pvz-agent-artifacts",
-      "last_modified": "2026-11-05T13:48:09.000Z",
+      "last_modified": "2026-11-05T23:04:02.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "reinforcement-learning"
     },
     {
-      "model_id": "akhilbattula/formcheck-vlm-v3",
-      "last_modified": "2026-11-05T13:48:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "294-288-pretrain-interaction/160M-rtp",
-      "last_modified": "2026-11-05T13:48:08.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "poolay2/qwen3.5-4B_tuned",
-      "last_modified": "2026-11-05T13:48:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "lily876/fn8",
-      "last_modified": "2026-11-05T13:48:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "lily876/fn10",
-      "last_modified": "2026-11-05T13:48:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "lily876/fn13",
-      "last_modified": "2026-11-05T13:48:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "lily876/fn16",
-      "last_modified": "2026-11-05T13:48:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn21",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn24",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn25",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn23",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn26",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn3",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn2",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn1",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn4",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn6",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn5",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn7",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn8",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn11",
-      "last_modified": "2026-11-05T13:48:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "sharp0203/cn10",
-      "last_modified": "2026-11-05T13:48:01.000Z",
+      "model_id": "arabago96/spatial-vision",
+      "last_modified": "2026-11-05T23:04:01.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"

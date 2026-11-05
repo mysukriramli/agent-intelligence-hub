@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-05T13:48:15.076873+00:00",
+    "generated_at": "2026-11-05T23:06:24.513003+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -9,7 +9,13 @@
     {
       "provider": "OpenAI",
       "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "active_incidents": [
+        {
+          "name": "ChatGPT Work and Dots Errors",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Anthropic",
