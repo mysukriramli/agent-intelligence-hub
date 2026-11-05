@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-04T23:02:19.792662+00:00",
+    "generated_at": "2026-11-05T04:30:55.119659+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "geocketa/Graceus777",
-      "last_modified": "2026-11-04T23:02:16.000Z",
+      "model_id": "Thox-ai/ThoxCode-8B",
+      "last_modified": "2026-11-05T04:30:52.000Z",
       "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zed122/merged2",
-      "last_modified": "2026-11-04T23:02:12.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zoarag/TanukiEnjoyer",
-      "last_modified": "2026-11-04T23:02:10.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "geocketa/MisterMR",
-      "last_modified": "2026-11-04T23:02:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Indras123/Test",
-      "last_modified": "2026-11-04T23:02:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-to-image"
-    },
-    {
-      "model_id": "geocketa/TheGuyWhoLovesAI",
-      "last_modified": "2026-11-04T23:02:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "annaoliynyk/mixer-retrieval",
-      "last_modified": "2026-11-04T23:02:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ChuyaoFu/Token-World",
-      "last_modified": "2026-11-04T23:02:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Syed110-3/karachi-aqi-predictor",
-      "last_modified": "2026-11-04T23:01:56.000Z",
-      "likes": 4,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "LooNuH/loom-wav2vec2-ru-onnx",
-      "last_modified": "2026-11-04T23:01:56.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ryaluous/GuidedArrow",
-      "last_modified": "2026-11-04T23:01:55.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "aarush22/cvpr-aarush",
-      "last_modified": "2026-11-04T23:01:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "joey00072/ohara-d28-a1b-stage1-state",
-      "last_modified": "2026-11-04T23:01:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "webAI-Official/Air-26B-A4B-gguf",
-      "last_modified": "2026-11-04T23:01:50.000Z",
-      "likes": 2,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "arvinesmaeilydev/xvla_PickUpTheCube_Dual_50_Focus_T2",
-      "last_modified": "2026-11-04T23:01:47.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "robotics"
-    },
-    {
-      "model_id": "KuanKuanKuan/openlatent-fields",
-      "last_modified": "2026-11-04T23:01:43.000Z",
+      "model_id": "aarush22/cvpr-aarush",
+      "last_modified": "2026-11-05T04:30:51.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mhseo2/opd_sftm4ot3lr1e5m05_s1500_qwen3moe30b_ot3math-step40",
-      "last_modified": "2026-11-04T23:01:39.000Z",
+      "model_id": "Thox-ai/ThoxMesh-32B",
+      "last_modified": "2026-11-05T04:30:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "RunningHubAI/rh-2023910539876900866-lora",
+      "last_modified": "2026-11-05T04:30:49.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "geocketa/King_Dong",
-      "last_modified": "2026-11-04T23:01:31.000Z",
+      "model_id": "Thox-ai/ThoxMesh-30B-A3B",
+      "last_modified": "2026-11-05T04:30:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Thox-ai/ThoxOpen-8B",
+      "last_modified": "2026-11-05T04:30:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Thox-ai/ThoxIntel-27B",
+      "last_modified": "2026-11-05T04:30:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "QianqianTech/custos-1.0-mlx",
+      "last_modified": "2026-11-05T04:30:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "mradermacher/Bielik-Minitron-7B-v3.0-Instruct-Malevolent-GGUF",
+      "last_modified": "2026-11-05T04:30:35.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "geocketa/Ringakiseki",
-      "last_modified": "2026-11-04T23:01:28.000Z",
+      "model_id": "Thox-ai/thox-pro-32b",
+      "last_modified": "2026-11-05T04:30:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "Sizhe-Chen/Qwen3.6-27B-Instruct-SecPO",
+      "last_modified": "2026-11-05T04:30:32.000Z",
+      "likes": 3,
+      "downloads": 229,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Thox-ai/thox-pro-24b",
+      "last_modified": "2026-11-05T04:30:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Thox-ai/thox-pro-14b",
+      "last_modified": "2026-11-05T04:30:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "SelfDriving-VLA/laq-ad-backup",
+      "last_modified": "2026-11-05T04:30:24.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "oxyllina/Melsbacksfriend",
-      "last_modified": "2026-11-04T23:01:26.000Z",
+      "model_id": "eyupyilmaz/bhdai",
+      "last_modified": "2026-11-05T04:30:23.000Z",
       "likes": 0,
       "downloads": 0,
+      "pipeline_tag": "tabular-classification"
+    },
+    {
+      "model_id": "Thox-ai/thox-pro-8b",
+      "last_modified": "2026-11-05T04:30:22.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "BultenHub/bhdai",
+      "last_modified": "2026-11-05T04:30:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "tabular-classification"
+    },
+    {
+      "model_id": "RunningHubAI/rh-qwen-2511-lora-2063442098585694210",
+      "last_modified": "2026-11-05T04:30:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-image"
+    },
+    {
+      "model_id": "Thox-ai/thox-cluster-deep",
+      "last_modified": "2026-11-05T04:30:17.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "eyupyilmaz/bhkai",
+      "last_modified": "2026-11-05T04:30:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "Thox-ai/thox-cluster-maverick",
+      "last_modified": "2026-11-05T04:30:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "BultenHub/bhkai",
+      "last_modified": "2026-11-05T04:30:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "abbuibuibui/RemiAyasaki-Lora",
+      "last_modified": "2026-11-05T04:30:07.000Z",
+      "likes": 0,
+      "downloads": 119,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "oxyllina/majesticmadman841",
-      "last_modified": "2026-11-04T23:01:23.000Z",
+      "model_id": "Thox-ai/thox-cluster-secure",
+      "last_modified": "2026-11-05T04:30:07.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "geocketa/NekoArc17",
-      "last_modified": "2026-11-04T23:01:21.000Z",
+      "model_id": "Thox-ai/thox-cluster-scout",
+      "last_modified": "2026-11-05T04:30:02.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zoarag/DarkfireAI",
-      "last_modified": "2026-11-04T23:01:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zoarag/larryhparker1948",
-      "last_modified": "2026-11-04T23:01:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "mmknnk/star-checkpoints",
-      "last_modified": "2026-11-04T23:01:04.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "text-generation"
     }
   ]
 }

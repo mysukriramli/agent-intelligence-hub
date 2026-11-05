@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-04T23:02:19.291563+00:00",
+    "generated_at": "2026-11-05T04:30:54.587797+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -9,13 +9,7 @@
     {
       "provider": "OpenAI",
       "overall_status": "All Systems Operational",
-      "active_incidents": [
-        {
-          "name": "Elevated error rates across paid ChatGPT plans",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
