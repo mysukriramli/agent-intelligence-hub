@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-06T04:29:53.685160+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": [
+        {
+          "name": "ChatGPT Work and Dots Errors",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": [
+        {
+          "name": "Increased Errors for Durable Objects in Western Europe",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
