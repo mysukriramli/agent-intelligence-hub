@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-06T22:36:06.754854+00:00",
+    "generated_at": "2026-11-07T03:57:02.272376+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -11,8 +11,8 @@
       "overall_status": "All Systems Operational",
       "active_incidents": [
         {
-          "name": "Elevated error rates with Brex Cards and U.S. business Mastercards",
-          "status": "identified",
+          "name": "Elevated error rates with some U.S. business Mastercards",
+          "status": "monitoring",
           "impact": "none"
         }
       ]
@@ -31,6 +31,11 @@
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
       "active_incidents": [
+        {
+          "name": "Spectrum Availability Issue in Phoenix",
+          "status": "monitoring",
+          "impact": "minor"
+        },
         {
           "name": "Fedramp Customers have Delayed Purges",
           "status": "identified",
