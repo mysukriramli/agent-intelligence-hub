@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-08T12:32:26.763319+00:00",
+    "generated_at": "2026-11-08T21:30:59.119607+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -25,13 +25,7 @@
     {
       "provider": "GitHub",
       "overall_status": "All Systems Operational",
-      "active_incidents": [
-        {
-          "name": "Increase in timeouts for some unauthenticated users",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "active_incidents": []
     },
     {
       "provider": "Cloudflare",

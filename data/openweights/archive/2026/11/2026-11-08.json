@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-08T12:32:27.351413+00:00",
+    "generated_at": "2026-11-08T21:30:59.773366+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "ryan-xman66/tcod-resume-alfworld_sacd_3b_confidence_tau1.28_beta1.0_sftplain_lazy_teache-6ff3a7",
-      "last_modified": "2026-11-08T12:32:25.000Z",
+      "model_id": "ryaluous/rgomezs2010",
+      "last_modified": "2026-11-08T21:30:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MatterWaveAI/helmholtz-s1-mamba-b0.7.0-20m",
-      "last_modified": "2026-11-08T12:32:25.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-s1-jepa-b0.7.0-20m",
-      "last_modified": "2026-11-08T12:32:24.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "ryan-xman66/tcod-resume-alfworld_tcod_b2f_1p5b_20260916012014-7cf9fc",
-      "last_modified": "2026-11-08T12:32:22.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-mamba-b0.7.0-20m",
-      "last_modified": "2026-11-08T12:32:22.000Z",
-      "likes": 0,
-      "downloads": 0,
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-08T21:30:53.000Z",
+      "likes": 36,
+      "downloads": 78368,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "MatterWaveAI/helmholtz-omni-b0.7.0-20m",
-      "last_modified": "2026-11-08T12:32:21.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "any-to-any"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-jepa-b0.7.0-20m",
-      "last_modified": "2026-11-08T12:32:20.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "ryan-xman66/tcod-resume-alfworld_tcod_f2b_1p5b_20260915170011-5116f5",
-      "last_modified": "2026-11-08T12:32:19.000Z",
+      "model_id": "tottie2215/michaelv1",
+      "last_modified": "2026-11-08T21:30:50.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MatterWaveAI/helmholtz-s1-mamba-b0.7.0-10m",
-      "last_modified": "2026-11-08T12:32:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-s1-jepa-b0.7.0-10m",
-      "last_modified": "2026-11-08T12:32:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "ryan-xman66/tcod-resume-alfworld_opd_1p5b_20260919112304-272653",
-      "last_modified": "2026-11-08T12:32:16.000Z",
+      "model_id": "arianraje/qwen3-4b-gdn-hybrid-dataset-kd-8k-400m",
+      "last_modified": "2026-11-08T21:30:45.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MatterWaveAI/helmholtz-mamba-b0.7.0-10m",
-      "last_modified": "2026-11-08T12:32:15.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-omni-b0.7.0-10m",
-      "last_modified": "2026-11-08T12:32:14.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "any-to-any"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-jepa-b0.7.0-10m",
-      "last_modified": "2026-11-08T12:32:12.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "MatterWaveAI/s1-grt-mamba",
-      "last_modified": "2026-11-08T12:32:11.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "wckwan/Alfworld-Qwen3-8B-DAPO",
-      "last_modified": "2026-11-08T12:32:10.000Z",
+      "model_id": "sadik585858/oyuncak",
+      "last_modified": "2026-11-08T21:30:44.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "MohammadGholizadeh/Qwen2.5-7B-Instruct-cat-gen8-s42",
-      "last_modified": "2026-11-08T12:32:10.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-mamba-1",
-      "last_modified": "2026-11-08T12:32:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "MatterWaveAI/s1-grt-jepa",
-      "last_modified": "2026-11-08T12:32:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "ood-lab/continual-learning-checkpoints",
-      "last_modified": "2026-11-08T12:32:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-1-omni",
-      "last_modified": "2026-11-08T12:32:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "any-to-any"
-    },
-    {
-      "model_id": "MatterWaveAI/helmholtz-1",
-      "last_modified": "2026-11-08T12:32:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "ryosuke-kawashima-career/qwen3-0.6b-grpo-gsm8k",
-      "last_modified": "2026-11-08T12:31:56.000Z",
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-08T21:30:42.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "reinforcement-learning"
     },
     {
-      "model_id": "kybird/ttstextreader",
-      "last_modified": "2026-11-08T12:31:51.000Z",
+      "model_id": "Amanafif554/merit-paper-experiment-2",
+      "last_modified": "2026-11-08T21:30:40.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "kayla162/shoppilot-qwen2.5-1.5b-tools-lora",
-      "last_modified": "2026-11-08T12:31:41.000Z",
+      "model_id": "ZhichengLiao/OPD_PEFT-ckpts",
+      "last_modified": "2026-11-08T21:30:39.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "text-generation"
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Asilarkness/chess-nets",
+      "last_modified": "2026-11-08T21:30:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "oxyllina/game1234567610",
+      "last_modified": "2026-11-08T21:30:33.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "licyk/sd-webui-all-in-one",
+      "last_modified": "2026-11-08T21:30:29.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "arianraje/qwen3-4b-gdn-hybrid-dataset-kd-4k-400m",
+      "last_modified": "2026-11-08T21:30:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "namkiett/phowhisper-qwen-adapter",
+      "last_modified": "2026-11-08T21:30:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "imranegiche/qwen-docx-lora-v1",
+      "last_modified": "2026-11-08T21:30:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "oxyllina/Shorgall",
+      "last_modified": "2026-11-08T21:30:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Lilgarca/my-model-v02",
+      "last_modified": "2026-11-08T21:29:59.000Z",
+      "likes": 0,
+      "downloads": 221,
+      "pipeline_tag": "any-to-any"
+    },
+    {
+      "model_id": "arianraje/qwen3-4b-gdn-hybrid-dataset-kd-8k-200m",
+      "last_modified": "2026-11-08T21:29:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-08T21:29:48.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zoarag/senablab",
+      "last_modified": "2026-11-08T21:29:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "geocketa/zogbober",
+      "last_modified": "2026-11-08T21:29:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Cypher137/liech",
+      "last_modified": "2026-11-08T21:29:32.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ryaluous/neph1",
+      "last_modified": "2026-11-08T21:29:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "malkolm777/zils-lite-decision-v4",
+      "last_modified": "2026-11-08T21:29:21.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "AdaptiveChunking/ali_mem-shuffled_s0",
+      "last_modified": "2026-11-08T21:29:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "fhir4ds/terminology",
+      "last_modified": "2026-11-08T21:29:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     }
   ]
 }
