@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-08T03:41:51.083073+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "iamalibaig/seclab-web3-adapter",
+      "last_modified": "2026-11-08T03:41:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "seintartop/god-c613dca3-x-3aaccb7-11080315",
+      "last_modified": "2026-11-08T03:41:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "LundAISociety/hot-models",
+      "last_modified": "2026-11-08T03:41:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mkd-minkeun/Keural-Lab-1108",
+      "last_modified": "2026-11-08T03:41:35.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AmSach/Gemma-4-26B-A4B-MAPLE-Sub5GB-GGUF",
+      "last_modified": "2026-11-08T03:41:32.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "ZAQERIS/ZAQERIS_AXIOM",
+      "last_modified": "2026-11-08T03:41:30.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "FRD-23/Coffee_Real_Test",
+      "last_modified": "2026-11-08T03:41:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Qwen2.5-32B-Instruct-SOM-heretic-i1-GGUF",
+      "last_modified": "2026-11-08T03:41:00.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Grawnch/Kimi-K3.1-Pro-Coder",
+      "last_modified": "2026-11-08T03:40:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ANWERFATEHY/Tiny_Llama",
+      "last_modified": "2026-11-08T03:40:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "TUaxhuiax/filesystem_terminal_huggingface_2983_release_k7m2q9",
+      "last_modified": "2026-11-08T03:40:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SpaceTimee/Suri-Qwen-3.8-27B-Uncensored-GGUF",
+      "last_modified": "2026-11-08T03:40:33.000Z",
+      "likes": 9,
+      "downloads": 18106,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "tvall43/Qwen3.5-2B-heretic-QSA-experiments",
+      "last_modified": "2026-11-08T03:40:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "ununununununununununununununununununun/ltx-video-2b-phi-lattice-v2",
+      "last_modified": "2026-11-08T03:40:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-to-video"
+    },
+    {
+      "model_id": "ununununununununununununununununununun/umt5-xxl-encoder-phi-lattice-v2",
+      "last_modified": "2026-11-08T03:40:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-video"
+    },
+    {
+      "model_id": "Lilgarca/my-model-v02",
+      "last_modified": "2026-11-08T03:40:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "any-to-any"
+    },
+    {
+      "model_id": "xtools-at/Qwen3.8-27B-CodeForge-3xMerge-UNCENSORED-heretic",
+      "last_modified": "2026-11-08T03:40:00.000Z",
+      "likes": 0,
+      "downloads": 67,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "duongve/Loras_Diffusion_model",
+      "last_modified": "2026-11-08T03:39:42.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "khmerfakenews/mes-sdxs09-onnx",
+      "last_modified": "2026-11-08T03:39:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Yoshino2-1B-i1-GGUF",
+      "last_modified": "2026-11-08T03:39:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hitheshkaranth/skanda-grounding-int8",
+      "last_modified": "2026-11-08T03:38:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "HR26kk/BLACK-BOX_max-164M",
+      "last_modified": "2026-11-08T03:38:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "CyanMonkey/TestSubject-3-support",
+      "last_modified": "2026-11-08T03:38:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/SWE-Lego-Verifier-30B-A3B-i1-GGUF",
+      "last_modified": "2026-11-08T03:38:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DolphinLi888/DriveVisionOcc",
+      "last_modified": "2026-11-08T03:38:41.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
