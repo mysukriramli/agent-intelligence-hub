@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-09T03:54:17.450819+00:00",
+    "generated_at": "2026-11-09T14:50:25.899112+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -31,11 +31,6 @@
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
       "active_incidents": [
-        {
-          "name": "Spectrum Availability Issue in Phoenix",
-          "status": "monitoring",
-          "impact": "minor"
-        },
         {
           "name": "Fedramp Customers have Delayed Purges",
           "status": "identified",
