@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-10T01:01:43.942184+00:00",
+    "generated_at": "2026-11-10T14:02:17.484159+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -32,8 +32,8 @@
       "overall_status": "Partial System Outage",
       "active_incidents": [
         {
-          "name": "Changes made to Workers may be delayed or disrupted",
-          "status": "monitoring",
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "investigating",
           "impact": "minor"
         },
         {

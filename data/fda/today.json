@@ -1,170 +1,170 @@
 {
   "metadata": {
     "domain": "fda",
-    "generated_at": "2026-11-10T01:01:44.386702+00:00",
+    "generated_at": "2026-11-10T14:02:17.925895+00:00",
     "total_items": 20,
     "schema_version": "1.0.0"
   },
   "recalls": [
     {
-      "recall_number": "D-0062-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, Mint Chocolate Chip Ice Cream Flavored Toothpaste, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-520-35, Item # 88520, UPC 8 10147 88520 6",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0103-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Wechem Hand Guard8/1000mL Bag, Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA, 30013",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0082-2027",
-      "recalling_firm": "Par Health USA, LLC",
-      "product_description": "Argatroban Injection, USP, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Manufactured for: Endo USA, Malvern,PA 19355/Argatroban Injection, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only,  Distributed by: Par Pharmaceutical, Chestnut Ridge, NY 10977, NDC 42023-182-01.",
-      "reason_for_recall": "Particulate matter: particulate matter identified as cellulose, polystyrene, polyethylene teraphalate, stainless steel, or stopper material in the product solution.",
-      "classification": "Class I",
-      "report_date": "20261028"
-    },
-    {
-      "recall_number": "D-0060-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "evo, Sensitive, Anticavity Fluoride Toothpaste, (potassium nitrate 5%, sodium fluoride 0.24%) Sweet Mint, Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-620-35, Item # 88620 UPC8 10147 88620 3",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0104-2027",
+      "recalling_firm": "Fei Fah Medical Manufacturing Pte. Ltd.",
+      "product_description": "ULTRA STRENTGH, ELECTRIC MIDICATED BALM (menthol 16% and methyl salicylate 32%) packaged in a) Net 2.45 oz (70g) (NDC 63299-001-01) and b) 10g (NDC 63299-001-02), Manufactured by Fei Fah Medical Mfg Pte Ltd, Singapore, U.S Distributor: SOLISTICE MEDICINE COMPANY, 215 West Ann Street, Los Angeles, CA 90012",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0056-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, Crayola, Silly Scents, Anticavity Fluoride Toothpaste, (sodium fluoride0.243%) Watermelon Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-004-40, Item # Product code: 32730, UPC 8 50048 32730 6.",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0077-2027",
+      "recalling_firm": "MACLEODS PHARMA USA, INC",
+      "product_description": "Olmesartan Medoxomil, Amlodipine, and Hydrochlorothiazide Tablets 40 mg/10 mg/12.5mg, packaged as a) 30-count bottle, NDC 33342-246-07; b) 90-count bottle, NDC 33342-246-10;  Rx Only, Manufactured for : Macleods Pharma USA, Inc. Princeton, NJ 08540, Manufactured by: Macleods Pharmaceuticals Ltd, Daman, 396210, India",
+      "reason_for_recall": "Failed Dissolution Specifications.",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0067-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "BB (Brush Buddies) Advanced Whitening, Anti-Cavity Fluoride Toothpaste, (sodium fluoride 0,24%) Peppermint, Net Wt 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-885-42, Item # 88542, UPC 8 10147 88542 8",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0092-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Lynx, LX0864 peachy-foam antiseptic handsoap, 1000 ML (33.8 FL OZ.) Manufactured by: ABC Compounding Co., INC., 2500 Dogwood Dr., Conyers, GA 30013, UPC 711808210804.",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0058-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, My Little Pony Scents Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Bubble Gum Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-008-40, Item# 88270, UPC 8 10147 88270 0.",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0080-2027",
+      "recalling_firm": "Huons Co., Ltd.",
+      "product_description": "Carboxymethylcellulose Sodium, 0.5% Lubricant Eye Drops, Sterile, 30 Single-Use Containers, 0.02 FL OZ (0.5 mL) each, Manufactured by: Huons Co., Ltd, Jecheon-si, Chungcheongbuk-do, 27159, South Korea; Marketed by: GSMS Incorporated, Camarillo, CA 93012, USA. NDC 51407-945-30  Pouch Label: Carboxymethylcellulose Sodium, Lubricant Eye Drops, 0.5 mL, Single-Use, gsms.",
+      "reason_for_recall": "Failed Impurities/Degradation Specification; detection of polyethylene (PE)-related oligomers",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0066-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "BB (Brush Buddies) Cavity Protection, Anti-Cavity Fluoride Toothpaste, (sodium monofluorophosphate 0.76%) Cool Mint, 2 Value Pack, Two 3.5 oz (99g) tubes, Total Net Wt 7 oz (198g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-035-10, Item # 88543, UPC 8 10147 88543 5",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0098-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "PRO CHEM BAN AID, Antiseptic Hand Soap, Net Contents: 1 GALLON (3.8 L), Sold by: PRO CHEM, Inc.,1475 Bluegrass Lakes Parkway, Alpharetta, GA 30004.",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0079-2027",
-      "recalling_firm": "STRIDES PHARMA INC",
-      "product_description": "Cinacalcet Tablets, 30 mg, 30-count bottle, Rx only, Manufactured by: Strides Pharma Science Ltd. Puducherry, 605 014, India; Distributed by: Strides Pharma Inc. Bridgewater, NJ 08807, NDC 64380-883-04",
-      "reason_for_recall": "Failed dissolution specifications",
+      "recall_number": "D-0091-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Antiseptic Hand Soap, Net Contents: 1 Gallon (3.8 L) Distributed By: image supply, inc., P.O. Box 1108, 5081 Dawn Drive, Lumberton, NC28359",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0054-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, Hot Wheels, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Strawberry Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-002-40, Item # 88047, UPC 8 10147 88047 8",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0101-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Spurrier, Antimicrobial Hand Soap, Net Contents: 1 Gallon (3.8 L), Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA, 30013, UPC 726133100508",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0076-2027",
-      "recalling_firm": "Hikma Pharmaceuticals USA INC.",
-      "product_description": "Abirtega (abiraterone acetate) USP, 250 mg, 120-count bottles, Rx only, Rx only, Mfd for: Hikma Pharmaceuticals USA Inc., Berkley Heights, NJ 07922 USA by: Arab Pharmaceuticals Manufacturing PSC PO Box 41, Sahab-Jordon, NDC 82249-011-12.",
-      "reason_for_recall": "Failed Tablet/Capsule Specifications: Failed tablet specifications for weight uniformity.",
+      "recall_number": "D-0089-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Freshhands Premium Foamy Antibacterial Hand Soap Antiseptic, Net Contents: 18 oz (532 mL), Sold By; Consolidated Chemicals, LLC, 3191 W Tharpe St. Tallahassee, FL 32303 USA, UPC",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0050-2027",
-      "recalling_firm": "Shenzhen Techdow Pharmaceutical Co., Ltd.",
-      "product_description": "Heparin Sodium Injection, USP, 5,000 USP Units/mL, 1mL Multi dose vial x 25 vials per carton, Distributed by: Hepalink USA Inc., Langhome, PA 19047-1885.  Carton NDC: NDC 81952-111-06, Vial NDC: 81942-111-01",
-      "reason_for_recall": "Lack of Assurance of Sterility",
+      "recall_number": "D-0075-2027",
+      "recalling_firm": "Safecor Health, LLC",
+      "product_description": "Metoclopramide Tablets, USP, 5 mg, 100 Tablets per bottle, Rx Only, Manufactured for: Teva Pharmaceuticals, Parsippany, NJ 07054. NDC: 51079-886-20.",
+      "reason_for_recall": "Manufacturer is recalling batches due to co-mingled tablet.",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0057-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, Crayola Silly Scents, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Strawberry Flavor, Net Wt. 4.0 oz (113g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-005-40, Item # 32732, UPC 8 50048 32732 0",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0102-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "SunCoast Paper Inc. Surgent Antiseptic Hand Soap, Net Contents : 1 Gallon (3.8 L), SunCoast Paper In., 4111 Community Rd., Brunswick, GA 31520, UPC 654441P10219",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0068-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "ARU, Toothpaste, Gum Health, 9 Ingredients, Soothing Mint, (stannous fluoride 0.45%) Net Wt 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-786-35, Item # 88786 UPC 8 10147 88786 6",
-      "reason_for_recall": "CGMP Deviations.",
-      "classification": "Class II",
-      "report_date": "20261028"
-    },
-    {
-      "recall_number": "D-0049-2027",
-      "recalling_firm": "Viatris, Inc.",
-      "product_description": "Telmisartan and Amlodipine, Tablets, USP, 40mg/5 mg, 30-count Bottle, Rx only, Manufactured for: Mylan Pharmaceuticals Inc., Morgantown, WV 26505 USA, Made in India, NDC 0378-1075-93.",
-      "reason_for_recall": "Superpotent Drug: potential for the Telmisartan content in these lots to exceed specifications",
+      "recall_number": "D-0108-2027",
+      "recalling_firm": "Meitheal Pharmaceuticals, Inc",
+      "product_description": "Vecuronium Bromide for Injection, 10mg, 10 Single-Dose Vials per carton, Sterile, Rx Only, Mfd. for Meitheal Pharmaceuticals, Chicago, IL.  NDC: 71288-744-11",
+      "reason_for_recall": "Labeling: Label Lacks Warning or Rx Legend",
       "classification": "Class III",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0084-2027",
-      "recalling_firm": "Greenwich Rx",
-      "product_description": "Glutathione Injection (Glutathione-L, Ascorbic Acid, Sodium Hydroxide, Bacteriostatic Water), 200 mg/mL, 10 mL multi-dose vial, Rx only, Subcutaneous Only, Greenwich Rx.",
-      "reason_for_recall": "Microbial Contamination of Sterile Products",
-      "classification": "Class I",
-      "report_date": "20261028"
-    },
-    {
-      "recall_number": "",
-      "recalling_firm": "AvKARE",
-      "product_description": "Amitriptyline Hydrochloride, Tablets, USP, 10 mg, 5 x 10 Unit dose cards in paper cartons,  Rx only, Manufactured for AvKARE, Pulaski, TN 38478, NDC 50268-037-15.",
-      "reason_for_recall": "Failed dissolution specifications.",
+      "recall_number": "D-0073-2027",
+      "recalling_firm": "The Ritedose Corporation",
+      "product_description": "Formoterol Fumarate Inhalation Solution, 20mcg/2mL, packaged in cartons of 30 individually wrapped vials (NDC 76204-030-01) and 60 individually wrapped vials (NDC 76204-030-02), Rx only, Manufactured for and by: Ritedose Pharmaceuticals, LLC, Columbia, SC",
+      "reason_for_recall": "Failed Impurities/Degradation Specification",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0083-2027",
-      "recalling_firm": "Par Health USA, LLC",
-      "product_description": "Argatroban Injection, USP, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Manufactured for: Endo USA, Malvern,PA 19355/ Argatroban Injection, 250 mg/2.5mL (100 mg/mL), 2.5 mL x 1 Single Dose Vial, Rx only, Distributed by: Par Pharmaceutical, Cranbury, NJ 08512, NDC 42023-182-89.",
-      "reason_for_recall": "Particulate matter: particulate matter identified as cellulose, polystyrene, polyethylene teraphalate, stainless steel, or stopper material in the product solution.",
-      "classification": "Class I",
-      "report_date": "20261028"
-    },
-    {
-      "recall_number": "D-0064-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "Brush Buddies, Chocolate Ice Cream Flavored Toothpaste, Anticavity Fluoride Toothpaste, (sodium fluoride 0.243%) Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-518-35, Item # 88518, UPC 8 10147 88518 3",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0086-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Aerocare Sani Mango Antiseptic Hand and Body Wash, Net Contents: 1 Gallon (3.8 L), Manufactured By: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA 33013, UPC 711808198249",
+      "reason_for_recall": "CGMP Deviations",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0052-2027",
-      "recalling_firm": "Pfizer",
-      "product_description": "Levoxyl (levothyroxine sodium tablets, USP), tablets, 175 mcg, 100 tablet bottle, Rx only, Distributed by Pfizer Inc., New York, NY 10017, Made in Austria.  NDC 60793-859-01.",
-      "reason_for_recall": "Subpotent Drug: confirmed out-of-specification (OOS) assay during stability testing.",
+      "recall_number": "D-0107-2027",
+      "recalling_firm": "Direct Rx",
+      "product_description": "Lidocaine Ointment USP, 5.0 % 50g JAR, Rx only, Packaged and Distributed by: Direct Rx Dawsonville, GA 30534, NDC 72189-0211-50",
+      "reason_for_recall": "Subpotent Drug",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
     },
     {
-      "recall_number": "D-0059-2027",
-      "recalling_firm": "PRITAM INTERNATIONAL PRIVATE LIMITED",
-      "product_description": "evo, Advanced Whitening, Anticavity Fluoride Toothpaste, (sodium fluoride 0.24%) Peppermint, Net Wt. 3.5 oz (99g), Distributed by Ashtel Studios Inc., Ontario, California 91761, NDC 84140-886-19, Item# 88619, UPC 8 10147 88619 7",
-      "reason_for_recall": "CGMP Deviations.",
+      "recall_number": "D-0110-2027",
+      "recalling_firm": "Brandywine Pharmaceuticals, LLC",
+      "product_description": "Theophylline Extended-Release Tablets, 100 mg, Rx Only, 100-count bottle, Distributed by: Brandywine Pharmaceuticals, LLC, West Chester, PA 19382, NDC: 71321-500-10",
+      "reason_for_recall": "CGMP Deviations: interruption in the ongoing stability testing program conducted at a third-party laboratory",
       "classification": "Class II",
-      "report_date": "20261028"
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0099-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Pro Chem Suds Hand Soap, Net Contents: 18 OZ (532 ml), Sold by Pro Chem Inc., 1475 Bluegrass Lakes Parkway, Alpharetta, GA 30004",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0100-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Chemseptic, Net Contents: 1 Gallon (3.8 L), Distributed By: RMC Rochester Midland Corporation, 155 Paragon Drive, Rochester, NY 14624 USA, Made in USA",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0097-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "PRO CHEM Fresh Start, Antibacterial Hand Soap, Antiseptic Hand Soap, 800mL bag, Sold by: PRO CHEM, Inc.,1475 Bluegrass Lakes Parkway, Alpharetta, GA 30064.",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0085-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Palm Antiseptic Hand Soap Net Contents: 1 Gallon (3.8 L). Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA 30013, UPC 711808196498",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
     }
   ]
 }
