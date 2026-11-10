@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-10T01:01:43.942184+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": [
+        {
+          "name": "Elevated error rates with some U.S. business Mastercards",
+          "status": "monitoring",
+          "impact": "none"
+        }
+      ]
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partial System Outage",
+      "active_incidents": [
+        {
+          "name": "Changes made to Workers may be delayed or disrupted",
+          "status": "monitoring",
+          "impact": "minor"
+        },
+        {
+          "name": "Fedramp Customers have Delayed Purges",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-10T01:01:44.545995+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "Syed110-3/karachi-aqi-predictor",
+      "last_modified": "2026-11-10T01:01:27.000Z",
+      "likes": 4,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "WyattBridges/Reinforce-Pixelcopter-PLE-v0",
+      "last_modified": "2026-11-10T01:01:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "francesca9805/swa-100mb-after-wc-uniform-newlex-before-ckpt500-packed-bfdiso_seed455",
+      "last_modified": "2026-11-10T01:01:20.000Z",
+      "likes": 0,
+      "downloads": 578,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "kapardi93/LongVQU-Eval-mkapardi",
+      "last_modified": "2026-11-10T01:01:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "johngreendr2/3f431d62f260f4e5",
+      "last_modified": "2026-11-10T01:01:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "johngreendr2/d49ea762b0078142",
+      "last_modified": "2026-11-10T01:01:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "huihui-ai/Huihui-Qwen3.6-35B-A3B-abliterated-MTP-GGUF",
+      "last_modified": "2026-11-10T01:00:59.000Z",
+      "likes": 83,
+      "downloads": 4936870,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Novi-AI/Novi-Mini-Base-Checkpoints",
+      "last_modified": "2026-11-10T01:00:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jalenluorion/intermediates",
+      "last_modified": "2026-11-10T01:00:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "stefanocarrera/kic_M_Qwen3-4B_java_t0.5_g9_run0",
+      "last_modified": "2026-11-10T01:00:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-10T01:00:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "DMoreQ/owl-int4",
+      "last_modified": "2026-11-10T01:00:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "blaj/LFM3-1.7B-AutoRound-int2-ov",
+      "last_modified": "2026-11-10T01:00:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "electroglyph/Muse-Glimmer-30B-uncensored",
+      "last_modified": "2026-11-10T01:00:08.000Z",
+      "likes": 0,
+      "downloads": 114,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "SpeechAntiSpoofingBenchmarks/LaST-Net",
+      "last_modified": "2026-11-10T01:00:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/LucetV3-2B-Frontier-GGUF",
+      "last_modified": "2026-11-10T01:00:05.000Z",
+      "likes": 0,
+      "downloads": 225,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "tahamajs/qwen-2.5-0.5b-decay-linear-attention-wikitext2",
+      "last_modified": "2026-11-10T01:00:01.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "square-zero-labs/depth-anything-v2-small",
+      "last_modified": "2026-11-10T00:59:54.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "depth-estimation"
+    },
+    {
+      "model_id": "trevorx/B1",
+      "last_modified": "2026-11-10T00:59:50.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "victim822872/hlabel-005948",
+      "last_modified": "2026-11-10T00:59:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "JerryKingNo1/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic-GGUF",
+      "last_modified": "2026-11-10T00:59:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "whereismyusername/qwen3-vl-embedding-loss-ablations",
+      "last_modified": "2026-11-10T00:59:41.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "11A3/LJ7O1PwkP4NGx741",
+      "last_modified": "2026-11-10T00:59:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "11A3/uiub2B67EfhZtZyW",
+      "last_modified": "2026-11-10T00:59:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Arete-27B-Heretic-ARA-i1-GGUF",
+      "last_modified": "2026-11-10T00:59:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-09T14:50:25.899112+00:00",
+    "generated_at": "2026-11-10T01:01:43.942184+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -31,6 +31,11 @@
       "provider": "Cloudflare",
       "overall_status": "Partial System Outage",
       "active_incidents": [
+        {
+          "name": "Changes made to Workers may be delayed or disrupted",
+          "status": "monitoring",
+          "impact": "minor"
+        },
         {
           "name": "Fedramp Customers have Delayed Purges",
           "status": "identified",
