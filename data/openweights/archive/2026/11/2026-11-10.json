@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-10T14:02:18.113177+00:00",
+    "generated_at": "2026-11-10T22:41:30.463595+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "orbbit-AI-026/Chat-traslate-Dynamic-AI",
-      "last_modified": "2026-11-10T14:02:16.000Z",
+      "model_id": "Novi-AI/Novi-Mini-Base-Checkpoints",
+      "last_modified": "2026-11-10T22:41:29.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ryaluous/Coranendon",
-      "last_modified": "2026-11-10T14:02:15.000Z",
+      "model_id": "EverythingIsForGod/InternVL3-78B-WSP-SFT-Compressed",
+      "last_modified": "2026-11-10T22:41:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-refined-v3-model-sweep",
+      "last_modified": "2026-11-10T22:41:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "awesky-020/Awesky-Nano",
+      "last_modified": "2026-11-10T22:41:17.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "zoarag/MikoGoblin",
-      "last_modified": "2026-11-10T14:02:12.000Z",
+      "model_id": "txingxie/idr-foundation-training",
+      "last_modified": "2026-11-10T22:41:12.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Jongbin-kr/exaone-luna-medium-fullft-sftbest-grpo-r20-e15-lr1e-6-seed42-temp07-20261028",
-      "last_modified": "2026-11-10T14:02:11.000Z",
+      "model_id": "icemoon28/opd-checkpoints",
+      "last_modified": "2026-11-10T22:41:06.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "oxyllina/Len_Schweizer",
-      "last_modified": "2026-11-10T14:02:10.000Z",
+      "model_id": "mild-rgb/lora-factory-experiments",
+      "last_modified": "2026-11-10T22:40:59.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mmknnk/star-checkpoints",
-      "last_modified": "2026-11-10T14:02:09.000Z",
-      "likes": 2,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "amhalacheva/p3_vlm",
-      "last_modified": "2026-11-10T14:02:09.000Z",
+      "model_id": "deemph/status-widget",
+      "last_modified": "2026-11-10T22:40:58.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "NextTransformer/HC-49B-Tokens",
-      "last_modified": "2026-11-10T14:02:07.000Z",
+      "model_id": "moltherm1/olmo-mirror-olmo-3-7b-rl-zero-general",
+      "last_modified": "2026-11-10T22:40:49.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "ryaluous/Nanman",
-      "last_modified": "2026-11-10T14:02:04.000Z",
+      "model_id": "jisue/robottt-pi05-base-comparison",
+      "last_modified": "2026-11-10T22:40:42.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-10T22:40:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "electroglyph/Muse-Glimmer-30B-uncensored3",
+      "last_modified": "2026-11-10T22:40:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Stormtrooperaim/Qwen3.5-0.8B-Crouton-Reasoner-heretic-GGUF",
+      "last_modified": "2026-11-10T22:40:25.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "michalasobczak/cerbeto",
-      "last_modified": "2026-11-10T14:02:01.000Z",
-      "likes": 0,
-      "downloads": 0,
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-10T22:40:10.000Z",
+      "likes": 36,
+      "downloads": 85760,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "Tkaa/DeepSeek-V4.1-Flash-1017-GX10-46GB",
-      "last_modified": "2026-11-10T14:01:57.000Z",
+      "model_id": "tahamajs/qwen-2.5-0.5b-mla-attention-wikitext2",
+      "last_modified": "2026-11-10T22:39:59.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mhseo2/opd_sfto7p12544x1unseen_s735_olmo31_32b_think_ot3math-step50",
-      "last_modified": "2026-11-10T14:01:54.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "oxyllina/ayane0718",
-      "last_modified": "2026-11-10T14:01:53.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "HR26kk/BLACK-BOX_max-164M",
-      "last_modified": "2026-11-10T14:01:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "zoarag/BlackLove",
-      "last_modified": "2026-11-10T14:01:51.000Z",
+      "model_id": "DAIRLab/phystwin_models",
+      "last_modified": "2026-11-10T22:39:55.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ryaluous/Monsterlove75",
-      "last_modified": "2026-11-10T14:01:51.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Syed110-3/karachi-aqi-predictor",
-      "last_modified": "2026-11-10T14:01:50.000Z",
-      "likes": 4,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "oxyllina/mokuba_attack",
-      "last_modified": "2026-11-10T14:01:50.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "learner-subodh/qwen-finance-distilled-0.6b",
-      "last_modified": "2026-11-10T14:01:48.000Z",
+      "model_id": "tahamajs/qwen-2.5-0.5b-landmark-local-attention-wikitext2",
+      "last_modified": "2026-11-10T22:39:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "eustlb/LFM3-Audio-2B",
-      "last_modified": "2026-11-10T14:01:43.000Z",
+      "model_id": "mradermacher/Kvark-Sparkle-1.1-27B-GGUF",
+      "last_modified": "2026-11-10T22:39:49.000Z",
       "likes": 0,
       "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ShourenWSR/loopmoe-U1_d640_q35_nwd",
+      "last_modified": "2026-11-10T22:39:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Lilgarca/my-model-v02",
+      "last_modified": "2026-11-10T22:39:32.000Z",
+      "likes": 0,
+      "downloads": 286,
       "pipeline_tag": "any-to-any"
     },
     {
-      "model_id": "huggingface-mic/GLM-5.3-Flash-mic",
-      "last_modified": "2026-11-10T14:01:42.000Z",
-      "likes": 0,
-      "downloads": 1118,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Reduanul1997/E14_Sequential_Cascade",
-      "last_modified": "2026-11-10T14:01:38.000Z",
+      "model_id": "MOSSImageclora55/v38_mikadono_sanshimai_wa_angai_choroi",
+      "last_modified": "2026-11-10T22:39:32.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ryaluous/hardworkingsaltedfish",
-      "last_modified": "2026-11-10T14:01:37.000Z",
+      "model_id": "zapasAbad/parsvoice",
+      "last_modified": "2026-11-10T22:39:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "eustlb/LFM3-Audio-2B-codec",
-      "last_modified": "2026-11-10T14:01:36.000Z",
+      "model_id": "xtools-at/Qwen3.5-0.8B-weight-space-programming-UNCENSORED-heretic",
+      "last_modified": "2026-11-10T22:39:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "MeganEFlynn/HSpec-Qwen27B-4m3a",
+      "last_modified": "2026-11-10T22:39:21.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ryaluous/RayGuitar",
-      "last_modified": "2026-11-10T14:01:29.000Z",
+      "model_id": "LWZ19/tdyssey-training",
+      "last_modified": "2026-11-10T22:39:14.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
