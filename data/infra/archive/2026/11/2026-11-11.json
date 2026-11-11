@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-11T03:58:38.979418+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "investigating",
+          "impact": "minor"
+        },
+        {
+          "name": "Fedramp Customers have Delayed Purges",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
