@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-11T03:58:39.463901+00:00",
+    "generated_at": "2026-11-11T13:19:13.202072+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
+      "model_id": "kmpartner/modi-test2",
+      "last_modified": "2026-11-11T13:19:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "meloncafe/comfyui-models-2",
+      "last_modified": "2026-11-11T13:19:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "herald-dictation/silero-vad-v6.2-gguf",
+      "last_modified": "2026-11-11T13:19:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "voice-activity-detection"
+    },
+    {
+      "model_id": "herald-dictation/gemma-4-E4B-it-GGUF",
+      "last_modified": "2026-11-11T13:19:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "herald-dictation/diar_streaming_sortformer_4spk-v2.1-gguf",
+      "last_modified": "2026-11-11T13:19:03.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "voice-activity-detection"
+    },
+    {
+      "model_id": "placeholder67/Team_3962_Dataset",
+      "last_modified": "2026-11-11T13:19:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "herald-dictation/lang-id-voxlingua107-ecapa-gguf",
+      "last_modified": "2026-11-11T13:19:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "audio-classification"
+    },
+    {
+      "model_id": "herald-dictation/parakeet-tdt-0.6b-v3-gguf",
+      "last_modified": "2026-11-11T13:18:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "pmolodyk/artifacts-a833cdd7fe3f8895",
+      "last_modified": "2026-11-11T13:18:53.000Z",
+      "likes": 3,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SH98/wt-nids-e5-llama31-8b",
+      "last_modified": "2026-11-11T13:18:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "herald-dictation/Qwen3-ASR-0.6B-gguf",
+      "last_modified": "2026-11-11T13:18:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "TUaxhuiax/toolathlon-hf-fstest-r8v2",
+      "last_modified": "2026-11-11T13:18:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
       "model_id": "daruokta/bifocalgemma-2026-11-02",
-      "last_modified": "2026-11-11T03:58:38.000Z",
+      "last_modified": "2026-11-11T13:18:43.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "TopgunM/Video_2",
-      "last_modified": "2026-11-11T03:58:38.000Z",
+      "model_id": "herald-dictation/Qwen3-ASR-1.7B-gguf",
+      "last_modified": "2026-11-11T13:18:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "automatic-speech-recognition"
+    },
+    {
+      "model_id": "Ilham69/itr-w23e2-mse-vs9-83f1e53d-ship",
+      "last_modified": "2026-11-11T13:18:43.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "cwz19/psro-role-lora-final",
-      "last_modified": "2026-11-11T03:58:28.000Z",
-      "likes": 0,
+      "model_id": "cocoat/cocoamix",
+      "last_modified": "2026-11-11T13:18:40.000Z",
+      "likes": 5,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "litert-community/gemma-4-E4B-it-litert-lm",
-      "last_modified": "2026-11-11T03:58:27.000Z",
-      "likes": 248,
-      "downloads": 463570,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "BananaMind/BM3-99M-Training",
-      "last_modified": "2026-11-11T03:58:21.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "moltherm1/olmo-mirror-olmo-2-1124-13b",
-      "last_modified": "2026-11-11T03:58:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "LWZ19/tdyssey-training",
-      "last_modified": "2026-11-11T03:58:13.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "CentralDeTraducoes/TraducoesNintendo",
-      "last_modified": "2026-11-11T03:58:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "txingxie/idr-foundation-training",
-      "last_modified": "2026-11-11T03:58:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "omar-mohamed/device-models",
-      "last_modified": "2026-11-11T03:58:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "litert-community/gemma-4-12B-it-litert-lm",
-      "last_modified": "2026-11-11T03:58:02.000Z",
-      "likes": 71,
-      "downloads": 14728,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "dolphinnlp/qwen3.5-ocr-ft",
-      "last_modified": "2026-11-11T03:57:50.000Z",
-      "likes": 0,
-      "downloads": 38,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "Aesebu/Nexus",
-      "last_modified": "2026-11-11T03:57:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "pablovela5620/metrictrail-moge2-trt-sm120",
-      "last_modified": "2026-11-11T03:57:43.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "analist/Qwen2.5-1.5B-Instruct-causal",
-      "last_modified": "2026-11-11T03:57:42.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "BuboixStudios/fly-brain-english-checkpoints",
-      "last_modified": "2026-11-11T03:57:41.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Kristen-Z/stereodp-checkpoints",
-      "last_modified": "2026-11-11T03:57:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "litert-community/gemma-4-26B-A4B-it-litert-lm",
-      "last_modified": "2026-11-11T03:57:39.000Z",
-      "likes": 9,
-      "downloads": 2926,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ProprietaryLegal/Volta-Max-uPLIft-FP4-DeepSeek-V4.1-Flash-1017-hot_iq-8xV100-SXM2-PP2xTP4",
-      "last_modified": "2026-11-11T03:57:26.000Z",
-      "likes": 0,
+      "model_id": "alexz949/BasisServe-CALS",
+      "last_modified": "2026-11-11T13:18:35.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "JASURUZFX/ai",
-      "last_modified": "2026-11-11T03:57:16.000Z",
+      "model_id": "Ruler138/BioJSON-models",
+      "last_modified": "2026-11-11T13:18:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "dtwg-ai/VoxPocket-v5",
-      "last_modified": "2026-11-11T03:57:13.000Z",
+      "model_id": "ChartFoundation/BioLoom-models",
+      "last_modified": "2026-11-11T13:18:29.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "4everImmortality/dafeiyu-qwen35-9b-gguf",
-      "last_modified": "2026-11-11T03:57:06.000Z",
+      "model_id": "Crody0901/TCAnimaMixesCrody",
+      "last_modified": "2026-11-11T13:18:27.000Z",
       "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "aixk/BAAR3-9M-320d14l",
+      "last_modified": "2026-11-11T13:18:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Voltline/vimeml-tiny-zh-v1",
+      "last_modified": "2026-11-11T13:18:19.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "JazzyJJ0601/wraith-captures",
-      "last_modified": "2026-11-11T03:57:03.000Z",
+      "model_id": "junbrro/h2rb-gr00t17-runtime-tokenizers-20261111",
+      "last_modified": "2026-11-11T13:18:18.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
-      "last_modified": "2026-11-11T03:56:58.000Z",
+      "model_id": "9parthupman/b0d7df",
+      "last_modified": "2026-11-11T13:18:16.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "reinforcement-learning"
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Vxtzq/Crowd-v1",
-      "last_modified": "2026-11-11T03:56:49.000Z",
-      "likes": 36,
-      "downloads": 85760,
-      "pipeline_tag": "text-generation"
+      "model_id": "team23-horse/horse-anatomy-dlc",
+      "last_modified": "2026-11-11T13:18:15.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
     }
   ]
 }
