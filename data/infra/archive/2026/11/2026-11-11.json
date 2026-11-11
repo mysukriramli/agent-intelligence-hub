@@ -1,15 +1,21 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-11T13:19:12.467530+00:00",
+    "generated_at": "2026-11-11T23:54:16.873655+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "overall_status": "Major System Outage",
+      "active_incidents": [
+        {
+          "name": "Unable to start new Workspace Agent runs",
+          "status": "investigating",
+          "impact": "critical"
+        }
+      ]
     },
     {
       "provider": "Anthropic",
@@ -26,7 +32,7 @@
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
         {
-          "name": "Replicate Input Upload Issue",
+          "name": "Replicate Model Registry Unavailable",
           "status": "identified",
           "impact": "minor"
         },
