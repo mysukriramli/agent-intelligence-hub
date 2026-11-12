@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-12T05:09:46.931638+00:00",
+    "generated_at": "2026-11-12T14:24:05.139482+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Major System Outage",
-      "active_incidents": [
-        {
-          "name": "Unable to start new Workspace Agent runs",
-          "status": "investigating",
-          "impact": "critical"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
@@ -31,11 +25,6 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
-        {
-          "name": "DNSSEC Configuration Change Issues",
-          "status": "monitoring",
-          "impact": "minor"
-        },
         {
           "name": "Replicate Model Registry Unavailable",
           "status": "identified",

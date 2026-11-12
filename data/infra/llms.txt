@@ -1,7 +1,7 @@
 # AI & Cloud Infrastructure Status Wire
 ## Provider System Health
 
-- **OpenAI**: Major System Outage (1 ongoing incident(s))
+- **OpenAI**: All Systems Operational (Operational)
 - **Anthropic**: All Systems Operational (Operational)
 - **GitHub**: All Systems Operational (Operational)
-- **Cloudflare**: Partially Degraded Service (4 ongoing incident(s))
+- **Cloudflare**: Partially Degraded Service (3 ongoing incident(s))
