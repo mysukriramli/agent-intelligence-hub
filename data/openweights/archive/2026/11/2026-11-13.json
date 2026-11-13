@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-13T04:25:49.320275+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "siamcafe/bomai",
+      "last_modified": "2026-11-13T04:25:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "NN-Dataset/pt",
+      "last_modified": "2026-11-13T04:25:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "txingxie/idr-foundation-training",
+      "last_modified": "2026-11-13T04:25:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "byumatrixlab/mapudungun-nllb-1.3B-arn-es-standard-bpe",
+      "last_modified": "2026-11-13T04:25:42.000Z",
+      "likes": 0,
+      "downloads": 21,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-optimizer-archive",
+      "last_modified": "2026-11-13T04:25:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "test9392928/tcprobe",
+      "last_modified": "2026-11-13T04:25:39.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "cyttic/exp39-ctc-human10bi-hhdgeom-llmgen-3w-d1-1k",
+      "last_modified": "2026-11-13T04:25:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "engmauriciodias33/aura-fleet-gguf-part1",
+      "last_modified": "2026-11-13T04:25:34.000Z",
+      "likes": 0,
+      "downloads": 76013,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-13T04:25:33.000Z",
+      "likes": 36,
+      "downloads": 89665,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "daruokta/bifocalgemma-4it-4it",
+      "last_modified": "2026-11-13T04:25:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-13T04:25:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "nberezny/act_lite6_nudge_dense",
+      "last_modified": "2026-11-13T04:25:18.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "Taorann/gaca-rebuttal-checkpoints",
+      "last_modified": "2026-11-13T04:25:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Shrijanagain/SPEED2-V0-0B7-CPT-SFT-fp8cpt",
+      "last_modified": "2026-11-13T04:25:06.000Z",
+      "likes": 1,
+      "downloads": 705,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-step29",
+      "last_modified": "2026-11-13T04:25:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dddsky/dobottrack",
+      "last_modified": "2026-11-13T04:24:54.000Z",
+      "likes": 0,
+      "downloads": 16,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "daruokta/bifocalgemma-2it-2it",
+      "last_modified": "2026-11-13T04:24:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nelsysads/Llama-2-7b-chat-finetune-IAchat",
+      "last_modified": "2026-11-13T04:24:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "byumatrixlab/mapudungun-nllb-600M-es-arn-unigram-lm",
+      "last_modified": "2026-11-13T04:24:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "translation"
+    },
+    {
+      "model_id": "ood-lab/continual-learning-checkpoints",
+      "last_modified": "2026-11-13T04:24:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "aditeyabaral/symbolic-circuits-3L-128d-4H",
+      "last_modified": "2026-11-13T04:24:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Potestates/TERRA",
+      "last_modified": "2026-11-13T04:24:32.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "tmhoanggg/so101-drawer-v3-pi05",
+      "last_modified": "2026-11-13T04:24:30.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "joyhee/S2v20_mix_s1-Qwen3-VL-4B-Instruct-gpt-6-luna-full_SFT-GRPO-step28",
+      "last_modified": "2026-11-13T04:24:28.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "TUaxhuiax/toolathlon-hf-fstest-r8v2",
+      "last_modified": "2026-11-13T04:24:18.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

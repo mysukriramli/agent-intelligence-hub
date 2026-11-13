@@ -1,0 +1,53 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-13T04:25:48.813070+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "Partial System Degradation",
+      "active_incidents": [
+        {
+          "name": "Sites: Publishing failing",
+          "status": "identified",
+          "impact": "minor"
+        },
+        {
+          "name": "Elevated errors affecting the Microsoft 365 connector",
+          "status": "investigating",
+          "impact": "minor"
+        }
+      ]
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Elevated errors affecting the Microsoft 365 connector",
+          "status": "identified",
+          "impact": "major"
+        }
+      ]
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
