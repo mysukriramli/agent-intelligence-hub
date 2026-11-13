@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-13T13:43:12.155625+00:00",
+    "generated_at": "2026-11-13T23:05:20.390503+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -11,27 +11,21 @@
       "overall_status": "Partial System Degradation",
       "active_incidents": [
         {
+          "name": "Delayed Costs Data in the Compliance API",
+          "status": "monitoring",
+          "impact": "minor"
+        },
+        {
           "name": "Elevated errors affecting the Microsoft 365 connector",
-          "status": "investigating",
+          "status": "monitoring",
           "impact": "minor"
         }
       ]
     },
     {
       "provider": "Anthropic",
-      "overall_status": "Partial System Outage",
-      "active_incidents": [
-        {
-          "name": "Elevated errors on claude.ai, the Claude API, and Claude Code",
-          "status": "investigating",
-          "impact": "major"
-        },
-        {
-          "name": "Elevated errors affecting the Microsoft 365 connector",
-          "status": "identified",
-          "impact": "major"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "GitHub",
@@ -42,6 +36,16 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
+        {
+          "name": "Cloudflare is seeing an issue with Workers API availability",
+          "status": "monitoring",
+          "impact": "minor"
+        },
+        {
+          "name": "Cloudflare is currently having an issue with the r8.im registry used for Replicate model publishing and builds is currently restricted",
+          "status": "identified",
+          "impact": "minor"
+        },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",
