@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-13T04:25:48.813070+00:00",
+    "generated_at": "2026-11-13T13:43:12.155625+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -11,11 +11,6 @@
       "overall_status": "Partial System Degradation",
       "active_incidents": [
         {
-          "name": "Sites: Publishing failing",
-          "status": "identified",
-          "impact": "minor"
-        },
-        {
           "name": "Elevated errors affecting the Microsoft 365 connector",
           "status": "investigating",
           "impact": "minor"
@@ -24,8 +19,13 @@
     },
     {
       "provider": "Anthropic",
-      "overall_status": "Partially Degraded Service",
+      "overall_status": "Partial System Outage",
       "active_incidents": [
+        {
+          "name": "Elevated errors on claude.ai, the Claude API, and Claude Code",
+          "status": "investigating",
+          "impact": "major"
+        },
         {
           "name": "Elevated errors affecting the Microsoft 365 connector",
           "status": "identified",
