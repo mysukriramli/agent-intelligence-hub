@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-14T04:22:04.653973+00:00",
+    "generated_at": "2026-11-14T12:47:54.420772+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -10,11 +10,6 @@
       "provider": "OpenAI",
       "overall_status": "Partial System Degradation",
       "active_incidents": [
-        {
-          "name": "Elevated errors with ChatGPT billing and Ads billing",
-          "status": "monitoring",
-          "impact": "none"
-        },
         {
           "name": "Delayed Costs Data in the Compliance API",
           "status": "monitoring",
@@ -27,8 +22,8 @@
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
         {
-          "name": "Elevated purchasing errors on claude.ai",
-          "status": "monitoring",
+          "name": "Some users unable to sign up with Apple on the Claude iOS app",
+          "status": "investigating",
           "impact": "major"
         }
       ]
