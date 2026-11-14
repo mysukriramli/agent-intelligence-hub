@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-13T23:05:20.925881+00:00",
+    "generated_at": "2026-11-14T04:22:04.993429+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "daruokta/bifocalgemma-2it-2it",
-      "last_modified": "2026-11-13T23:05:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "davidheineman/tiny-rl-checkpoints-regex",
-      "last_modified": "2026-11-13T23:05:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "davidheineman/tiny-rl-checkpoints-math",
-      "last_modified": "2026-11-13T23:05:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Eyamu889/Hubby",
-      "last_modified": "2026-11-13T23:05:13.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "batistado/MarginKV",
-      "last_modified": "2026-11-13T23:05:12.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "martincousseau/esann2027-compose-v2",
-      "last_modified": "2026-11-13T23:05:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "therachitkumar/panther-status",
-      "last_modified": "2026-11-13T23:05:08.000Z",
+      "model_id": "jc1122/circuit-atlas-snapshots",
+      "last_modified": "2026-11-14T04:22:03.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
-      "last_modified": "2026-11-13T23:05:07.000Z",
+      "model_id": "epochzero-0/casehold-lora",
+      "last_modified": "2026-11-14T04:22:01.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "reinforcement-learning"
+      "pipeline_tag": "multiple-choice"
     },
     {
-      "model_id": "dfsffg667/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-11-13T23:05:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "feature-extraction"
-    },
-    {
-      "model_id": "PolarisDane/CoPE-temp",
-      "last_modified": "2026-11-13T23:05:04.000Z",
+      "model_id": "TopgunM/Video_2",
+      "last_modified": "2026-11-14T04:21:57.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "davidheineman/tiny-rl-checkpoints-arithmetic",
-      "last_modified": "2026-11-13T23:05:04.000Z",
+      "model_id": "Anirudh1950/Image_web_scraper",
+      "last_modified": "2026-11-14T04:21:55.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "BananaMind/BM3-BounceTest-5M",
-      "last_modified": "2026-11-13T23:05:03.000Z",
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-32b-primevul",
+      "last_modified": "2026-11-14T04:21:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "tracinginsights/tif1-lfm3-runs",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 1515,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-7b-devign",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 11,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "vparkash/gpt2-small-gutenberg.0",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-14b-primevul",
+      "last_modified": "2026-11-14T04:21:46.000Z",
+      "likes": 0,
+      "downloads": 10,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-mmlu",
+      "last_modified": "2026-11-14T04:21:46.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Caizus/rwkv7-ashare-1min-quantile-21m",
-      "last_modified": "2026-11-13T23:04:51.000Z",
-      "likes": 0,
-      "downloads": 47,
-      "pipeline_tag": "time-series-forecasting"
-    },
-    {
-      "model_id": "BananaMind/BM3-Flash-Training",
-      "last_modified": "2026-11-13T23:04:48.000Z",
+      "model_id": "davidheineman/tiny-rl-checkpoints-chat",
+      "last_modified": "2026-11-14T04:21:45.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "294-288-pretrain-interaction/160M-fixed-v2",
-      "last_modified": "2026-11-13T23:04:47.000Z",
+      "model_id": "Anirudh1950/LatentSyncVer",
+      "last_modified": "2026-11-14T04:21:45.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "xiaoxiaojian/nemotron-3.5-asr-0.6b-325mb-gguf",
-      "last_modified": "2026-11-13T23:04:42.000Z",
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-1.5b-primevul",
+      "last_modified": "2026-11-14T04:21:44.000Z",
       "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "automatic-speech-recognition"
+      "downloads": 6,
+      "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "daruokta/bifocalgemma-4it-2it",
-      "last_modified": "2026-11-13T23:04:38.000Z",
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-7b-primevul",
+      "last_modified": "2026-11-14T04:21:42.000Z",
+      "likes": 0,
+      "downloads": 8,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-14T04:21:33.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anirudh1950/VideoReTalk",
+      "last_modified": "2026-11-14T04:21:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "davidheineman/tiny-rl-checkpoints-make-sentence",
-      "last_modified": "2026-11-13T23:04:33.000Z",
+      "model_id": "davidheineman/tiny-rl-checkpoints-cube",
+      "last_modified": "2026-11-14T04:21:29.000Z",
       "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SimpleTuner/minimax-h3-image-LoRA-experiments",
+      "last_modified": "2026-11-14T04:21:11.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
       "model_id": "davidheineman/tiny-rl-checkpoints-latex",
-      "last_modified": "2026-11-13T23:04:32.000Z",
+      "last_modified": "2026-11-14T04:21:11.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "smart-force/xandra-training-state",
-      "last_modified": "2026-11-13T23:04:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "aditeyabaral/symbolic-circuits-3L-128d-4H",
-      "last_modified": "2026-11-13T23:04:08.000Z",
-      "likes": 0,
-      "downloads": 21,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "AyaHassan/fastmri-ckpts",
-      "last_modified": "2026-11-13T23:04:05.000Z",
+      "model_id": "davidheineman/tiny-rl-checkpoints-partial-gsm8k",
+      "last_modified": "2026-11-14T04:21:11.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "LauraGG/programmatic-attention-checkpoints",
-      "last_modified": "2026-11-13T23:04:01.000Z",
+      "model_id": "Anirudh1950/Brain_tumour_detection",
+      "last_modified": "2026-11-14T04:20:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-classification"
+    },
+    {
+      "model_id": "hoangp111/mopd",
+      "last_modified": "2026-11-14T04:20:55.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Pbueno467/clasificador-comentarios-transformers",
-      "last_modified": "2026-11-13T23:03:51.000Z",
+      "model_id": "SOTAagi2030/probe_xyz",
+      "last_modified": "2026-11-14T04:20:54.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "text-classification"
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "cyttic/lecturer-ru-piper-synth",
-      "last_modified": "2026-11-13T23:03:49.000Z",
+      "model_id": "SOTAagi2030/probe-xyz",
+      "last_modified": "2026-11-14T04:20:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SOTAagi2030/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-14T04:20:52.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"

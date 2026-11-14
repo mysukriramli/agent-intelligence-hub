@@ -2,6 +2,6 @@
 ## Provider System Health
 
 - **OpenAI**: Partial System Degradation (2 ongoing incident(s))
-- **Anthropic**: All Systems Operational (Operational)
+- **Anthropic**: Partially Degraded Service (1 ongoing incident(s))
 - **GitHub**: All Systems Operational (Operational)
-- **Cloudflare**: Partially Degraded Service (3 ongoing incident(s))
+- **Cloudflare**: Partially Degraded Service (2 ongoing incident(s))

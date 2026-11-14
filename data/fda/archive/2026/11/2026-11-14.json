@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "domain": "fda",
+    "generated_at": "2026-11-14T04:22:04.761892+00:00",
+    "total_items": 20,
+    "schema_version": "1.0.0"
+  },
+  "recalls": [
+    {
+      "recall_number": "D-0103-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Wechem Hand Guard8/1000mL Bag, Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA, 30013",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0104-2027",
+      "recalling_firm": "Fei Fah Medical Manufacturing Pte. Ltd.",
+      "product_description": "ULTRA STRENTGH, ELECTRIC MIDICATED BALM (menthol 16% and methyl salicylate 32%) packaged in a) Net 2.45 oz (70g) (NDC 63299-001-01) and b) 10g (NDC 63299-001-02), Manufactured by Fei Fah Medical Mfg Pte Ltd, Singapore, U.S Distributor: SOLISTICE MEDICINE COMPANY, 215 West Ann Street, Los Angeles, CA 90012",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0077-2027",
+      "recalling_firm": "MACLEODS PHARMA USA, INC",
+      "product_description": "Olmesartan Medoxomil, Amlodipine, and Hydrochlorothiazide Tablets 40 mg/10 mg/12.5mg, packaged as a) 30-count bottle, NDC 33342-246-07; b) 90-count bottle, NDC 33342-246-10;  Rx Only, Manufactured for : Macleods Pharma USA, Inc. Princeton, NJ 08540, Manufactured by: Macleods Pharmaceuticals Ltd, Daman, 396210, India",
+      "reason_for_recall": "Failed Dissolution Specifications.",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0092-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Lynx, LX0864 peachy-foam antiseptic handsoap, 1000 ML (33.8 FL OZ.) Manufactured by: ABC Compounding Co., INC., 2500 Dogwood Dr., Conyers, GA 30013, UPC 711808210804.",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0080-2027",
+      "recalling_firm": "Huons Co., Ltd.",
+      "product_description": "Carboxymethylcellulose Sodium, 0.5% Lubricant Eye Drops, Sterile, 30 Single-Use Containers, 0.02 FL OZ (0.5 mL) each, Manufactured by: Huons Co., Ltd, Jecheon-si, Chungcheongbuk-do, 27159, South Korea; Marketed by: GSMS Incorporated, Camarillo, CA 93012, USA. NDC 51407-945-30  Pouch Label: Carboxymethylcellulose Sodium, Lubricant Eye Drops, 0.5 mL, Single-Use, gsms.",
+      "reason_for_recall": "Failed Impurities/Degradation Specification; detection of polyethylene (PE)-related oligomers",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0098-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "PRO CHEM BAN AID, Antiseptic Hand Soap, Net Contents: 1 GALLON (3.8 L), Sold by: PRO CHEM, Inc.,1475 Bluegrass Lakes Parkway, Alpharetta, GA 30004.",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0091-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Antiseptic Hand Soap, Net Contents: 1 Gallon (3.8 L) Distributed By: image supply, inc., P.O. Box 1108, 5081 Dawn Drive, Lumberton, NC28359",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0101-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Spurrier, Antimicrobial Hand Soap, Net Contents: 1 Gallon (3.8 L), Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA, 30013, UPC 726133100508",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0089-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Freshhands Premium Foamy Antibacterial Hand Soap Antiseptic, Net Contents: 18 oz (532 mL), Sold By; Consolidated Chemicals, LLC, 3191 W Tharpe St. Tallahassee, FL 32303 USA, UPC",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0075-2027",
+      "recalling_firm": "Safecor Health, LLC",
+      "product_description": "Metoclopramide Tablets, USP, 5 mg, 100 Tablets per bottle, Rx Only, Manufactured for: Teva Pharmaceuticals, Parsippany, NJ 07054. NDC: 51079-886-20.",
+      "reason_for_recall": "Manufacturer is recalling batches due to co-mingled tablet.",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0102-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "SunCoast Paper Inc. Surgent Antiseptic Hand Soap, Net Contents : 1 Gallon (3.8 L), SunCoast Paper In., 4111 Community Rd., Brunswick, GA 31520, UPC 654441P10219",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0108-2027",
+      "recalling_firm": "Meitheal Pharmaceuticals, Inc",
+      "product_description": "Vecuronium Bromide for Injection, 10mg, 10 Single-Dose Vials per carton, Sterile, Rx Only, Mfd. for Meitheal Pharmaceuticals, Chicago, IL.  NDC: 71288-744-11",
+      "reason_for_recall": "Labeling: Label Lacks Warning or Rx Legend",
+      "classification": "Class III",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0073-2027",
+      "recalling_firm": "The Ritedose Corporation",
+      "product_description": "Formoterol Fumarate Inhalation Solution, 20mcg/2mL, packaged in cartons of 30 individually wrapped vials (NDC 76204-030-01) and 60 individually wrapped vials (NDC 76204-030-02), Rx only, Manufactured for and by: Ritedose Pharmaceuticals, LLC, Columbia, SC",
+      "reason_for_recall": "Failed Impurities/Degradation Specification",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0086-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Aerocare Sani Mango Antiseptic Hand and Body Wash, Net Contents: 1 Gallon (3.8 L), Manufactured By: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA 33013, UPC 711808198249",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0107-2027",
+      "recalling_firm": "Direct Rx",
+      "product_description": "Lidocaine Ointment USP, 5.0 % 50g JAR, Rx only, Packaged and Distributed by: Direct Rx Dawsonville, GA 30534, NDC 72189-0211-50",
+      "reason_for_recall": "Subpotent Drug",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0110-2027",
+      "recalling_firm": "Brandywine Pharmaceuticals, LLC",
+      "product_description": "Theophylline Extended-Release Tablets, 100 mg, Rx Only, 100-count bottle, Distributed by: Brandywine Pharmaceuticals, LLC, West Chester, PA 19382, NDC: 71321-500-10",
+      "reason_for_recall": "CGMP Deviations: interruption in the ongoing stability testing program conducted at a third-party laboratory",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0099-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Pro Chem Suds Hand Soap, Net Contents: 18 OZ (532 ml), Sold by Pro Chem Inc., 1475 Bluegrass Lakes Parkway, Alpharetta, GA 30004",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0100-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Chemseptic, Net Contents: 1 Gallon (3.8 L), Distributed By: RMC Rochester Midland Corporation, 155 Paragon Drive, Rochester, NY 14624 USA, Made in USA",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0097-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "PRO CHEM Fresh Start, Antibacterial Hand Soap, Antiseptic Hand Soap, 800mL bag, Sold by: PRO CHEM, Inc.,1475 Bluegrass Lakes Parkway, Alpharetta, GA 30064.",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    },
+    {
+      "recall_number": "D-0085-2027",
+      "recalling_firm": "ABC Compounding Co., Inc.",
+      "product_description": "Palm Antiseptic Hand Soap Net Contents: 1 Gallon (3.8 L). Manufactured by: ABC Compounding Co., Inc., 2600 Dogwood Dr., Conyers, GA 30013, UPC 711808196498",
+      "reason_for_recall": "CGMP Deviations",
+      "classification": "Class II",
+      "report_date": "20261104"
+    }
+  ]
+}

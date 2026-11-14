@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-14T04:22:04.993429+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "jc1122/circuit-atlas-snapshots",
+      "last_modified": "2026-11-14T04:22:03.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "epochzero-0/casehold-lora",
+      "last_modified": "2026-11-14T04:22:01.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "multiple-choice"
+    },
+    {
+      "model_id": "TopgunM/Video_2",
+      "last_modified": "2026-11-14T04:21:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anirudh1950/Image_web_scraper",
+      "last_modified": "2026-11-14T04:21:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-32b-primevul",
+      "last_modified": "2026-11-14T04:21:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "tracinginsights/tif1-lfm3-runs",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 1515,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-7b-devign",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 11,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "vparkash/gpt2-small-gutenberg.0",
+      "last_modified": "2026-11-14T04:21:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-14b-primevul",
+      "last_modified": "2026-11-14T04:21:46.000Z",
+      "likes": 0,
+      "downloads": 10,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-mmlu",
+      "last_modified": "2026-11-14T04:21:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-chat",
+      "last_modified": "2026-11-14T04:21:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anirudh1950/LatentSyncVer",
+      "last_modified": "2026-11-14T04:21:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-1.5b-primevul",
+      "last_modified": "2026-11-14T04:21:44.000Z",
+      "likes": 0,
+      "downloads": 6,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "pallav0101/cyberdef-vuln-qwen2.5-7b-primevul",
+      "last_modified": "2026-11-14T04:21:42.000Z",
+      "likes": 0,
+      "downloads": 8,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-14T04:21:33.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anirudh1950/VideoReTalk",
+      "last_modified": "2026-11-14T04:21:30.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-cube",
+      "last_modified": "2026-11-14T04:21:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SimpleTuner/minimax-h3-image-LoRA-experiments",
+      "last_modified": "2026-11-14T04:21:11.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-latex",
+      "last_modified": "2026-11-14T04:21:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "davidheineman/tiny-rl-checkpoints-partial-gsm8k",
+      "last_modified": "2026-11-14T04:21:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anirudh1950/Brain_tumour_detection",
+      "last_modified": "2026-11-14T04:20:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-classification"
+    },
+    {
+      "model_id": "hoangp111/mopd",
+      "last_modified": "2026-11-14T04:20:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SOTAagi2030/probe_xyz",
+      "last_modified": "2026-11-14T04:20:54.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SOTAagi2030/probe-xyz",
+      "last_modified": "2026-11-14T04:20:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SOTAagi2030/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-14T04:20:52.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

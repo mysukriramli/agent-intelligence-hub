@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-13T23:05:20.390503+00:00",
+    "generated_at": "2026-11-14T04:22:04.653973+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -11,12 +11,12 @@
       "overall_status": "Partial System Degradation",
       "active_incidents": [
         {
-          "name": "Delayed Costs Data in the Compliance API",
+          "name": "Elevated errors with ChatGPT billing and Ads billing",
           "status": "monitoring",
-          "impact": "minor"
+          "impact": "none"
         },
         {
-          "name": "Elevated errors affecting the Microsoft 365 connector",
+          "name": "Delayed Costs Data in the Compliance API",
           "status": "monitoring",
           "impact": "minor"
         }
@@ -24,8 +24,14 @@
     },
     {
       "provider": "Anthropic",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Elevated purchasing errors on claude.ai",
+          "status": "monitoring",
+          "impact": "major"
+        }
+      ]
     },
     {
       "provider": "GitHub",
@@ -39,11 +45,6 @@
         {
           "name": "Cloudflare is seeing an issue with Workers API availability",
           "status": "monitoring",
-          "impact": "minor"
-        },
-        {
-          "name": "Cloudflare is currently having an issue with the r8.im registry used for Replicate model publishing and builds is currently restricted",
-          "status": "identified",
           "impact": "minor"
         },
         {
