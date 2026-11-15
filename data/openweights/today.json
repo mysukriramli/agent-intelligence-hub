@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-15T04:06:02.528187+00:00",
+    "generated_at": "2026-11-15T13:14:36.515817+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "amp1414/ragtruth-smollm3-3b-qlora",
-      "last_modified": "2026-11-15T04:06:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "HeartMuLa/MuLaCover",
-      "last_modified": "2026-11-15T04:05:58.000Z",
-      "likes": 49,
-      "downloads": 681,
-      "pipeline_tag": "audio-to-audio"
-    },
-    {
-      "model_id": "294-288-pretrain-interaction/160M-random-v2",
-      "last_modified": "2026-11-15T04:05:56.000Z",
+      "model_id": "ywsldxk1/so101-pi05-staged-fullft-v4-20261115",
+      "last_modified": "2026-11-15T13:14:34.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "therachitkumar/panther-status",
-      "last_modified": "2026-11-15T04:05:49.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Amanafif554/merit-paper-experiment-2",
-      "last_modified": "2026-11-15T04:05:47.000Z",
+      "model_id": "daruokta/bifocalgemma-e2b-it",
+      "last_modified": "2026-11-15T13:14:32.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "cduyb/analinsert",
-      "last_modified": "2026-11-15T04:05:47.000Z",
+      "model_id": "Lucien-shark/Linny-TokenBased-Gen2.5",
+      "last_modified": "2026-11-15T13:14:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "spiritfather/Ornith-1.5-35B-A3B-REAP-20pct-GGUF",
-      "last_modified": "2026-11-15T04:05:44.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "Anbeeld/Qwen3.8-27B-GGUF-Bartowski-SINQ",
-      "last_modified": "2026-11-15T04:05:40.000Z",
-      "likes": 0,
-      "downloads": 339,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "ood-lab/cl-relay-dtn-ex1",
-      "last_modified": "2026-11-15T04:05:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SimpleTuner/minimax-h3-image-LoRA-experiments",
-      "last_modified": "2026-11-15T04:05:36.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "fengjay01/UVR_resources",
-      "last_modified": "2026-11-15T04:05:27.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "daruokta/bifocalgemma-4it-4it",
-      "last_modified": "2026-11-15T04:05:25.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Lobus22/Azco-Roven-Max-480B",
-      "last_modified": "2026-11-15T04:05:24.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "fdsfaf3434/zqmodel17567",
-      "last_modified": "2026-11-15T04:05:21.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "supermanone-boop/osaka",
-      "last_modified": "2026-11-15T04:05:21.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ood-lab/cl-relay-dtn-ex5",
-      "last_modified": "2026-11-15T04:05:20.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "khazic/ovb-i127-pushdepth-r64-1x8-s42_20261115",
-      "last_modified": "2026-11-15T04:05:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "khazic/ovb-i127-repair2d-r64-1x8-s42_20261115",
-      "last_modified": "2026-11-15T04:05:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "fengjay01/MSST-WebUI",
-      "last_modified": "2026-11-15T04:05:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "CHOI0126/icml27-ckpt-nodea",
-      "last_modified": "2026-11-15T04:04:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Codixor/r8r-models",
-      "last_modified": "2026-11-15T04:04:54.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "SelfDriving-VLA/laq-ad-backup",
-      "last_modified": "2026-11-15T04:04:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "vergil1000/LoraColection",
-      "last_modified": "2026-11-15T04:04:32.000Z",
+      "model_id": "FourthArcheteer/workflows",
+      "last_modified": "2026-11-15T13:14:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
       "model_id": "CHOI0126/icml27-ckpt-nodeb",
-      "last_modified": "2026-11-15T04:04:25.000Z",
+      "last_modified": "2026-11-15T13:14:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "294-288-pretrain-interaction/70M-fixed-v2",
-      "last_modified": "2026-11-15T04:04:23.000Z",
+      "model_id": "samy232381s/lab29-full-curriculum",
+      "last_modified": "2026-11-15T13:14:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Amanafif554/merit-paper-experiment-2",
+      "last_modified": "2026-11-15T13:14:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ood-lab/cl-relay-dtn-ex6",
+      "last_modified": "2026-11-15T13:14:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thisisjimmy/DoomRunner",
+      "last_modified": "2026-11-15T13:14:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jonathanjordan21/mdeberta-v3-base-indonesian-sarcasm-robust",
+      "last_modified": "2026-11-15T13:14:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SimpleTuner/minimax-h3-image-LoRA-experiments",
+      "last_modified": "2026-11-15T13:13:57.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hyunlp-evateam3/20261026_healthbench_static_qwen3-4b_impl-ruscarl_s1",
+      "last_modified": "2026-11-15T13:13:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-15T13:13:53.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-15T13:13:44.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "steven3to/pi05_tianji",
+      "last_modified": "2026-11-15T13:13:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Bayhakl1/GrimmCoder_v2",
+      "last_modified": "2026-11-15T13:13:38.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "HYHero/kroc-act-emg-checkpoints",
+      "last_modified": "2026-11-15T13:13:32.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-15T13:13:31.000Z",
+      "likes": 39,
+      "downloads": 90982,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "scalar-ai/scalar-phos-pro-merged",
+      "last_modified": "2026-11-15T13:13:29.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "hyongok2/max-agent",
+      "last_modified": "2026-11-15T13:13:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "arizakml/conversation-steering-vectors",
+      "last_modified": "2026-11-15T13:13:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Taorann/gaca-rebuttal-checkpoints",
+      "last_modified": "2026-11-15T13:13:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rohitc1612/traffic-world-tinyaya-lora-raw",
+      "last_modified": "2026-11-15T13:13:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Andandd/amy-server-backups",
+      "last_modified": "2026-11-15T13:13:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jordine/rlport-loopchar-d134-situation",
+      "last_modified": "2026-11-15T13:13:08.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
