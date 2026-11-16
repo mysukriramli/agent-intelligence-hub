@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-16T04:05:45.875342+00:00",
+    "generated_at": "2026-11-16T14:26:12.654057+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "Amanafif554/merit-paper-experiment-2",
-      "last_modified": "2026-11-16T04:05:43.000Z",
+      "model_id": "Jordine/rlport-hkl_rlw2_s2_20261116_140846",
+      "last_modified": "2026-11-16T14:26:06.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
       "model_id": "realnewbiexvwu/pvz-agent-artifacts",
-      "last_modified": "2026-11-16T04:05:38.000Z",
+      "last_modified": "2026-11-16T14:26:02.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "reinforcement-learning"
     },
     {
-      "model_id": "khtsly/i",
-      "last_modified": "2026-11-16T04:05:38.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "idalabs/IDA-1.7B-v1.0.1-P4.3-GGUF",
-      "last_modified": "2026-11-16T04:05:33.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "lipeize/graspformer-ckpt",
-      "last_modified": "2026-11-16T04:05:28.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "smart-force/xandra-training-state",
-      "last_modified": "2026-11-16T04:05:27.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "believe-it-or-not/Qwen2.5-14B-Instruct-0524_original_augmented_original_subtle_roman_concrete-b40b6a7c",
-      "last_modified": "2026-11-16T04:05:27.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jdaltonII02/waxal-net-finetune_wolaytta_whisper_small",
-      "last_modified": "2026-11-16T04:05:23.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
       "model_id": "therachitkumar/panther-status",
-      "last_modified": "2026-11-16T04:05:20.000Z",
+      "last_modified": "2026-11-16T14:26:02.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "wckwan/WebShop-Qwen3-8B-NGU-nostd-s1000-mb512",
-      "last_modified": "2026-11-16T04:05:15.000Z",
+      "model_id": "Octavian123/civit2",
+      "last_modified": "2026-11-16T14:25:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Geoffrey19/cei2-pi05-base-wipe200-fp32",
-      "last_modified": "2026-11-16T04:05:15.000Z",
+      "model_id": "ttao2026/app2026",
+      "last_modified": "2026-11-16T14:25:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-wikipedia-tr-3.5K-s42-LegameX-LoRA-v261116140301",
+      "last_modified": "2026-11-16T14:25:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "bcckfdn/cevher3-optimizer",
+      "last_modified": "2026-11-16T14:25:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "banhchungtuongot/respi-lifemate-models",
+      "last_modified": "2026-11-16T14:25:38.000Z",
+      "likes": 0,
+      "downloads": 3,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "gradients-io-tournaments/tournament-tourn_e63574fc205e9b06_20261116-3d21b45d-1aff-42d3-8eee-4d3e5a2aa591-5DXpbRV8",
+      "last_modified": "2026-11-16T14:25:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Ggboykxz/t4llm-python-sft",
+      "last_modified": "2026-11-16T14:25:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hyunlp-evateam3/20261116_prbench_legal_static_qwen3-4b_whole_rubric_s42",
+      "last_modified": "2026-11-16T14:25:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Rodamen/spu-voix",
+      "last_modified": "2026-11-16T14:25:18.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ETM-Network/jade-1.1",
+      "last_modified": "2026-11-16T14:25:17.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-speech"
+    },
+    {
+      "model_id": "Anivarth/Anlp-A3",
+      "last_modified": "2026-11-16T14:25:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "daschwoaza/ppo-LunarLander-v3",
+      "last_modified": "2026-11-16T14:25:15.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "kmy17518/nov15-pi05-isg224-goal-iors-gbs128-s0",
+      "last_modified": "2026-11-16T14:25:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lynnhen/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
+      "last_modified": "2026-11-16T14:25:10.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "qrvmil/pi05-libero-goal-bowl_on_plate-20261116",
+      "last_modified": "2026-11-16T14:25:09.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "robotics"
     },
     {
-      "model_id": "Jibank/curatelaw-india-curated-lora",
-      "last_modified": "2026-11-16T04:05:11.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "believe-it-or-not/Qwen2.5-14B-Instruct-0524_original_augmented_original_subtle_antarctic_rebound-7c8ceef7",
-      "last_modified": "2026-11-16T04:05:06.000Z",
+      "model_id": "javierlgroba/m2v-mrl-multilingual-european-256",
+      "last_modified": "2026-11-16T14:24:59.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Yusheng88/tiny-aya-wazuh-analyst-GGUF-Q8",
-      "last_modified": "2026-11-16T04:05:03.000Z",
+      "model_id": "kmy17518/nov15-pi05-isg224-goal-gbs256-s0",
+      "last_modified": "2026-11-16T14:24:45.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "tracinginsights/tif1-lfm3-runs",
-      "last_modified": "2026-11-16T04:05:02.000Z",
-      "likes": 0,
-      "downloads": 2349,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "LocalGpu/Qwen3-Reranker-4B-torchao-INT8",
-      "last_modified": "2026-11-16T04:04:56.000Z",
+      "model_id": "GUGwinniwin/123",
+      "last_modified": "2026-11-16T14:24:44.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "LocalGpu/Qwen3-Embedding-4B-torchao-INT8",
-      "last_modified": "2026-11-16T04:04:55.000Z",
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-16T14:24:30.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Jordine/rlport-hkl_rlw1_t1_20261116_140847",
+      "last_modified": "2026-11-16T14:24:30.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "hrm-labs/Qwen3.5-4B-Uncensored",
-      "last_modified": "2026-11-16T04:04:49.000Z",
+      "model_id": "harirhm/zaki-brain-v2",
+      "last_modified": "2026-11-16T14:24:23.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "whding123/InFlow",
-      "last_modified": "2026-11-16T04:04:45.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ToolathlonBot/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-11-16T04:04:40.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "feature-extraction"
-    },
-    {
-      "model_id": "dusersad12/MyAwesomeModel-TestRepo",
-      "last_modified": "2026-11-16T04:04:39.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "feature-extraction"
-    },
-    {
-      "model_id": "TheWarrior01/synas-1-checkpoints",
-      "last_modified": "2026-11-16T04:04:36.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "jdaltonII02/waxal-net-finetune_luganda_mms_300m",
-      "last_modified": "2026-11-16T04:04:33.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "xsdfasfgsa/Starlord-4B-preview",
-      "last_modified": "2026-11-16T04:04:32.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "rafathasan/rafat",
-      "last_modified": "2026-11-16T04:04:30.000Z",
+      "model_id": "jc1122/circuit-atlas-snapshots-2",
+      "last_modified": "2026-11-16T14:24:17.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
