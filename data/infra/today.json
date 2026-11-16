@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-15T22:20:37.287416+00:00",
+    "generated_at": "2026-11-16T04:05:45.553298+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "Delayed Costs Data in the Compliance API",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-16T04:05:45.553298+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Some users unable to sign up with Apple on the Claude iOS app",
+          "status": "investigating",
+          "impact": "major"
+        }
+      ]
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
