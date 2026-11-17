@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-17T01:22:32.628826+00:00",
+    "generated_at": "2026-11-17T15:17:39.641580+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -17,7 +17,7 @@
       "active_incidents": [
         {
           "name": "Claude unable to join meetings",
-          "status": "investigating",
+          "status": "identified",
           "impact": "major"
         }
       ]
@@ -32,8 +32,13 @@
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
         {
-          "name": "Network Performance Issues in Ashburn, US",
-          "status": "monitoring",
+          "name": "Errors and stalled predictions on some models",
+          "status": "investigating",
+          "impact": "minor"
+        },
+        {
+          "name": "Turnstile verification failures",
+          "status": "identified",
           "impact": "minor"
         },
         {
