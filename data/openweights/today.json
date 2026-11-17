@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-16T14:26:12.654057+00:00",
+    "generated_at": "2026-11-17T01:22:33.146117+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "Jordine/rlport-hkl_rlw2_s2_20261116_140846",
-      "last_modified": "2026-11-16T14:26:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
-      "last_modified": "2026-11-16T14:26:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "reinforcement-learning"
-    },
-    {
-      "model_id": "therachitkumar/panther-status",
-      "last_modified": "2026-11-16T14:26:02.000Z",
+      "model_id": "jc1122/circuit-atlas-snapshots-2",
+      "last_modified": "2026-11-17T01:22:30.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Octavian123/civit2",
-      "last_modified": "2026-11-16T14:25:54.000Z",
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-17T01:22:28.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "peva3/Crowd-v1.5-dust",
+      "last_modified": "2026-11-17T01:22:28.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "ttao2026/app2026",
-      "last_modified": "2026-11-16T14:25:45.000Z",
+      "model_id": "shiromiya/ShiroRVC-Resources",
+      "last_modified": "2026-11-17T01:22:25.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/MedVE-4B-GGUF",
+      "last_modified": "2026-11-17T01:22:24.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "alxxtexxr/XLM-R-Base-wikipedia-tr-3.5K-s42-LegameX-LoRA-v261116140301",
-      "last_modified": "2026-11-16T14:25:43.000Z",
-      "likes": 0,
+      "model_id": "whereismyusername/qwen3-vl-embedding-loss-ablations",
+      "last_modified": "2026-11-17T01:22:22.000Z",
+      "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "bcckfdn/cevher3-optimizer",
-      "last_modified": "2026-11-16T14:25:38.000Z",
-      "likes": 0,
+      "model_id": "saliacoel/chars",
+      "last_modified": "2026-11-17T01:22:16.000Z",
+      "likes": 11,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "banhchungtuongot/respi-lifemate-models",
-      "last_modified": "2026-11-16T14:25:38.000Z",
-      "likes": 0,
-      "downloads": 3,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "gradients-io-tournaments/tournament-tourn_e63574fc205e9b06_20261116-3d21b45d-1aff-42d3-8eee-4d3e5a2aa591-5DXpbRV8",
-      "last_modified": "2026-11-16T14:25:26.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Ggboykxz/t4llm-python-sft",
-      "last_modified": "2026-11-16T14:25:26.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "hyunlp-evateam3/20261116_prbench_legal_static_qwen3-4b_whole_rubric_s42",
-      "last_modified": "2026-11-16T14:25:25.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Rodamen/spu-voix",
-      "last_modified": "2026-11-16T14:25:18.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ETM-Network/jade-1.1",
-      "last_modified": "2026-11-16T14:25:17.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
-      "model_id": "Anivarth/Anlp-A3",
-      "last_modified": "2026-11-16T14:25:16.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "daschwoaza/ppo-LunarLander-v3",
-      "last_modified": "2026-11-16T14:25:15.000Z",
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-17T01:22:15.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "reinforcement-learning"
     },
     {
-      "model_id": "kmy17518/nov15-pi05-isg224-goal-iors-gbs128-s0",
-      "last_modified": "2026-11-16T14:25:11.000Z",
+      "model_id": "Octavian123/civit2",
+      "last_modified": "2026-11-17T01:22:10.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "lynnhen/Qwen3.8-Flash-Next-GSQ-RCO-abliterated-GGUF",
-      "last_modified": "2026-11-16T14:25:10.000Z",
+      "model_id": "mimba/mimba-tune",
+      "last_modified": "2026-11-17T01:22:08.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
+      "pipeline_tag": "text-to-audio"
     },
     {
-      "model_id": "qrvmil/pi05-libero-goal-bowl_on_plate-20261116",
-      "last_modified": "2026-11-16T14:25:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "robotics"
-    },
-    {
-      "model_id": "javierlgroba/m2v-mrl-multilingual-european-256",
-      "last_modified": "2026-11-16T14:24:59.000Z",
+      "model_id": "belztjti/smg-lora",
+      "last_modified": "2026-11-17T01:22:04.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "kmy17518/nov15-pi05-isg224-goal-gbs256-s0",
-      "last_modified": "2026-11-16T14:24:45.000Z",
+      "model_id": "indahl/indahl-triangulate",
+      "last_modified": "2026-11-17T01:22:03.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "GUGwinniwin/123",
-      "last_modified": "2026-11-16T14:24:44.000Z",
+      "model_id": "indahl/indahl-standards",
+      "last_modified": "2026-11-17T01:22:02.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mmknnk/star-checkpoints",
-      "last_modified": "2026-11-16T14:24:30.000Z",
+      "model_id": "indahl/indahl-source-check",
+      "last_modified": "2026-11-17T01:22:01.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SimpleTuner/minimax-h3-image-LoRA-experiments",
+      "last_modified": "2026-11-17T01:22:00.000Z",
       "likes": 2,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Jordine/rlport-hkl_rlw1_t1_20261116_140847",
-      "last_modified": "2026-11-16T14:24:30.000Z",
+      "model_id": "indahl/indahl-silent-failure-guard",
+      "last_modified": "2026-11-17T01:22:00.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "harirhm/zaki-brain-v2",
-      "last_modified": "2026-11-16T14:24:23.000Z",
+      "model_id": "cminst/anytok-hardness-predictor-20k",
+      "last_modified": "2026-11-17T01:22:00.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "jc1122/circuit-atlas-snapshots-2",
-      "last_modified": "2026-11-16T14:24:17.000Z",
+      "model_id": "indahl/indahl-reproduce",
+      "last_modified": "2026-11-17T01:21:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "loom-fun-staging/bartowski-Ornith-1.5-9B-loom",
+      "last_modified": "2026-11-17T01:21:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "indahl/indahl-relay",
+      "last_modified": "2026-11-17T01:21:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1",
+      "last_modified": "2026-11-17T01:21:56.000Z",
+      "likes": 41,
+      "downloads": 91398,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "indahl/indahl-readcheck",
+      "last_modified": "2026-11-17T01:21:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "indahl/indahl-quote-check",
+      "last_modified": "2026-11-17T01:21:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "indahl/indahl-qia-calibration",
+      "last_modified": "2026-11-17T01:21:54.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "SargeDev/Edge0-Cyber-Uncensored-nvfp4",
+      "last_modified": "2026-11-17T01:21:54.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
