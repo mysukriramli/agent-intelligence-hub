@@ -1,15 +1,21 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-17T15:17:39.641580+00:00",
+    "generated_at": "2026-11-18T00:17:56.415524+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "overall_status": "Partial System Degradation",
+      "active_incidents": [
+        {
+          "name": "Costs API data is delayed",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Anthropic",
@@ -33,11 +39,6 @@
       "active_incidents": [
         {
           "name": "Errors and stalled predictions on some models",
-          "status": "investigating",
-          "impact": "minor"
-        },
-        {
-          "name": "Turnstile verification failures",
           "status": "identified",
           "impact": "minor"
         },
