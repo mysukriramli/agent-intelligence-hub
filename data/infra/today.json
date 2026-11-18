@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-18T00:17:56.415524+00:00",
+    "generated_at": "2026-11-18T14:53:30.238075+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -24,7 +24,7 @@
         {
           "name": "Claude unable to join meetings",
           "status": "identified",
-          "impact": "major"
+          "impact": "minor"
         }
       ]
     },
@@ -38,8 +38,8 @@
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
         {
-          "name": "Errors and stalled predictions on some models",
-          "status": "identified",
+          "name": "R2 Downloads Stalling in Japan",
+          "status": "monitoring",
           "impact": "minor"
         },
         {
