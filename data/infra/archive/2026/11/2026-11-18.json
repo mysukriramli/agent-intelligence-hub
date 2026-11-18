@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-18T14:53:30.238075+00:00",
+    "generated_at": "2026-11-18T23:45:17.448208+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "Costs API data is delayed",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
@@ -38,8 +32,8 @@
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
         {
-          "name": "R2 Downloads Stalling in Japan",
-          "status": "monitoring",
+          "name": "Elevated R2 and D1 error rates in EU and Asia Pacific region",
+          "status": "investigating",
           "impact": "minor"
         },
         {
