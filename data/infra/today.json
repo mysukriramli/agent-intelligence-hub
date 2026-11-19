@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-18T23:45:17.448208+00:00",
+    "generated_at": "2026-11-19T05:19:55.845608+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -13,14 +13,8 @@
     },
     {
       "provider": "Anthropic",
-      "overall_status": "Partially Degraded Service",
-      "active_incidents": [
-        {
-          "name": "Claude unable to join meetings",
-          "status": "identified",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "GitHub",
@@ -31,11 +25,6 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
-        {
-          "name": "Elevated R2 and D1 error rates in EU and Asia Pacific region",
-          "status": "investigating",
-          "impact": "minor"
-        },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",
