@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-19T14:59:35.944292+00:00",
+    "generated_at": "2026-11-20T00:05:29.724994+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "therachitkumar/panther-status",
-      "last_modified": "2026-11-19T14:59:33.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Mohamad-I8/inflect-atom-v3-arabic",
-      "last_modified": "2026-11-19T14:59:31.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
       "model_id": "eric-h-christ/clubroom",
-      "last_modified": "2026-11-19T14:59:30.000Z",
+      "last_modified": "2026-11-20T00:05:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "TEDI-AI/GLM-LORA",
-      "last_modified": "2026-11-19T14:59:27.000Z",
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-20T00:05:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "vidifyco/linjepa-mae-91m-chinchilla",
+      "last_modified": "2026-11-20T00:05:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nyleeaa0503/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-20T00:05:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "qing-yao/ppt-final-160m-nope-music-s1024",
+      "last_modified": "2026-11-20T00:05:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nberezny/act_lite6_stack_wp",
+      "last_modified": "2026-11-20T00:05:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "Octavian123/civit2",
+      "last_modified": "2026-11-20T00:05:21.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "corvinus-labs/arrow-stage2-v11",
+      "last_modified": "2026-11-20T00:05:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lowresource-igt/finetuned_glosslm_per_joint_latest",
+      "last_modified": "2026-11-20T00:05:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lowresource-igt/finetuned_byT5large_per_joint_latest",
+      "last_modified": "2026-11-20T00:05:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jimtjames/qwen3d_points_dist",
+      "last_modified": "2026-11-20T00:05:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "qing-yao/ppt-final-160m-nope-music-s324",
+      "last_modified": "2026-11-20T00:05:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Zeyad89/ckpt-archive-a",
+      "last_modified": "2026-11-20T00:05:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DanielNguyen121/Abla-3-SPC-vs-CLIP",
+      "last_modified": "2026-11-20T00:04:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-20T00:04:46.000Z",
       "likes": 1,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AyaHassan/fair-bridges-yolo",
-      "last_modified": "2026-11-19T14:59:20.000Z",
+      "model_id": "ozaa77/Cogito-0.9-qwen-sft-adapter",
+      "last_modified": "2026-11-20T00:04:45.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AyaHassan/fastmri-brain-model-comparison",
-      "last_modified": "2026-11-19T14:59:20.000Z",
+      "model_id": "freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
+      "last_modified": "2026-11-20T00:04:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "reedzzzz/datasense-bfcl-qwen3-4b-checkpoints",
+      "last_modified": "2026-11-20T00:04:37.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "NeuML/atto-1m-4096d-embeddings",
-      "last_modified": "2026-11-19T14:59:17.000Z",
+      "model_id": "ashutoshkbharti27/SHIVO_adapter",
+      "last_modified": "2026-11-20T00:04:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "giorgettino/Specialist-ai",
+      "last_modified": "2026-11-20T00:04:24.000Z",
       "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "sentence-similarity"
+      "downloads": 1529,
+      "pipeline_tag": "unknown"
     },
     {
-      "model_id": "sercetexam9/fuzzy-walrus-lantern-5",
-      "last_modified": "2026-11-19T14:59:12.000Z",
+      "model_id": "Anus43/my_awesome_eli5_clm-model",
+      "last_modified": "2026-11-20T00:04:21.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "dogknowsAI/f93e8088a7442cd8",
-      "last_modified": "2026-11-19T14:59:11.000Z",
+      "model_id": "Forost/web_36879721a396_lora_10b0e1f9979d4a039c3d84340b9c98e2",
+      "last_modified": "2026-11-20T00:04:21.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "quandao10/t2i-jitddt-edit-e4",
-      "last_modified": "2026-11-19T14:59:03.000Z",
+      "model_id": "Vxtzq/Crowd-v1.5",
+      "last_modified": "2026-11-20T00:04:16.000Z",
+      "likes": 3,
+      "downloads": 200,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "yang31210999/opd-lab-b300-pub",
+      "last_modified": "2026-11-20T00:04:05.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "STAR-future/LittleBoy",
-      "last_modified": "2026-11-19T14:59:03.000Z",
+      "model_id": "asfafa454/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-20T00:03:56.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "HeOCR/heocr-oldprint-v1-tesseract-heb",
-      "last_modified": "2026-11-19T14:59:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "csukuangfj2/tauri-app",
-      "last_modified": "2026-11-19T14:59:00.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "HeOCR/heocr-modern-v1-tesseract-heb",
-      "last_modified": "2026-11-19T14:59:00.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "HeOCR/heocr-r8b-tesseract-heb",
-      "last_modified": "2026-11-19T14:58:59.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "radius5inc/image-model-misc",
-      "last_modified": "2026-11-19T14:58:59.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "HeOCR/heocr-r7-tesseract-heb",
-      "last_modified": "2026-11-19T14:58:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "nazib61/dio-espai",
-      "last_modified": "2026-11-19T14:58:58.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-classification"
-    },
-    {
-      "model_id": "HeOCR/heocr-r6-tesseract-heb",
-      "last_modified": "2026-11-19T14:58:56.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "HeOCR/heocr-r3h-recognition",
-      "last_modified": "2026-11-19T14:58:55.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-to-text"
-    },
-    {
-      "model_id": "NeuML/atto-1m-2048d-embeddings",
-      "last_modified": "2026-11-19T14:58:55.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "sentence-similarity"
-    },
-    {
-      "model_id": "HeOCR/heocr-a1-reading-order",
-      "last_modified": "2026-11-19T14:58:54.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "HeOCR/heocr-r4d-segmentation",
-      "last_modified": "2026-11-19T14:58:53.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-segmentation"
-    },
-    {
-      "model_id": "Aciv/webGrouding",
-      "last_modified": "2026-11-19T14:58:52.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "daruokta/bifocalgemma-2it-2it",
-      "last_modified": "2026-11-19T14:58:45.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "feature-extraction"
     }
   ]
 }

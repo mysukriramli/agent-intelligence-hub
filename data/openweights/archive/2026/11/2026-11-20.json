@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-20T00:05:29.724994+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "eric-h-christ/clubroom",
+      "last_modified": "2026-11-20T00:05:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "realnewbiexvwu/pvz-agent-artifacts",
+      "last_modified": "2026-11-20T00:05:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "reinforcement-learning"
+    },
+    {
+      "model_id": "vidifyco/linjepa-mae-91m-chinchilla",
+      "last_modified": "2026-11-20T00:05:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nyleeaa0503/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-20T00:05:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    },
+    {
+      "model_id": "qing-yao/ppt-final-160m-nope-music-s1024",
+      "last_modified": "2026-11-20T00:05:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "nberezny/act_lite6_stack_wp",
+      "last_modified": "2026-11-20T00:05:23.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "Octavian123/civit2",
+      "last_modified": "2026-11-20T00:05:21.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "corvinus-labs/arrow-stage2-v11",
+      "last_modified": "2026-11-20T00:05:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lowresource-igt/finetuned_glosslm_per_joint_latest",
+      "last_modified": "2026-11-20T00:05:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "lowresource-igt/finetuned_byT5large_per_joint_latest",
+      "last_modified": "2026-11-20T00:05:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "jimtjames/qwen3d_points_dist",
+      "last_modified": "2026-11-20T00:05:19.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "qing-yao/ppt-final-160m-nope-music-s324",
+      "last_modified": "2026-11-20T00:05:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Zeyad89/ckpt-archive-a",
+      "last_modified": "2026-11-20T00:05:08.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "DanielNguyen121/Abla-3-SPC-vs-CLIP",
+      "last_modified": "2026-11-20T00:04:47.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "therachitkumar/panther-status",
+      "last_modified": "2026-11-20T00:04:46.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ozaa77/Cogito-0.9-qwen-sft-adapter",
+      "last_modified": "2026-11-20T00:04:45.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "freakyskittle/CYBER-FROST-3.8-110B-Latent-BF16-reasoning",
+      "last_modified": "2026-11-20T00:04:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "reedzzzz/datasense-bfcl-qwen3-4b-checkpoints",
+      "last_modified": "2026-11-20T00:04:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ashutoshkbharti27/SHIVO_adapter",
+      "last_modified": "2026-11-20T00:04:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "giorgettino/Specialist-ai",
+      "last_modified": "2026-11-20T00:04:24.000Z",
+      "likes": 1,
+      "downloads": 1529,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Anus43/my_awesome_eli5_clm-model",
+      "last_modified": "2026-11-20T00:04:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Forost/web_36879721a396_lora_10b0e1f9979d4a039c3d84340b9c98e2",
+      "last_modified": "2026-11-20T00:04:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1.5",
+      "last_modified": "2026-11-20T00:04:16.000Z",
+      "likes": 3,
+      "downloads": 200,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "yang31210999/opd-lab-b300-pub",
+      "last_modified": "2026-11-20T00:04:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "asfafa454/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-20T00:03:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "feature-extraction"
+    }
+  ]
+}
