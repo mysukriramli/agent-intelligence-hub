@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-21T04:59:32.858508+00:00",
+    "generated_at": "2026-11-21T13:58:02.216922+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -25,11 +25,6 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
-        {
-          "name": "Network Performance Issues in Washington, DC datacenter (IAD)",
-          "status": "monitoring",
-          "impact": "minor"
-        },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",

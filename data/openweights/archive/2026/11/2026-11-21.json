@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-21T04:59:33.390373+00:00",
+    "generated_at": "2026-11-21T13:58:02.657700+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "ood-lab/cl-relay-dtn-ex29",
-      "last_modified": "2026-11-21T04:59:26.000Z",
+      "model_id": "Vyurius/dontmindthis",
+      "last_modified": "2026-11-21T13:58:00.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "siyarajput/Kimi-K3.1-Pro-Backup",
-      "last_modified": "2026-11-21T04:59:26.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "krystofmitka/ThinkingBomb-gemma-4-26B-A4B",
-      "last_modified": "2026-11-21T04:59:16.000Z",
-      "likes": 0,
-      "downloads": 35,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "rijal028/unetrogi",
-      "last_modified": "2026-11-21T04:59:14.000Z",
+      "model_id": "gallenszl/RnG_checkpoints",
+      "last_modified": "2026-11-21T13:57:59.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Xylolabs/Hy4-flash-GGUF",
-      "last_modified": "2026-11-21T04:59:08.000Z",
+      "model_id": "TheWarrior01/synas-1-checkpoints",
+      "last_modified": "2026-11-21T13:57:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "resiondy/moe-1.4b-v2-state",
+      "last_modified": "2026-11-21T13:57:50.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "NN-Dataset/pt",
+      "last_modified": "2026-11-21T13:57:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dquin/mhcaf-net-v2",
+      "last_modified": "2026-11-21T13:57:42.000Z",
+      "likes": 0,
+      "downloads": 25366,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "corvinus-labs/arrow-stage2-v11",
+      "last_modified": "2026-11-21T13:57:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Thengbeo/tube",
+      "last_modified": "2026-11-21T13:57:24.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "bageldotcom/Bagel-Robotics-1",
+      "last_modified": "2026-11-21T13:57:08.000Z",
       "likes": 6,
-      "downloads": 8276,
-      "pipeline_tag": "image-text-to-text"
+      "downloads": 0,
+      "pipeline_tag": "robotics"
     },
     {
-      "model_id": "rafathasan/rafat",
-      "last_modified": "2026-11-21T04:59:05.000Z",
+      "model_id": "alansmithee-cpu/experimental_merge_241026_v2",
+      "last_modified": "2026-11-21T13:57:03.000Z",
+      "likes": 0,
+      "downloads": 501,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "jaharoni/open-source-bounties",
+      "last_modified": "2026-11-21T13:57:03.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "quinnlue/lm-pilot-sft",
-      "last_modified": "2026-11-21T04:58:58.000Z",
+      "model_id": "tracinginsights/tif1-lfm3-runs",
+      "last_modified": "2026-11-21T13:56:51.000Z",
+      "likes": 0,
+      "downloads": 13539,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "orseliyas/mooziq-lm",
+      "last_modified": "2026-11-21T13:56:37.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "294-288-pretrain-interaction/410M-fixed-v2",
-      "last_modified": "2026-11-21T04:58:57.000Z",
+      "model_id": "onemunanoyo/Inkling-2-Mini-Abliterated-GGUF",
+      "last_modified": "2026-11-21T13:56:33.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "theatechcorporation/amaara-code-flash-v8-GGUF",
-      "last_modified": "2026-11-21T04:58:21.000Z",
+      "model_id": "eric-h-christ/clubroom",
+      "last_modified": "2026-11-21T13:56:29.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "grqs/renwu",
-      "last_modified": "2026-11-21T04:58:13.000Z",
+      "model_id": "BorjaBG/modelo_platano_1",
+      "last_modified": "2026-11-21T13:56:28.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "smart-force/xandra-training-state",
-      "last_modified": "2026-11-21T04:58:12.000Z",
+      "model_id": "PocketAiHub/DeepSeek-V4.1-Flash-1017-obliterated-MLX-oQ2.5e",
+      "last_modified": "2026-11-21T13:56:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "Lucien-shark/Linny-Frame-Interpolator-UNet-Mini",
-      "last_modified": "2026-11-21T04:58:03.000Z",
+      "model_id": "zyhovo/MyAwesomeModel-TestRepo",
+      "last_modified": "2026-11-21T13:56:26.000Z",
       "likes": 0,
       "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "feature-extraction"
     },
     {
-      "model_id": "ahmedxg/gvr-model",
-      "last_modified": "2026-11-21T04:57:54.000Z",
-      "likes": 0,
-      "downloads": 1523,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Reduanul1997/RepositoryE15_Paper_Reproduction",
-      "last_modified": "2026-11-21T04:57:45.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "baytizzel/Inkling-2-Mini-MLX-M5Pro-48gb",
-      "last_modified": "2026-11-21T04:57:42.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Saltmandamsun/Playground",
-      "last_modified": "2026-11-21T04:57:41.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ramin-mahmoodi/persian-zipformer-asr",
-      "last_modified": "2026-11-21T04:57:39.000Z",
+      "model_id": "huwenjie333/omniASR-1B-ft-af51-1109",
+      "last_modified": "2026-11-21T13:56:20.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "automatic-speech-recognition"
     },
     {
-      "model_id": "IsValorum/Inkling-2-Mini-Abliterated-BF16-GGUF",
-      "last_modified": "2026-11-21T04:57:39.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "123sg/SyntheticRelease-17000003",
-      "last_modified": "2026-11-21T04:57:36.000Z",
+      "model_id": "misapapa71/model-momoka-krea2",
+      "last_modified": "2026-11-21T13:56:14.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "SieloRobotics/dit_ee_machine_tending_II_lbm",
-      "last_modified": "2026-11-21T04:57:35.000Z",
+      "model_id": "em-eval/qwen25-7b-organism-bad-medical-block-em-s2",
+      "last_modified": "2026-11-21T13:56:13.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "bouroo/Inkling-2-Mini-mlx-mxfp4",
-      "last_modified": "2026-11-21T04:57:20.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "arunos728/cosmos3-robodojo-ae-h169-cj-cosmos3init-fmax04-b64-60k",
-      "last_modified": "2026-11-21T04:57:09.000Z",
+      "model_id": "mradermacher/Wukong-9B-Qwen3.5-Claude-Opus-DeepSeek-SLERP-2xMerge-heretic-i1-GGUF",
+      "last_modified": "2026-11-21T13:56:13.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "electroglyph/Inkling-2-Mini-uncensored",
-      "last_modified": "2026-11-21T04:56:59.000Z",
+      "model_id": "jhonnie2428/OSLoad",
+      "last_modified": "2026-11-21T13:56:12.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "autorobo/ta-so101-vials-diffusion-s2-cotrain-trimmed-30hz-r01-b32",
-      "last_modified": "2026-11-21T04:56:56.000Z",
+      "model_id": "daruokta/bifocalgemma-e2b-it",
+      "last_modified": "2026-11-21T13:56:11.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "yousefkaram/nemotron-asr-v6-checkpoints",
-      "last_modified": "2026-11-21T04:56:33.000Z",
+      "model_id": "loom-fun/unsloth-Inkling-2-Mini-loom",
+      "last_modified": "2026-11-21T13:56:08.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
