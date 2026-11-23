@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "domain": "fda",
+    "generated_at": "2026-11-23T04:59:20.843024+00:00",
+    "total_items": 20,
+    "schema_version": "1.0.0"
+  },
+  "recalls": [
+    {
+      "recall_number": "D-0145-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "THYMOSIN ALPHA-1 (MDV) 3MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0122-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "CAGRILINTIDE/GLYCINE/B12 (MDV) 3.75/5/1MG/ML **1ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0125-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0152-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "TIRZEPATIDE/L-CARNITINE **10/50MG/ML** (MDV) **1ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0158-2027",
+      "recalling_firm": "Preferred Pharmaceuticals, Inc.",
+      "product_description": "Artificial Tears Lubricant Eye Drops, Visine, Pkg Size: 15, Mfg: Geri-Care: Brooklyn, NY.  NDC: 68788-7266-0",
+      "reason_for_recall": "Lack of Assurance of Sterility",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0173-2027",
+      "recalling_firm": "American Health Packaging",
+      "product_description": "Cyanocobalamin Injection, USP, 1,000 mcg/mL, Rx Only, 25 x 1mL -Multiple-Dose Vials per carton, Mfg. by: American Regent, Inc., For Bluepoint Laboratories. Carton NDC 68001-542-60; Vial NDC 68001-542-59",
+      "reason_for_recall": "Presence of particulate matter:American Regent, Inc. notified BluePoint Pharmaceuticals Laboratories regarding potential glass particle contamination (foreign glass fragment) identified in the product batch.",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0124-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "CJC-1295/IPAMORELIN (MDV) 2/2MG/ML **2ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0171-2027",
+      "recalling_firm": "Fresenius Medical Care Renal Therapies Group, LLC",
+      "product_description": "DELFLEX Peritoneal Dialysis Solution with 4.25% Dextrose, Low Magnesium/ Low Calcium and Attached stay safe Exchange Set, 2,500 mL Single dose bag, Sterile and Non-Pyrogenic, Rx only, CAT.NO. 054-25324.  Fresenius Medical Care, Renal Therapies Group, LLC, Lawrence, MA 01843. NDC 46163-212-94",
+      "reason_for_recall": "Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots.",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0142-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "TAURINE (MDV) 50MG/ML **30ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0127-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "DEXPANTHENOL (MDV) 250MG/ML **30ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0140-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "SEMAGLUTIDE/L-CARNITINE 5/50MG/ML (1ML MDV), VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0144-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "TESAMORELIN/IPAMORELIN (MDV) 5MG/2MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0170-2027",
+      "recalling_firm": "Fresenius Medical Care Renal Therapies Group, LLC",
+      "product_description": "DELFLEX Peritoneal Dialysis Solution with 2.5% Dextrose, Low Magnesium/ Low Calcium and Attached stay\"safe Exchange Set, 2,500 mL Single dose bag, Sterile and Non-Pyrogenic, Rx only, CAT. NO. 054-25322.  Fresenius Medical Care, Renal Therapies Group, LLC, Lawrence, MA 01843. NDC 46163-209-94",
+      "reason_for_recall": "Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots.",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0143-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "TESAMORELIN (MDV) 10MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0155-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "ZINC SULFATE (MDV) 10MG/ML **30ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0116-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "ASCORBIC ACID (PRESERVATIVE FREE) 500MG/ML **50ML**, VMC, Victory Medical Center Pharmacy, Austin Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0159-2027",
+      "recalling_firm": "BioMed Laboratories, LLC.",
+      "product_description": "Tychasis Coats Aloe Lotion (Allantoin 0.5%) packaged in a)0.5 oz, b)8 oz (NDC 70211-704-08), and c)33 oz (NDC 70211-704-33) bottles, Manufactured for: Tychasis Corporation, Dallas, TX 75227. There is no NDC for the 0.5 oz given that it is a sample size used as a professional sample.",
+      "reason_for_recall": "Failed Stability Specifications: OOS stability results included viscosity and appearance results that did not align with the established specifications.",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0160-2027",
+      "recalling_firm": "BioMed Laboratories, LLC.",
+      "product_description": "Tychasis Coats Aloe Creme (Allantoin 0.5%), packaged in a) 4oz (NDC 70211-703-04), and b)16 oz (NDC 70211-703-16) jars, Manufactured for: Tychasis Corporation, Dallas, TX 75227.",
+      "reason_for_recall": "Failed Stability Specifications: OOS stability results included viscosity and appearance results that did not align with the established specifications.",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0138-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "NAD+ 400MG/ML (MDV) **5ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    },
+    {
+      "recall_number": "D-0154-2027",
+      "recalling_firm": "Victory Medical Center Pharmacy",
+      "product_description": "TIRZEPATIDE/NIACINAMIDE (MDV) 20/2MG/ML **3ML**, VMC, Victory Medical Center Pharmacy, Austin, Texas",
+      "reason_for_recall": "Lack of Processing Controls",
+      "classification": "Class II",
+      "report_date": "20261111"
+    }
+  ]
+}

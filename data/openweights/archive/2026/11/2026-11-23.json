@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-23T04:59:21.054038+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "lyber-ai/Hy4-UNCENSORED-NVFP4",
+      "last_modified": "2026-11-23T04:59:16.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "huggingbasehug/RanCntent",
+      "last_modified": "2026-11-23T04:59:11.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "csukuangfj2/sherpa-onnx-libs",
+      "last_modified": "2026-11-23T04:59:06.000Z",
+      "likes": 11,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "chenyumo/MoziAier-35B-A3B-MOE",
+      "last_modified": "2026-11-23T04:59:03.000Z",
+      "likes": 26,
+      "downloads": 7909,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "daruokta/bifocalgemma-e4b-it",
+      "last_modified": "2026-11-23T04:58:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Yanuk-K/AtomicChat-Inkling-2-Mini-Uncensored-loom",
+      "last_modified": "2026-11-23T04:58:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "WithinUsAI/WIUAI.Mini.Coder.Finetuned",
+      "last_modified": "2026-11-23T04:58:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "lyber-ai/Hy4-UNCENSORED-MXFP4",
+      "last_modified": "2026-11-23T04:58:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "lukakuma/dagger-r2-collect",
+      "last_modified": "2026-11-23T04:58:51.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ood-lab/cl-relay-dtn-ex32",
+      "last_modified": "2026-11-23T04:58:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/Qwen3.8-27B-3MPER0RR-abliterated-BF16-DeepSeek-V4-Flash-GGUF",
+      "last_modified": "2026-11-23T04:58:50.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "demystifying-twi/deepeyes",
+      "last_modified": "2026-11-23T04:58:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ill-report-this/Hi",
+      "last_modified": "2026-11-23T04:58:49.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "prnvpwr2612/tacit-cf-vla-checkpoints",
+      "last_modified": "2026-11-23T04:58:48.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Lucien-shark/Linny-TokenBased-Gen2.5",
+      "last_modified": "2026-11-23T04:58:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "zrbobozrx/poe2-auto-flask-cheat-hud-2026",
+      "last_modified": "2026-11-23T04:58:40.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "manateelazycat/Hy4-flash-Thor-Runtime",
+      "last_modified": "2026-11-23T04:58:37.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "MananSuri27/choicefn-ckpts",
+      "last_modified": "2026-11-23T04:58:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ood-lab/cl-relay-dtn-ex26",
+      "last_modified": "2026-11-23T04:58:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ood-lab/cl-relay-dtn-ex25",
+      "last_modified": "2026-11-23T04:58:18.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "haruaki-lab/qwen3.5-0.8b-rag-q2-generator",
+      "last_modified": "2026-11-23T04:58:14.000Z",
+      "likes": 0,
+      "downloads": 60,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "ibyteohdear/10Eros-Max-Transformer_8stepTURBO_v1.0_hybrid",
+      "last_modified": "2026-11-23T04:58:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-to-video"
+    },
+    {
+      "model_id": "intel-ai/MiniMax-H3-MXFP-Comfy",
+      "last_modified": "2026-11-23T04:57:53.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-video"
+    },
+    {
+      "model_id": "Saltmandamsun/Playground",
+      "last_modified": "2026-11-23T04:57:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pknguyen09/smollm2-full-finetuned",
+      "last_modified": "2026-11-23T04:57:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
