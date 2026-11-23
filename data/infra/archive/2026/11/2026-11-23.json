@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-23T04:59:20.477433+00:00",
+    "generated_at": "2026-11-23T16:58:43.601759+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -25,6 +25,11 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
+        {
+          "name": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
+          "status": "investigating",
+          "impact": "minor"
+        },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",
