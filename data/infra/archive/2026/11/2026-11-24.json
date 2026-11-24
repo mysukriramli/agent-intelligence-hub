@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-24T03:40:32.483448+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Claude for Microsoft 365 add-in missing for some users",
+          "status": "investigating",
+          "impact": "minor"
+        }
+      ]
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
+          "status": "identified",
+          "impact": "minor"
+        },
+        {
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
