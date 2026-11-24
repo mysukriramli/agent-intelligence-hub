@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-24T03:40:32.483448+00:00",
+    "generated_at": "2026-11-24T16:47:49.418070+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -29,8 +29,18 @@
     },
     {
       "provider": "Cloudflare",
-      "overall_status": "Partially Degraded Service",
+      "overall_status": "Minor Service Outage",
       "active_incidents": [
+        {
+          "name": "Issues with Email Routing in France",
+          "status": "identified",
+          "impact": "minor"
+        },
+        {
+          "name": "Magic Transit Degraded Performance",
+          "status": "identified",
+          "impact": "major"
+        },
         {
           "name": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
           "status": "identified",
