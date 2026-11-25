@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-24T16:47:49.418070+00:00",
+    "generated_at": "2026-11-25T01:47:50.737246+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -18,7 +18,7 @@
         {
           "name": "Claude for Microsoft 365 add-in missing for some users",
           "status": "investigating",
-          "impact": "minor"
+          "impact": "major"
         }
       ]
     },
@@ -32,19 +32,9 @@
       "overall_status": "Minor Service Outage",
       "active_incidents": [
         {
-          "name": "Issues with Email Routing in France",
-          "status": "identified",
-          "impact": "minor"
-        },
-        {
           "name": "Magic Transit Degraded Performance",
           "status": "identified",
           "impact": "major"
-        },
-        {
-          "name": "Cloudflare Workers API \u2013 Delayed or Inconsistent Responses",
-          "status": "identified",
-          "impact": "minor"
         },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
