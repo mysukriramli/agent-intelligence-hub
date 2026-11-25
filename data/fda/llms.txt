@@ -1,6 +1,14 @@
 # openFDA Drug Enforcement & Recall Wire
 ## Recent Medical Recalls
 
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
+- **[Class I] IBeautiStore.com**: Marketed without approved NDA/ANDA- FDA laboratory analysis found product to be tainted with undeclared ingredients: Dexamethasone, Diclofenac and Omeprazole. (Reported: 20261118)
+- **[Class II] SUN PHARMACEUTICAL INDUSTRIES INC**: Failed Dissolution Specifications (Reported: 20261118)
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
+- **[Class II] ORL Labs LLC**: Cross-contamination: The firm was notified by the FDA of sampling results which found the presence of progesterone, estradiol, or dehydroepiandrosterone (DHEA) (Reported: 20261118)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
@@ -11,13 +19,5 @@
 - **[Class II] Fresenius Medical Care Renal Therapies Group, LLC**: Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots. (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] Fresenius Medical Care Renal Therapies Group, LLC**: Lack of Assurance of Sterility:complaints have been received related to potential leaks from small perforations in the print area on the primary bag in the affected lots. (Reported: 20261111)
-- **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
-- **[Class II] BioMed Laboratories, LLC.**: Failed Stability Specifications: OOS stability results included viscosity and appearance results that did not align with the established specifications. (Reported: 20261111)
-- **[Class II] BioMed Laboratories, LLC.**: Failed Stability Specifications: OOS stability results included viscosity and appearance results that did not align with the established specifications. (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)
 - **[Class II] Victory Medical Center Pharmacy**: Lack of Processing Controls (Reported: 20261111)

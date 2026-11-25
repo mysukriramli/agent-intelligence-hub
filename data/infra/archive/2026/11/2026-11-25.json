@@ -1,15 +1,21 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-25T01:47:50.737246+00:00",
+    "generated_at": "2026-11-25T16:34:55.797643+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
+      "overall_status": "Partial System Degradation",
+      "active_incidents": [
+        {
+          "name": "Elevated errors with Codex GitHub reviews and pull request merges",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
     },
     {
       "provider": "Anthropic",
@@ -24,18 +30,19 @@
     },
     {
       "provider": "GitHub",
-      "overall_status": "All Systems Operational",
-      "active_incidents": []
-    },
-    {
-      "provider": "Cloudflare",
       "overall_status": "Minor Service Outage",
       "active_incidents": [
         {
-          "name": "Magic Transit Degraded Performance",
-          "status": "identified",
-          "impact": "major"
-        },
+          "name": "Investigating degraded experiences across GitHub products",
+          "status": "investigating",
+          "impact": "critical"
+        }
+      ]
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",
