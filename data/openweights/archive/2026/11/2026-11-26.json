@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-26T01:23:32.955709+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "Aciv/webGrouding",
+      "last_modified": "2026-11-26T01:23:31.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "stdlogits/looped-lens",
+      "last_modified": "2026-11-26T01:23:29.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "momo0729/qwen3.5-0.8b-raft",
+      "last_modified": "2026-11-26T01:23:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "loom-draft/unsloth-Qwen2.5-Coder-0.5B-Instruct-loom",
+      "last_modified": "2026-11-26T01:23:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "openharness/Qwen3.5-4B-CalibForge500-E5-20261125",
+      "last_modified": "2026-11-26T01:23:25.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "mradermacher/HuatuoGPT-Vision-2-8B-GGUF",
+      "last_modified": "2026-11-26T01:23:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Susopita/LarpNet",
+      "last_modified": "2026-11-26T01:23:20.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "BurnyCoder/thirdloss-study",
+      "last_modified": "2026-11-26T01:23:15.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Vxtzq/Crowd-v1.5",
+      "last_modified": "2026-11-26T01:23:09.000Z",
+      "likes": 5,
+      "downloads": 8696,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "BurnyCoder/thirdloss-stories",
+      "last_modified": "2026-11-26T01:23:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "redsky17/smolvla-pick-orange-step2000",
+      "last_modified": "2026-11-26T01:23:09.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mmknnk/star-checkpoints",
+      "last_modified": "2026-11-26T01:22:52.000Z",
+      "likes": 2,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hyu-nlp-eva5/lexrubric_static_qwen3-4b_whole_rubric_s42",
+      "last_modified": "2026-11-26T01:22:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pranil00/ONIX-Qwen2.5-Coder-7B-Instruct-GGUF",
+      "last_modified": "2026-11-26T01:22:42.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dbishwarup/TagoreGPT-52M",
+      "last_modified": "2026-11-26T01:22:41.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "AserAlves/kairos-musetalk-env",
+      "last_modified": "2026-11-26T01:22:38.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mradermacher/lexi-2.3b-GGUF",
+      "last_modified": "2026-11-26T01:22:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-wikipedia-en-0.8K-s123-LoRA-v261125234455",
+      "last_modified": "2026-11-26T01:22:32.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "8Astral8/ACT_Soarm101_Task2_fix",
+      "last_modified": "2026-11-26T01:22:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "AbstractPhil/geolip-multirotary-diffusion-collective",
+      "last_modified": "2026-11-26T01:22:26.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "ausboss/MiniMax-H3-Image-Outpaint-LoRA",
+      "last_modified": "2026-11-26T01:22:14.000Z",
+      "likes": 11,
+      "downloads": 0,
+      "pipeline_tag": "image-to-image"
+    },
+    {
+      "model_id": "omaedn/arabic-chat-llm-v4-30b-4k-model",
+      "last_modified": "2026-11-26T01:22:02.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "mimba/mimba-tune",
+      "last_modified": "2026-11-26T01:21:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-to-audio"
+    },
+    {
+      "model_id": "294-288-pretrain-interaction-2/410M-rtp-v2",
+      "last_modified": "2026-11-26T01:21:46.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "steampunque/GLM-Z1-9B-0414-MP-GGUF",
+      "last_modified": "2026-11-26T01:21:28.000Z",
+      "likes": 2,
+      "downloads": 218,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}

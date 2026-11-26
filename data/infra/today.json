@@ -1,7 +1,7 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-25T16:34:55.797643+00:00",
+    "generated_at": "2026-11-26T01:23:32.634680+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
@@ -12,7 +12,7 @@
       "active_incidents": [
         {
           "name": "Elevated errors with Codex GitHub reviews and pull request merges",
-          "status": "identified",
+          "status": "monitoring",
           "impact": "minor"
         }
       ]
@@ -23,21 +23,15 @@
       "active_incidents": [
         {
           "name": "Claude for Microsoft 365 add-in missing for some users",
-          "status": "investigating",
+          "status": "identified",
           "impact": "major"
         }
       ]
     },
     {
       "provider": "GitHub",
-      "overall_status": "Minor Service Outage",
-      "active_incidents": [
-        {
-          "name": "Investigating degraded experiences across GitHub products",
-          "status": "investigating",
-          "impact": "critical"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Cloudflare",

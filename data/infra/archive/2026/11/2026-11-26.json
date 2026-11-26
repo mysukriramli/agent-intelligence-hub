@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "domain": "infra",
+    "generated_at": "2026-11-26T01:23:32.634680+00:00",
+    "total_items": 4,
+    "schema_version": "1.0.0"
+  },
+  "providers": [
+    {
+      "provider": "OpenAI",
+      "overall_status": "Partial System Degradation",
+      "active_incidents": [
+        {
+          "name": "Elevated errors with Codex GitHub reviews and pull request merges",
+          "status": "monitoring",
+          "impact": "minor"
+        }
+      ]
+    },
+    {
+      "provider": "Anthropic",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Claude for Microsoft 365 add-in missing for some users",
+          "status": "identified",
+          "impact": "major"
+        }
+      ]
+    },
+    {
+      "provider": "GitHub",
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
+    },
+    {
+      "provider": "Cloudflare",
+      "overall_status": "Partially Degraded Service",
+      "active_incidents": [
+        {
+          "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
+          "status": "identified",
+          "impact": "minor"
+        }
+      ]
+    }
+  ]
+}
