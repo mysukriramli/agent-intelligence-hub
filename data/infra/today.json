@@ -1,21 +1,15 @@
 {
   "metadata": {
     "domain": "infra",
-    "generated_at": "2026-11-26T01:23:32.634680+00:00",
+    "generated_at": "2026-11-26T16:07:32.805073+00:00",
     "total_items": 4,
     "schema_version": "1.0.0"
   },
   "providers": [
     {
       "provider": "OpenAI",
-      "overall_status": "Partial System Degradation",
-      "active_incidents": [
-        {
-          "name": "Elevated errors with Codex GitHub reviews and pull request merges",
-          "status": "monitoring",
-          "impact": "minor"
-        }
-      ]
+      "overall_status": "All Systems Operational",
+      "active_incidents": []
     },
     {
       "provider": "Anthropic",
@@ -37,6 +31,16 @@
       "provider": "Cloudflare",
       "overall_status": "Partially Degraded Service",
       "active_incidents": [
+        {
+          "name": "Cloudflare Dashboard and Cloudflare API service issues",
+          "status": "investigating",
+          "impact": "major"
+        },
+        {
+          "name": "AI Gateway \u2013 Elevated errors for Gemini 4 models using Unified Billing",
+          "status": "identified",
+          "impact": "minor"
+        },
         {
           "name": "Changes to Cloudflare Workers are not producing Event Subscription events",
           "status": "identified",
