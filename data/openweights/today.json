@@ -1,182 +1,182 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-26T16:07:33.273011+00:00",
+    "generated_at": "2026-11-27T01:21:15.938537+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "chenth/teacher-signals",
-      "last_modified": "2026-11-26T16:07:30.000Z",
+      "model_id": "sasankgurajapu/gsm8ksft-llama3.2-1B-lora",
+      "last_modified": "2026-11-27T01:21:13.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "figranium/androidfolate",
-      "last_modified": "2026-11-26T16:07:28.000Z",
+      "model_id": "huybik/hibiki-zero-vi-full-sft",
+      "last_modified": "2026-11-27T01:21:09.000Z",
       "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "zero-shot-classification"
+      "pipeline_tag": "audio-to-audio"
     },
     {
-      "model_id": "equinoxxm13/freefield-model-v1",
-      "last_modified": "2026-11-26T16:07:28.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "Unlearn-RL/gsm8k-grpo",
-      "last_modified": "2026-11-26T16:07:17.000Z",
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ8e",
+      "last_modified": "2026-11-27T01:21:00.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "speedy-ai/gemma-4-E2B-it-qat-q4_0-w4a16-ct-text-emb4",
-      "last_modified": "2026-11-26T16:07:15.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "andremarcelino/gpt2-estilo-neymar",
-      "last_modified": "2026-11-26T16:07:13.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-generation"
-    },
-    {
-      "model_id": "oxyllina/nochekaiser881",
-      "last_modified": "2026-11-26T16:07:10.000Z",
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ4e",
+      "last_modified": "2026-11-27T01:20:59.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "hanbin5/dino-wm-cloth-size",
-      "last_modified": "2026-11-26T16:07:10.000Z",
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ2e",
+      "last_modified": "2026-11-27T01:20:57.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "jaharoni/open-source-bounties",
-      "last_modified": "2026-11-26T16:07:05.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "EliovpAI/Inkling-2-Mini-W3-INT3-Paiton-RDNA4",
-      "last_modified": "2026-11-26T16:07:04.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "bretthenry/nm",
-      "last_modified": "2026-11-26T16:07:01.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "NamaRL/siren-models",
-      "last_modified": "2026-11-26T16:06:54.000Z",
-      "likes": 1,
-      "downloads": 189,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "shaohao011/LynnReal-Hand-Base-1.0",
-      "last_modified": "2026-11-26T16:06:51.000Z",
-      "likes": 2,
-      "downloads": 143,
-      "pipeline_tag": "image-to-video"
-    },
-    {
-      "model_id": "AbstractPhil/geolip-multirotary-diffusion-collective",
-      "last_modified": "2026-11-26T16:06:49.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "giorgettino/Specialist-ai",
-      "last_modified": "2026-11-26T16:06:48.000Z",
-      "likes": 1,
-      "downloads": 6450,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "thquangpc/gemma-4-31B-Queen-it-qat-q4_0-unquantized-GGUF",
-      "last_modified": "2026-11-26T16:06:46.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "any-to-any"
-    },
-    {
-      "model_id": "kandinskylab/Kandinsky-WM-1.5-AV",
-      "last_modified": "2026-11-26T16:06:44.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "image-to-video"
-    },
-    {
-      "model_id": "soudislam/captionlagao-models",
-      "last_modified": "2026-11-26T16:06:38.000Z",
-      "likes": 1,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ZhangYiqian/Active_Coding_Agent_ckps",
-      "last_modified": "2026-11-26T16:06:36.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ood-lab/continual-learning-checkpoints",
-      "last_modified": "2026-11-26T16:06:29.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "ood-lab/cl-relay-dtn-ex32",
-      "last_modified": "2026-11-26T16:06:28.000Z",
+      "model_id": "OstenA/fcgr-pfcgr-clade",
+      "last_modified": "2026-11-27T01:20:56.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
       "model_id": "dexpoint/bimanual-experiment-checkpoints-20261126",
-      "last_modified": "2026-11-26T16:06:19.000Z",
+      "last_modified": "2026-11-27T01:20:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "agentic-moral-alignment/qwen35-27b__ipd_str_tft__util__native_tool__r1__modal-ut-cal01",
+      "last_modified": "2026-11-27T01:20:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "zoarag/toghashie441",
-      "last_modified": "2026-11-26T16:06:16.000Z",
+      "model_id": "sumingbot/hlc2",
+      "last_modified": "2026-11-27T01:20:27.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "Spell-chest/pacman-marl-ckpts",
-      "last_modified": "2026-11-26T16:06:02.000Z",
+      "model_id": "yrpark/openvtla-gear_assembly-dagger_still-r3",
+      "last_modified": "2026-11-27T01:20:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thisisjimmy/DoomRunner",
+      "last_modified": "2026-11-27T01:20:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Rlayd36/smolvla_redblock",
+      "last_modified": "2026-11-27T01:20:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yangBJ133/imdb-sentiment-nn",
+      "last_modified": "2026-11-27T01:20:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-squad-en-6K-s1337-LoRA-mrg-v261127000059",
+      "last_modified": "2026-11-27T01:20:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "question-answering"
+    },
+    {
+      "model_id": "BurnyCoder/trigintaduonion-neural-network",
+      "last_modified": "2026-11-27T01:20:11.000Z",
       "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "unknown"
+      "pipeline_tag": "image-classification"
+    },
+    {
+      "model_id": "inferencerlabs/ERNIE-5.5-Flash-Preview-MLX",
+      "last_modified": "2026-11-27T01:20:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
     },
     {
       "model_id": "jssaluja/zipformer-large-sggs-ncer-train-196510-epochs-100-test-2246-data-1b48fed220",
-      "last_modified": "2026-11-26T16:05:59.000Z",
+      "last_modified": "2026-11-27T01:20:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "swampfire/2c98dafce5",
+      "last_modified": "2026-11-27T01:19:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rausch/mlo-moe-routing",
+      "last_modified": "2026-11-27T01:19:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yrpark/openvtla-gear_assembly-dagger_event_still-r3",
+      "last_modified": "2026-11-27T01:19:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alac/flan-t5-deslopV21-onnx",
+      "last_modified": "2026-11-27T01:19:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hamlab-princeton/wikispeedia-recovery-2026-11",
+      "last_modified": "2026-11-27T01:19:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-squad-en-6K-s1337-LoRA-v261127000059",
+      "last_modified": "2026-11-27T01:19:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "blearyhope/Inkling-2-Mini-Uncensored-GGUF",
+      "last_modified": "2026-11-27T01:19:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "wz7475/qwen2.5-7b-instruct-katcher-code-ewc-oasst1-r0.1",
+      "last_modified": "2026-11-27T01:19:34.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"

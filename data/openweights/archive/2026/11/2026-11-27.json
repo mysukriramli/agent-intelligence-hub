@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "domain": "openweights",
+    "generated_at": "2026-11-27T01:21:15.938537+00:00",
+    "total_items": 25,
+    "schema_version": "1.0.0"
+  },
+  "models": [
+    {
+      "model_id": "sasankgurajapu/gsm8ksft-llama3.2-1B-lora",
+      "last_modified": "2026-11-27T01:21:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "huybik/hibiki-zero-vi-full-sft",
+      "last_modified": "2026-11-27T01:21:09.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "audio-to-audio"
+    },
+    {
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ8e",
+      "last_modified": "2026-11-27T01:21:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ4e",
+      "last_modified": "2026-11-27T01:20:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "studio-rizi/Inkling-2-Mini-Unlock-MLX-oQ2e",
+      "last_modified": "2026-11-27T01:20:57.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "OstenA/fcgr-pfcgr-clade",
+      "last_modified": "2026-11-27T01:20:56.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dexpoint/bimanual-experiment-checkpoints-20261126",
+      "last_modified": "2026-11-27T01:20:44.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "robotics"
+    },
+    {
+      "model_id": "agentic-moral-alignment/qwen35-27b__ipd_str_tft__util__native_tool__r1__modal-ut-cal01",
+      "last_modified": "2026-11-27T01:20:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "sumingbot/hlc2",
+      "last_modified": "2026-11-27T01:20:27.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yrpark/openvtla-gear_assembly-dagger_still-r3",
+      "last_modified": "2026-11-27T01:20:14.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "thisisjimmy/DoomRunner",
+      "last_modified": "2026-11-27T01:20:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "Rlayd36/smolvla_redblock",
+      "last_modified": "2026-11-27T01:20:13.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yangBJ133/imdb-sentiment-nn",
+      "last_modified": "2026-11-27T01:20:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-classification"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-squad-en-6K-s1337-LoRA-mrg-v261127000059",
+      "last_modified": "2026-11-27T01:20:12.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "question-answering"
+    },
+    {
+      "model_id": "BurnyCoder/trigintaduonion-neural-network",
+      "last_modified": "2026-11-27T01:20:11.000Z",
+      "likes": 1,
+      "downloads": 0,
+      "pipeline_tag": "image-classification"
+    },
+    {
+      "model_id": "inferencerlabs/ERNIE-5.5-Flash-Preview-MLX",
+      "last_modified": "2026-11-27T01:20:06.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "jssaluja/zipformer-large-sggs-ncer-train-196510-epochs-100-test-2246-data-1b48fed220",
+      "last_modified": "2026-11-27T01:20:05.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "swampfire/2c98dafce5",
+      "last_modified": "2026-11-27T01:19:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "rausch/mlo-moe-routing",
+      "last_modified": "2026-11-27T01:19:58.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "yrpark/openvtla-gear_assembly-dagger_event_still-r3",
+      "last_modified": "2026-11-27T01:19:43.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alac/flan-t5-deslopV21-onnx",
+      "last_modified": "2026-11-27T01:19:41.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "hamlab-princeton/wikispeedia-recovery-2026-11",
+      "last_modified": "2026-11-27T01:19:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "alxxtexxr/XLM-R-Base-squad-en-6K-s1337-LoRA-v261127000059",
+      "last_modified": "2026-11-27T01:19:36.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "blearyhope/Inkling-2-Mini-Uncensored-GGUF",
+      "last_modified": "2026-11-27T01:19:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "wz7475/qwen2.5-7b-instruct-katcher-code-ewc-oasst1-r0.1",
+      "last_modified": "2026-11-27T01:19:34.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    }
+  ]
+}
