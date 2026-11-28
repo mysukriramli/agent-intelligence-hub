@@ -1,185 +1,185 @@
 {
   "metadata": {
     "domain": "openweights",
-    "generated_at": "2026-11-28T00:55:40.199909+00:00",
+    "generated_at": "2026-11-28T14:50:34.183799+00:00",
     "total_items": 25,
     "schema_version": "1.0.0"
   },
   "models": [
     {
-      "model_id": "winterandchaiyun/ntl-colab-checkpoints",
-      "last_modified": "2026-11-28T00:55:38.000Z",
+      "model_id": "Vinayybg/annopilot-rfdetr-large-taco",
+      "last_modified": "2026-11-28T14:50:32.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "mradermacher/Qlaude-full-i1-GGUF",
-      "last_modified": "2026-11-28T00:55:19.000Z",
+      "model_id": "daruokta/bifocalgemma-2it-2it",
+      "last_modified": "2026-11-28T14:50:31.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "17A9/UseJ2ayOfgZM6Nyg",
-      "last_modified": "2026-11-28T00:55:13.000Z",
+      "model_id": "netprojects/Qwen3.8-27B-pi-adapted-MLX-3bit",
+      "last_modified": "2026-11-28T14:50:31.000Z",
       "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "17A9/9vB0vJLMBBt1mu6Y",
-      "last_modified": "2026-11-28T00:55:13.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "17A9/XpAxot6h0YEDBsv6",
-      "last_modified": "2026-11-28T00:55:09.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "Motubrain/Motubrain2.0-Distill",
-      "last_modified": "2026-11-28T00:55:08.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "17A9/clsxS9W2gTE41PlM",
-      "last_modified": "2026-11-28T00:55:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "17A9/kQy3LZvFkvwRMtMU",
-      "last_modified": "2026-11-28T00:55:07.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "17A9/D63yQ0UjnIJ86jPE",
-      "last_modified": "2026-11-28T00:55:06.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "AbstractPhil/geolip-multirotary-diffusion-collective",
-      "last_modified": "2026-11-28T00:55:03.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "minas2025/pixel-forge-zimage-turbo",
-      "last_modified": "2026-11-28T00:55:02.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "unknown"
-    },
-    {
-      "model_id": "AbstractPhil/glm-4.6v-flash-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:52.000Z",
-      "likes": 0,
-      "downloads": 57,
+      "downloads": 75,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "dexpoint/bimanual-experiment-checkpoints-20261126",
-      "last_modified": "2026-11-28T00:54:51.000Z",
+      "model_id": "netprojects/Qwen3.8-27B-pi-adapted-MLX-2.5bit",
+      "last_modified": "2026-11-28T14:50:28.000Z",
       "likes": 0,
+      "downloads": 59,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-opencode-adapted-MLX-bf16",
+      "last_modified": "2026-11-28T14:50:26.000Z",
+      "likes": 1,
+      "downloads": 508,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "Tonic/drone-detectonic-0.1-code",
+      "last_modified": "2026-11-28T14:50:25.000Z",
+      "likes": 1,
+      "downloads": 29,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-opencode-adapted-MLX-8bit",
+      "last_modified": "2026-11-28T14:50:24.000Z",
+      "likes": 1,
+      "downloads": 571,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "inferencerlabs/Ling-3.1-flash-1019-MLX-Q6",
+      "last_modified": "2026-11-28T14:50:24.000Z",
+      "likes": 1,
       "downloads": 0,
-      "pipeline_tag": "robotics"
+      "pipeline_tag": "text-generation"
     },
     {
-      "model_id": "AbstractPhil/north-micro-vision-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:50.000Z",
-      "likes": 0,
-      "downloads": 76,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-0.8b-think-symbolic-image-nc",
-      "last_modified": "2026-11-28T00:54:48.000Z",
-      "likes": 0,
-      "downloads": 18,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-0.8b-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:45.000Z",
-      "likes": 0,
-      "downloads": 138,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-2b-think-symbolic-image-nc",
-      "last_modified": "2026-11-28T00:54:43.000Z",
-      "likes": 0,
-      "downloads": 33,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "TujiaNLP/tujia-tts-v0.5",
-      "last_modified": "2026-11-28T00:54:43.000Z",
-      "likes": 0,
-      "downloads": 0,
-      "pipeline_tag": "text-to-speech"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-2b-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:41.000Z",
-      "likes": 0,
-      "downloads": 111,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-4b-think-symbolic-image-nc",
-      "last_modified": "2026-11-28T00:54:39.000Z",
-      "likes": 0,
-      "downloads": 51,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "AbstractPhil/qwen3.5-4b-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:36.000Z",
-      "likes": 0,
-      "downloads": 205,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "eric-h-christ/clubroom",
-      "last_modified": "2026-11-28T00:54:36.000Z",
+      "model_id": "16A3/5EiDIRS9Ptbksnqe",
+      "last_modified": "2026-11-28T14:50:23.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
     },
     {
-      "model_id": "AbstractPhil/qwen3.5-9b-think-symbolic-image-nc",
-      "last_modified": "2026-11-28T00:54:34.000Z",
+      "model_id": "netprojects/Qwen3.8-27B-opencode-adapted-MLX-6bit",
+      "last_modified": "2026-11-28T14:50:22.000Z",
       "likes": 0,
-      "downloads": 50,
+      "downloads": 187,
       "pipeline_tag": "image-text-to-text"
     },
     {
-      "model_id": "AbstractPhil/qwen3.5-9b-think-symbolic-image",
-      "last_modified": "2026-11-28T00:54:32.000Z",
-      "likes": 0,
-      "downloads": 259,
-      "pipeline_tag": "image-text-to-text"
-    },
-    {
-      "model_id": "mradermacher/Jah-8.0-i1-GGUF",
-      "last_modified": "2026-11-28T00:54:28.000Z",
+      "model_id": "16A3/aqAuHzxuSBZPj62X",
+      "last_modified": "2026-11-28T14:50:21.000Z",
       "likes": 0,
       "downloads": 0,
       "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "dalatexcoder/LFM3-1.7B-heretic-MLX-6Bit",
+      "last_modified": "2026-11-28T14:50:21.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-opencode-adapted-MLX-4bit",
+      "last_modified": "2026-11-28T14:50:20.000Z",
+      "likes": 7,
+      "downloads": 927,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-opencode-adapted-MLX-3bit",
+      "last_modified": "2026-11-28T14:50:18.000Z",
+      "likes": 0,
+      "downloads": 54,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-bf16",
+      "last_modified": "2026-11-28T14:50:15.000Z",
+      "likes": 0,
+      "downloads": 143,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-8bit",
+      "last_modified": "2026-11-28T14:50:13.000Z",
+      "likes": 0,
+      "downloads": 108,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-6bit",
+      "last_modified": "2026-11-28T14:50:11.000Z",
+      "likes": 1,
+      "downloads": 395,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "SimpleTuner/hdit-plus-128px-cc12m-json",
+      "last_modified": "2026-11-28T14:50:10.000Z",
+      "likes": 0,
+      "downloads": 1359,
+      "pipeline_tag": "text-to-image"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-4bit",
+      "last_modified": "2026-11-28T14:50:09.000Z",
+      "likes": 0,
+      "downloads": 155,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-3bit",
+      "last_modified": "2026-11-28T14:50:07.000Z",
+      "likes": 1,
+      "downloads": 396,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "netprojects/Qwen3.8-27B-hermes-adapted-MLX-2.5bit",
+      "last_modified": "2026-11-28T14:50:05.000Z",
+      "likes": 0,
+      "downloads": 64,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "netprojects/Qwen-Concept-27B-MLX-4bit",
+      "last_modified": "2026-11-28T14:50:01.000Z",
+      "likes": 0,
+      "downloads": 91,
+      "pipeline_tag": "image-text-to-text"
+    },
+    {
+      "model_id": "jtaylorexe/Pragma-1-2B-WGSL",
+      "last_modified": "2026-11-28T14:50:00.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "unknown"
+    },
+    {
+      "model_id": "pranil00/Phi-3-mini-4k-instruct-bnb-4bit-BYM",
+      "last_modified": "2026-11-28T14:49:59.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "text-generation"
+    },
+    {
+      "model_id": "dalatexcoder/LFM3-1.7B-heretic-MLX-8Bit",
+      "last_modified": "2026-11-28T14:49:55.000Z",
+      "likes": 0,
+      "downloads": 0,
+      "pipeline_tag": "image-text-to-text"
     }
   ]
 }
